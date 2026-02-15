@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-02-15T00:00:00Z",
+  "totalVideos": 5,
+  "videos": [
+    {
+      "videoId": "abc123def45",
+      "title": "UK immigration policy: What changes are being made? - BBC News",
+      "publishedAt": "2025-11-15",
+      "segmentCount": 42
+    },
+    {
+      "videoId": "ghi678jkl90",
+      "title": "NHS waiting lists hit record high - BBC News",
+      "publishedAt": "2025-12-03",
+      "segmentCount": 38
+    },
+    {
+      "videoId": "mno234pqr56",
+      "title": "Cost of living crisis: How are families coping? - BBC News",
+      "publishedAt": "2025-10-22",
+      "segmentCount": 45
+    },
+    {
+      "videoId": "stu789vwx01",
+      "title": "Brexit trade deal: What does it mean for UK businesses? - BBC News",
+      "publishedAt": "2025-09-18",
+      "segmentCount": 40
+    },
+    {
+      "videoId": "yza345bcd67",
+      "title": "Climate change: UK's net zero targets under scrutiny - BBC News",
+      "publishedAt": "2025-11-28",
+      "segmentCount": 36
+    }
+  ]
+}

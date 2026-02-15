@@ -1,0 +1,89 @@
+{
+  "immigration": [
+    { "term": "borders", "score": 0.89 },
+    { "term": "asylum", "score": 0.85 },
+    { "term": "migrants", "score": 0.83 },
+    { "term": "visa", "score": 0.78 },
+    { "term": "deportation", "score": 0.72 },
+    { "term": "channel", "score": 0.68 },
+    { "term": "workforce", "score": 0.55 },
+    { "term": "NHS", "score": 0.48 }
+  ],
+  "NHS": [
+    { "term": "waiting", "score": 0.91 },
+    { "term": "hospital", "score": 0.88 },
+    { "term": "doctors", "score": 0.82 },
+    { "term": "nurses", "score": 0.79 },
+    { "term": "treatment", "score": 0.76 },
+    { "term": "ambulance", "score": 0.71 },
+    { "term": "cancer", "score": 0.65 },
+    { "term": "staffing", "score": 0.58 }
+  ],
+  "economy": [
+    { "term": "growth", "score": 0.87 },
+    { "term": "inflation", "score": 0.84 },
+    { "term": "recession", "score": 0.78 },
+    { "term": "employment", "score": 0.73 },
+    { "term": "trade", "score": 0.69 },
+    { "term": "investment", "score": 0.62 },
+    { "term": "productivity", "score": 0.55 }
+  ],
+  "housing": [
+    { "term": "rent", "score": 0.90 },
+    { "term": "mortgage", "score": 0.86 },
+    { "term": "property", "score": 0.82 },
+    { "term": "landlords", "score": 0.75 },
+    { "term": "homelessness", "score": 0.70 },
+    { "term": "planning", "score": 0.58 }
+  ],
+  "climate": [
+    { "term": "emissions", "score": 0.92 },
+    { "term": "renewable", "score": 0.87 },
+    { "term": "carbon", "score": 0.84 },
+    { "term": "flooding", "score": 0.76 },
+    { "term": "energy", "score": 0.72 },
+    { "term": "green", "score": 0.68 },
+    { "term": "temperature", "score": 0.60 }
+  ],
+  "brexit": [
+    { "term": "trade", "score": 0.91 },
+    { "term": "EU", "score": 0.89 },
+    { "term": "border", "score": 0.83 },
+    { "term": "customs", "score": 0.78 },
+    { "term": "tariffs", "score": 0.72 },
+    { "term": "sovereignty", "score": 0.65 },
+    { "term": "single market", "score": 0.62 }
+  ],
+  "cost of living": [
+    { "term": "inflation", "score": 0.93 },
+    { "term": "prices", "score": 0.90 },
+    { "term": "energy bills", "score": 0.87 },
+    { "term": "food", "score": 0.82 },
+    { "term": "wages", "score": 0.76 },
+    { "term": "poverty", "score": 0.71 },
+    { "term": "mortgage", "score": 0.65 }
+  ],
+  "education": [
+    { "term": "schools", "score": 0.90 },
+    { "term": "teachers", "score": 0.86 },
+    { "term": "university", "score": 0.80 },
+    { "term": "students", "score": 0.77 },
+    { "term": "funding", "score": 0.68 },
+    { "term": "curriculum", "score": 0.60 }
+  ],
+  "crime": [
+    { "term": "police", "score": 0.91 },
+    { "term": "violence", "score": 0.84 },
+    { "term": "prison", "score": 0.78 },
+    { "term": "knife", "score": 0.73 },
+    { "term": "sentencing", "score": 0.66 }
+  ],
+  "energy": [
+    { "term": "oil", "score": 0.88 },
+    { "term": "gas", "score": 0.86 },
+    { "term": "renewable", "score": 0.82 },
+    { "term": "nuclear", "score": 0.75 },
+    { "term": "wind", "score": 0.72 },
+    { "term": "bills", "score": 0.68 }
+  ]
+}
