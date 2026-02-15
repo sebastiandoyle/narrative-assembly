@@ -101,22 +101,30 @@ describe("NarrativePlayer", () => {
     expect(progressButtons.length).toBe(3);
   });
 
-  it("renders a pause/play toggle button", () => {
+  it("renders a 'Keep watching' button for stopping auto-advance", () => {
     render(
       <NarrativePlayer clips={mockClips} activeIndex={0} onClipChange={() => {}} />
     );
 
-    const pauseButton = screen.getByRole("button", { name: /pause auto-advance/i });
-    expect(pauseButton).toBeInTheDocument();
+    const keepWatchingButton = screen.getByRole("button", { name: /stop auto-advance/i });
+    expect(keepWatchingButton).toBeInTheDocument();
   });
 
-  it("toggles aria-label between pause and resume on click", () => {
+  it("shows 'Resume clips' after clicking 'Keep watching'", () => {
     render(
       <NarrativePlayer clips={mockClips} activeIndex={0} onClipChange={() => {}} />
     );
 
-    const button = screen.getByRole("button", { name: /pause auto-advance/i });
-    fireEvent.click(button);
+    const keepWatchingButton = screen.getByRole("button", { name: /stop auto-advance/i });
+    fireEvent.click(keepWatchingButton);
     expect(screen.getByRole("button", { name: /resume auto-advance/i })).toBeInTheDocument();
+  });
+
+  it("shows countdown text while auto-advancing", () => {
+    render(
+      <NarrativePlayer clips={mockClips} activeIndex={0} onClipChange={() => {}} />
+    );
+
+    expect(screen.getByText(/until next clip/i)).toBeInTheDocument();
   });
 });
