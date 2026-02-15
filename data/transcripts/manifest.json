@@ -1,36 +1,120 @@
 {
   "generatedAt": "2026-02-15T00:00:00Z",
-  "totalVideos": 5,
+  "totalVideos": 19,
   "videos": [
     {
-      "videoId": "abc123def45",
-      "title": "UK immigration policy: What changes are being made? - BBC News",
-      "publishedAt": "2025-11-15",
-      "segmentCount": 42
+      "videoId": "04fpIZHFxRg",
+      "title": "The UK Prime Minister faces a call to resign, but can he rally MPs and keep his job? | BBC Newscast",
+      "publishedAt": "2026-02-09",
+      "segmentCount": 213
     },
     {
-      "videoId": "ghi678jkl90",
-      "title": "NHS waiting lists hit record high - BBC News",
-      "publishedAt": "2025-12-03",
-      "segmentCount": 38
+      "videoId": "0ePoKFp96Ug",
+      "title": "Morgan McSweeney resigns as UK PM\u2019s chief of staff following Mandelson scandal | BBC News",
+      "publishedAt": "2026-02-08",
+      "segmentCount": 89
     },
     {
-      "videoId": "mno234pqr56",
-      "title": "Cost of living crisis: How are families coping? - BBC News",
-      "publishedAt": "2025-10-22",
+      "videoId": "7B8qi9jdyEw",
+      "title": "Why are concerns about immigration branded far right? | BBC News",
+      "publishedAt": "2025-10-03",
+      "segmentCount": 107
+    },
+    {
+      "videoId": "AJPVHRwNgtQ",
+      "title": "Keir Starmer holds on as UK Prime Minister, but is his job safe? | BBC Newscast",
+      "publishedAt": "2026-02-10",
+      "segmentCount": 280
+    },
+    {
+      "videoId": "BASNGHKO3Qw",
+      "title": "UK and France unveil new 'one in, one out' migrant deal | BBC News",
+      "publishedAt": "2025-07-10",
+      "segmentCount": 68
+    },
+    {
+      "videoId": "BsLH-Xfe1tM",
+      "title": "Is Keir Starmer now a 'lame duck' Prime Minister?\u00a0| BBC Question Time",
+      "publishedAt": "2026-02-13",
+      "segmentCount": 111
+    },
+    {
+      "videoId": "FElXfOQEOyY",
+      "title": "What\u2019s in the UK government\u2019s new illegal immigration plan? | BBC Newscast",
+      "publishedAt": "2025-11-16",
+      "segmentCount": 207
+    },
+    {
+      "videoId": "HPojscAIbQE",
+      "title": "Zelensky: European unity is 'best weapon' against Russia | BBC News",
+      "publishedAt": "2026-02-14",
+      "segmentCount": 99
+    },
+    {
+      "videoId": "LZnjXjqE9-w",
+      "title": "UK Prime Minister Keir Starmer's moment of peril | BBC News",
+      "publishedAt": "2026-02-10",
+      "segmentCount": 62
+    },
+    {
+      "videoId": "M40NdaTnMqk",
+      "title": "Trump revokes landmark ruling that greenhouse gases endanger public health | BBC News",
+      "publishedAt": "2026-02-13",
+      "segmentCount": 41
+    },
+    {
+      "videoId": "Mi9qiOe4ezI",
+      "title": "UK net migration down 80% from its peak in 2023 | BBC News",
+      "publishedAt": "2025-11-27",
+      "segmentCount": 31
+    },
+    {
+      "videoId": "UyaZFR5mOMk",
+      "title": "UK Prime Minister facing calls to resign over ambassador\u2019s Epstein links | BBC News",
+      "publishedAt": "2026-02-09",
       "segmentCount": 45
     },
     {
-      "videoId": "stu789vwx01",
-      "title": "Brexit trade deal: What does it mean for UK businesses? - BBC News",
-      "publishedAt": "2025-09-18",
+      "videoId": "XFH8aGBjA6U",
+      "title": "UK home secretary announces some migrants will face 20 year wait for settled status | BBC News",
+      "publishedAt": "2025-11-20",
       "segmentCount": 40
     },
     {
-      "videoId": "yza345bcd67",
-      "title": "Climate change: UK's net zero targets under scrutiny - BBC News",
-      "publishedAt": "2025-11-28",
-      "segmentCount": 36
+      "videoId": "XIvoJsaBpIc",
+      "title": "How did Keir Starmer survive the week? | BBC News",
+      "publishedAt": "2026-02-13",
+      "segmentCount": 182
+    },
+    {
+      "videoId": "ZOlktUrAg0k",
+      "title": "Russia killed Alexei Navalny using dart frog toxin, UK says | BBC News",
+      "publishedAt": "2026-02-14",
+      "segmentCount": 28
+    },
+    {
+      "videoId": "hJLI6XwDQ3A",
+      "title": "Manchester United co-owner sorry language 'offended some' after immigration comments | BBC Newscast",
+      "publishedAt": "2026-02-12",
+      "segmentCount": 230
+    },
+    {
+      "videoId": "lKZ8IgShob0",
+      "title": "UK PM Keir Starmer calls Reform\u2019s migrant plans \u2018racist and immoral\u2019 | BBC News",
+      "publishedAt": "2025-09-28",
+      "segmentCount": 177
+    },
+    {
+      "videoId": "lN3hXW4f3rg",
+      "title": "What are the latest problems for UK Prime Minister Keir Starmer? | BBC Newscast",
+      "publishedAt": "2026-02-12",
+      "segmentCount": 215
+    },
+    {
+      "videoId": "q9tKaMYWxO4",
+      "title": "Instagram and YouTube owners built 'addiction machines', trial hears | BBC News",
+      "publishedAt": "2026-02-10",
+      "segmentCount": 29
     }
   ]
 }

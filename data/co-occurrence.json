@@ -1,30 +1,30 @@
 {
   "immigration": [
+    { "term": "migrants", "score": 0.92 },
     { "term": "borders", "score": 0.89 },
     { "term": "asylum", "score": 0.85 },
-    { "term": "migrants", "score": 0.83 },
     { "term": "visa", "score": 0.78 },
     { "term": "deportation", "score": 0.72 },
     { "term": "channel", "score": 0.68 },
-    { "term": "workforce", "score": 0.55 },
-    { "term": "NHS", "score": 0.48 }
+    { "term": "reform", "score": 0.55 },
+    { "term": "nhs", "score": 0.48 }
   ],
-  "NHS": [
+  "nhs": [
     { "term": "waiting", "score": 0.91 },
     { "term": "hospital", "score": 0.88 },
     { "term": "doctors", "score": 0.82 },
     { "term": "nurses", "score": 0.79 },
-    { "term": "treatment", "score": 0.76 },
+    { "term": "health", "score": 0.76 },
     { "term": "ambulance", "score": 0.71 },
-    { "term": "cancer", "score": 0.65 },
+    { "term": "care", "score": 0.65 },
     { "term": "staffing", "score": 0.58 }
   ],
   "economy": [
     { "term": "growth", "score": 0.87 },
     { "term": "inflation", "score": 0.84 },
     { "term": "recession", "score": 0.78 },
-    { "term": "employment", "score": 0.73 },
-    { "term": "trade", "score": 0.69 },
+    { "term": "trade", "score": 0.73 },
+    { "term": "jobs", "score": 0.69 },
     { "term": "investment", "score": 0.62 },
     { "term": "productivity", "score": 0.55 }
   ],
@@ -43,33 +43,61 @@
     { "term": "flooding", "score": 0.76 },
     { "term": "energy", "score": 0.72 },
     { "term": "green", "score": 0.68 },
-    { "term": "temperature", "score": 0.60 }
+    { "term": "change", "score": 0.65 }
   ],
   "brexit": [
     { "term": "trade", "score": 0.91 },
-    { "term": "EU", "score": 0.89 },
+    { "term": "eu", "score": 0.89 },
     { "term": "border", "score": 0.83 },
     { "term": "customs", "score": 0.78 },
     { "term": "tariffs", "score": 0.72 },
-    { "term": "sovereignty", "score": 0.65 },
-    { "term": "single market", "score": 0.62 }
+    { "term": "sovereignty", "score": 0.65 }
+  ],
+  "starmer": [
+    { "term": "labour", "score": 0.94 },
+    { "term": "prime minister", "score": 0.91 },
+    { "term": "resign", "score": 0.78 },
+    { "term": "mandelson", "score": 0.72 },
+    { "term": "government", "score": 0.68 },
+    { "term": "epstein", "score": 0.55 }
+  ],
+  "epstein": [
+    { "term": "mandelson", "score": 0.93 },
+    { "term": "scandal", "score": 0.88 },
+    { "term": "resign", "score": 0.82 },
+    { "term": "ambassador", "score": 0.75 },
+    { "term": "starmer", "score": 0.68 },
+    { "term": "files", "score": 0.62 }
+  ],
+  "russia": [
+    { "term": "ukraine", "score": 0.95 },
+    { "term": "war", "score": 0.89 },
+    { "term": "navalny", "score": 0.78 },
+    { "term": "security", "score": 0.72 },
+    { "term": "europe", "score": 0.65 },
+    { "term": "sanctions", "score": 0.58 }
+  ],
+  "reform": [
+    { "term": "immigration", "score": 0.88 },
+    { "term": "farage", "score": 0.82 },
+    { "term": "conservative", "score": 0.75 },
+    { "term": "labour", "score": 0.68 },
+    { "term": "election", "score": 0.62 }
   ],
   "cost of living": [
     { "term": "inflation", "score": 0.93 },
     { "term": "prices", "score": 0.90 },
-    { "term": "energy bills", "score": 0.87 },
+    { "term": "energy", "score": 0.87 },
     { "term": "food", "score": 0.82 },
     { "term": "wages", "score": 0.76 },
-    { "term": "poverty", "score": 0.71 },
-    { "term": "mortgage", "score": 0.65 }
+    { "term": "poverty", "score": 0.71 }
   ],
   "education": [
     { "term": "schools", "score": 0.90 },
     { "term": "teachers", "score": 0.86 },
     { "term": "university", "score": 0.80 },
     { "term": "students", "score": 0.77 },
-    { "term": "funding", "score": 0.68 },
-    { "term": "curriculum", "score": 0.60 }
+    { "term": "funding", "score": 0.68 }
   ],
   "crime": [
     { "term": "police", "score": 0.91 },
@@ -85,5 +113,27 @@
     { "term": "nuclear", "score": 0.75 },
     { "term": "wind", "score": 0.72 },
     { "term": "bills", "score": 0.68 }
+  ],
+  "trump": [
+    { "term": "tariffs", "score": 0.88 },
+    { "term": "america", "score": 0.85 },
+    { "term": "trade", "score": 0.78 },
+    { "term": "climate", "score": 0.65 },
+    { "term": "nato", "score": 0.60 }
+  ],
+  "migrants": [
+    { "term": "asylum", "score": 0.90 },
+    { "term": "channel", "score": 0.85 },
+    { "term": "boats", "score": 0.80 },
+    { "term": "deportation", "score": 0.72 },
+    { "term": "housing", "score": 0.58 }
+  ],
+  "mandelson": [
+    { "term": "epstein", "score": 0.93 },
+    { "term": "starmer", "score": 0.88 },
+    { "term": "resign", "score": 0.82 },
+    { "term": "scandal", "score": 0.78 },
+    { "term": "ambassador", "score": 0.72 },
+    { "term": "peter", "score": 0.68 }
   ]
 }

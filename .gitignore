@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# raw transcript downloads (large, not committed)
+/raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
