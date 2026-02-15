@@ -6,7 +6,7 @@ import type { SearchRequest, SearchResponse, ErrorResponse } from "@/lib/types";
 
 describe("search API route", () => {
   it("returns search results for a valid query", async () => {
-    const { POST } = await import("@/app/api/search/route");
+    const { POST } = await import("@/src/app/api/search/route");
 
     const request = new Request("http://localhost:3000/api/search", {
       method: "POST",
@@ -27,7 +27,7 @@ describe("search API route", () => {
   });
 
   it("returns error for empty query", async () => {
-    const { POST } = await import("@/app/api/search/route");
+    const { POST } = await import("@/src/app/api/search/route");
 
     const request = new Request("http://localhost:3000/api/search", {
       method: "POST",
@@ -45,7 +45,7 @@ describe("search API route", () => {
   });
 
   it("returns clips with correct structure", async () => {
-    const { POST } = await import("@/app/api/search/route");
+    const { POST } = await import("@/src/app/api/search/route");
 
     const request = new Request("http://localhost:3000/api/search", {
       method: "POST",
@@ -74,7 +74,7 @@ describe("search API route", () => {
   });
 
   it("respects maxClips parameter", async () => {
-    const { POST } = await import("@/app/api/search/route");
+    const { POST } = await import("@/src/app/api/search/route");
 
     const request = new Request("http://localhost:3000/api/search", {
       method: "POST",

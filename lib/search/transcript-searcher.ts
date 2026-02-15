@@ -29,29 +29,43 @@ export function loadTranscript(videoId: string): TranscriptFile | null {
 }
 
 /**
- * Search all transcripts for segments matching the expanded keywords.
+ * Load all transcripts from disk.
+ */
+export function loadAllTranscripts(): TranscriptFile[] {
+  const manifest = loadManifest();
+  const transcripts: TranscriptFile[] = [];
+  for (const video of manifest.videos) {
+    const t = loadTranscript(video.videoId);
+    if (t) transcripts.push(t);
+  }
+  return transcripts;
+}
+
+/**
+ * Search transcripts for segments matching the expanded keywords.
  * Each segment is scored by the weighted sum of matching keywords.
  * Results are deduplicated (overlapping clips from same video merged)
  * and sorted by score descending.
+ *
+ * @param transcripts - Array of transcript files to search through
+ * @param keywords - Expanded keywords with weights
+ * @param maxClips - Maximum number of clips to return (default 15)
  */
 export function searchTranscripts(
+  transcripts: TranscriptFile[],
   keywords: ExpandedKeyword[],
   maxClips: number = 15
 ): ClipMatch[] {
-  const manifest = loadManifest();
   const allMatches: ClipMatch[] = [];
 
-  for (const video of manifest.videos) {
-    const transcript = loadTranscript(video.videoId);
-    if (!transcript) continue;
-
+  for (const transcript of transcripts) {
     for (const segment of transcript.segments) {
       const textLower = segment.text.toLowerCase();
       let score = 0;
       const matchedKeywords: string[] = [];
 
       for (const kw of keywords) {
-        if (textLower.includes(kw.term.toLowerCase())) {
+        if (kw.term && textLower.includes(kw.term.toLowerCase())) {
           score += kw.weight;
           matchedKeywords.push(kw.term);
         }

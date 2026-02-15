@@ -1,18 +1,16 @@
 import { NextResponse } from "next/server";
 import { fetchRedditTopics } from "@/lib/reddit/topics";
-import type { RedditTopicsResponse, ErrorResponse } from "@/lib/types";
+import type { ErrorResponse } from "@/lib/types";
 
 export async function GET() {
   try {
-    const { topics, cached } = await fetchRedditTopics();
+    const topics = await fetchRedditTopics();
 
-    const response: RedditTopicsResponse = {
+    return NextResponse.json({
       success: true,
       topics,
-      cached,
-    };
-
-    return NextResponse.json(response);
+      cached: false,
+    });
   } catch {
     const error: ErrorResponse = {
       success: false,

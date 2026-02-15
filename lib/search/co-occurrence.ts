@@ -4,20 +4,23 @@ import coOccurrenceData from "../../data/co-occurrence.json";
 const index: CoOccurrenceIndex = coOccurrenceData as CoOccurrenceIndex;
 
 /**
- * Get co-occurring terms for a given term from the pre-built index.
- * Returns terms that statistically appear alongside the query term
- * in the transcript corpus, sorted by co-occurrence score.
+ * Load the full co-occurrence index.
  */
-export function getCoOccurringTerms(
+export function loadCoOccurrenceIndex(): CoOccurrenceIndex {
+  return index;
+}
+
+/**
+ * Get co-occurring terms for a given term from the pre-built index.
+ * Case-insensitive lookup. Returns terms sorted by score descending.
+ */
+export function lookupCoOccurrences(
   term: string
 ): { term: string; score: number }[] {
   const lower = term.toLowerCase();
   return index[lower] ?? [];
 }
 
-/**
- * Get the full co-occurrence index.
- */
-export function getCoOccurrenceIndex(): CoOccurrenceIndex {
-  return index;
-}
+// Aliases for backward compatibility
+export const getCoOccurrenceIndex = loadCoOccurrenceIndex;
+export const getCoOccurringTerms = lookupCoOccurrences;

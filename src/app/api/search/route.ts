@@ -1,6 +1,9 @@
 import { NextRequest, NextResponse } from "next/server";
 import { expandKeywords } from "@/lib/search/keyword-expander";
-import { searchTranscripts } from "@/lib/search/transcript-searcher";
+import {
+  searchTranscripts,
+  loadAllTranscripts,
+} from "@/lib/search/transcript-searcher";
 import type { SearchResponse, ErrorResponse } from "@/lib/types";
 
 export async function POST(request: NextRequest) {
@@ -22,8 +25,9 @@ export async function POST(request: NextRequest) {
     // 1. Expand keywords
     const expandedKeywords = expandKeywords(trimmedQuery);
 
-    // 2. Search transcripts
-    const clips = searchTranscripts(expandedKeywords, maxClips);
+    // 2. Load transcripts and search
+    const transcripts = loadAllTranscripts();
+    const clips = searchTranscripts(transcripts, expandedKeywords, maxClips);
 
     const searchTimeMs = Date.now() - startTime;
 

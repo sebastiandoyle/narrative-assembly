@@ -26,7 +26,7 @@ describe("reddit-topics API route", () => {
                 data: {
                   title: "Immigration debate heats up in Parliament",
                   score: 1500,
-                  url: "https://reddit.com/r/ukpolitics/comments/test/immigration/",
+                  permalink: "/r/ukpolitics/comments/test/immigration/",
                   num_comments: 200,
                   selftext: "Discussion about immigration...",
                   link_flair_text: "News",
@@ -37,7 +37,7 @@ describe("reddit-topics API route", () => {
         }),
     });
 
-    const { GET } = await import("@/app/api/reddit-topics/route");
+    const { GET } = await import("@/src/app/api/reddit-topics/route");
 
     const request = new Request("http://localhost:3000/api/reddit-topics");
     const response = await GET(request);
@@ -59,7 +59,7 @@ describe("reddit-topics API route", () => {
   it("handles fetch failure gracefully with fallback topics", async () => {
     mockFetch.mockRejectedValueOnce(new Error("Network error"));
 
-    const { GET } = await import("@/app/api/reddit-topics/route");
+    const { GET } = await import("@/src/app/api/reddit-topics/route");
 
     const request = new Request("http://localhost:3000/api/reddit-topics");
     const response = await GET(request);
@@ -84,7 +84,7 @@ describe("reddit-topics API route", () => {
                 data: {
                   title: "Test topic",
                   score: 100,
-                  url: "https://reddit.com/test",
+                  permalink: "/r/ukpolitics/comments/test/",
                   num_comments: 10,
                   selftext: "",
                   link_flair_text: "News",
@@ -95,7 +95,7 @@ describe("reddit-topics API route", () => {
         }),
     });
 
-    const { GET } = await import("@/app/api/reddit-topics/route");
+    const { GET } = await import("@/src/app/api/reddit-topics/route");
 
     const request = new Request("http://localhost:3000/api/reddit-topics");
     const response = await GET(request);

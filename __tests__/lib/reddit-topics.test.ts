@@ -1,5 +1,5 @@
 import { describe, it, expect, vi, beforeEach } from "vitest";
-import { fetchRedditTopics } from "@/lib/reddit/topics";
+import { fetchRedditTopics, resetCache } from "@/lib/reddit/topics";
 import type { RedditTopic } from "@/lib/types";
 import { mockRedditApiResponse } from "../fixtures/mock-reddit";
 
@@ -10,6 +10,7 @@ vi.stubGlobal("fetch", mockFetch);
 describe("reddit-topics", () => {
   beforeEach(() => {
     vi.clearAllMocks();
+    resetCache();
   });
 
   it("parses Reddit API response into RedditTopic array", async () => {

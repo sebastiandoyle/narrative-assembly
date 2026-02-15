@@ -41,15 +41,17 @@ export function expandKeywords(query: string): ExpandedKeyword[] {
   };
 
   // 1. Primary terms — the query itself and individual words
-  const queryLower = query.toLowerCase().trim();
-  if (!queryLower) return [];
+  const trimmed = query.trim();
+  if (!trimmed) return [];
+  const queryLower = trimmed.toLowerCase();
 
-  addKeyword(queryLower, "primary", queryLower);
+  addKeyword(queryLower, "primary", trimmed);
 
   // Also add individual words if multi-word query
   const words = queryLower.split(/\s+/).filter((w) => w.length > 2);
-  for (const word of words) {
-    addKeyword(word, "primary", queryLower);
+  const originalWords = trimmed.split(/\s+/).filter((w) => w.length > 2);
+  for (let i = 0; i < words.length; i++) {
+    addKeyword(words[i], "primary", trimmed);
   }
 
   // 2. Morphological forms via compromise NLP
@@ -60,8 +62,8 @@ export function expandKeywords(query: string): ExpandedKeyword[] {
   if (nouns.length > 0) {
     const plural = nouns.toPlural().text();
     const singular = nouns.toSingular().text();
-    if (plural) addKeyword(plural, "morphological", queryLower);
-    if (singular) addKeyword(singular, "morphological", queryLower);
+    if (plural) addKeyword(plural, "morphological", trimmed);
+    if (singular) addKeyword(singular, "morphological", trimmed);
   }
 
   // Get verb forms
@@ -70,47 +72,53 @@ export function expandKeywords(query: string): ExpandedKeyword[] {
     const past = verbs.toPastTense().text();
     const present = verbs.toPresentTense().text();
     const gerund = verbs.toGerund().text();
-    if (past) addKeyword(past, "morphological", queryLower);
-    if (present) addKeyword(present, "morphological", queryLower);
-    if (gerund) addKeyword(gerund, "morphological", queryLower);
+    if (past) addKeyword(past, "morphological", trimmed);
+    if (present) addKeyword(present, "morphological", trimmed);
+    if (gerund) addKeyword(gerund, "morphological", trimmed);
   }
 
   // Also try individual words for morphological expansion
-  for (const word of words) {
+  for (let i = 0; i < words.length; i++) {
+    const word = words[i];
+    const origWord = originalWords[i] || word;
     const wordDoc = nlp(word);
     const wordNouns = wordDoc.nouns();
     if (wordNouns.length > 0) {
       const p = wordNouns.toPlural().text();
       const s = wordNouns.toSingular().text();
-      if (p) addKeyword(p, "morphological", word);
-      if (s) addKeyword(s, "morphological", word);
+      if (p) addKeyword(p, "morphological", origWord);
+      if (s) addKeyword(s, "morphological", origWord);
     }
   }
 
   // 3. Curated synonyms
   const synonyms = getSynonyms(queryLower);
   for (const syn of synonyms) {
-    addKeyword(syn, "synonym", queryLower);
+    addKeyword(syn, "synonym", trimmed);
   }
 
   // Also look up synonyms for individual words
-  for (const word of words) {
+  for (let i = 0; i < words.length; i++) {
+    const word = words[i];
+    const origWord = originalWords[i] || word;
     const wordSyns = getSynonyms(word);
     for (const syn of wordSyns) {
-      addKeyword(syn, "synonym", word);
+      addKeyword(syn, "synonym", origWord);
     }
   }
 
   // 4. Co-occurring terms from corpus analysis
   const coTerms = getCoOccurringTerms(queryLower);
   for (const { term } of coTerms) {
-    addKeyword(term, "co-occurring", queryLower);
+    addKeyword(term, "co-occurring", trimmed);
   }
 
-  for (const word of words) {
+  for (let i = 0; i < words.length; i++) {
+    const word = words[i];
+    const origWord = originalWords[i] || word;
     const wordCoTerms = getCoOccurringTerms(word);
     for (const { term } of wordCoTerms) {
-      addKeyword(term, "co-occurring", word);
+      addKeyword(term, "co-occurring", origWord);
     }
   }
 

@@ -113,14 +113,12 @@ export function extractTopic(title: string): string {
  * Fetch hot topics from r/ukpolitics.
  * Uses Reddit's public JSON API (no auth required).
  * Caches for 5 minutes. Falls back to curated topics on error.
+ * Returns array of RedditTopic directly.
  */
-export async function fetchRedditTopics(): Promise<{
-  topics: RedditTopic[];
-  cached: boolean;
-}> {
+export async function fetchRedditTopics(): Promise<RedditTopic[]> {
   // Return cache if fresh
   if (cachedTopics && Date.now() - cachedAt < CACHE_TTL) {
-    return { topics: cachedTopics, cached: true };
+    return cachedTopics;
   }
 
   try {
@@ -140,7 +138,9 @@ export async function fetchRedditTopics(): Promise<{
 
     const topics: RedditTopic[] = posts
       .filter(
-        (post: { data: { stickied: boolean } }) => !post.data.stickied
+        (post: { data: { stickied: boolean; title: string } }) =>
+          !post.data.stickied &&
+          !post.data.title.toLowerCase().includes("megathread")
       )
       .slice(0, 10)
       .map(
@@ -163,9 +163,17 @@ export async function fetchRedditTopics(): Promise<{
     cachedTopics = topics;
     cachedAt = Date.now();
 
-    return { topics, cached: false };
+    return topics;
   } catch {
     // Return fallback topics on any error
-    return { topics: FALLBACK_TOPICS, cached: false };
+    return FALLBACK_TOPICS;
   }
+}
+
+/**
+ * Reset the cache (useful for testing).
+ */
+export function resetCache(): void {
+  cachedTopics = null;
+  cachedAt = 0;
 }

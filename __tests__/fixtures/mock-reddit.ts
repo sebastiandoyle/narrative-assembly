@@ -11,7 +11,7 @@ export const mockRedditApiResponse = {
         data: {
           title: "Immigration numbers reach record high despite government promises",
           score: 2847,
-          url: "https://www.reddit.com/r/ukpolitics/comments/abc123/immigration_numbers/",
+          permalink: "/r/ukpolitics/comments/abc123/immigration_numbers/",
           num_comments: 512,
           selftext: "New ONS figures show net migration has reached...",
           link_flair_text: "News",
@@ -22,7 +22,7 @@ export const mockRedditApiResponse = {
         data: {
           title: "NHS waiting times: A&E departments in crisis across England",
           score: 1923,
-          url: "https://www.reddit.com/r/ukpolitics/comments/def456/nhs_waiting/",
+          permalink: "/r/ukpolitics/comments/def456/nhs_waiting/",
           num_comments: 389,
           selftext: "Latest figures show waiting times at emergency...",
           link_flair_text: "News",
@@ -33,7 +33,7 @@ export const mockRedditApiResponse = {
         data: {
           title: "Cost of living: Energy bills set to rise again in April",
           score: 1654,
-          url: "https://www.reddit.com/r/ukpolitics/comments/ghi789/energy_bills/",
+          permalink: "/r/ukpolitics/comments/ghi789/energy_bills/",
           num_comments: 278,
           selftext: "Ofgem has announced the new price cap...",
           link_flair_text: "News",
@@ -44,7 +44,7 @@ export const mockRedditApiResponse = {
         data: {
           title: "Brexit trade barriers continue to impact small businesses",
           score: 987,
-          url: "https://www.reddit.com/r/ukpolitics/comments/jkl012/brexit_trade/",
+          permalink: "/r/ukpolitics/comments/jkl012/brexit_trade/",
           num_comments: 156,
           selftext: "Survey of 1000 SMEs reveals ongoing challenges...",
           link_flair_text: "Discussion",
@@ -55,7 +55,7 @@ export const mockRedditApiResponse = {
         data: {
           title: "Weekly megathread - general discussion",
           score: 45,
-          url: "https://www.reddit.com/r/ukpolitics/comments/mno345/weekly_mega/",
+          permalink: "/r/ukpolitics/comments/mno345/weekly_mega/",
           num_comments: 890,
           selftext: "",
           link_flair_text: "Megathread",
@@ -71,28 +71,28 @@ export const mockParsedTopics: RedditTopic[] = [
     title: "Immigration numbers reach record high despite government promises",
     extractedTopic: "immigration",
     score: 2847,
-    url: "https://www.reddit.com/r/ukpolitics/comments/abc123/immigration_numbers/",
+    url: "https://reddit.com/r/ukpolitics/comments/abc123/immigration_numbers/",
     numComments: 512,
   },
   {
     title: "NHS waiting times: A&E departments in crisis across England",
     extractedTopic: "NHS waiting times",
     score: 1923,
-    url: "https://www.reddit.com/r/ukpolitics/comments/def456/nhs_waiting/",
+    url: "https://reddit.com/r/ukpolitics/comments/def456/nhs_waiting/",
     numComments: 389,
   },
   {
     title: "Cost of living: Energy bills set to rise again in April",
     extractedTopic: "cost of living",
     score: 1654,
-    url: "https://www.reddit.com/r/ukpolitics/comments/ghi789/energy_bills/",
+    url: "https://reddit.com/r/ukpolitics/comments/ghi789/energy_bills/",
     numComments: 278,
   },
   {
     title: "Brexit trade barriers continue to impact small businesses",
     extractedTopic: "Brexit trade",
     score: 987,
-    url: "https://www.reddit.com/r/ukpolitics/comments/jkl012/brexit_trade/",
+    url: "https://reddit.com/r/ukpolitics/comments/jkl012/brexit_trade/",
     numComments: 156,
   },
 ];
