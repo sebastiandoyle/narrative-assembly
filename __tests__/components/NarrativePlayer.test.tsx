@@ -1,5 +1,5 @@
-import { describe, it, expect, vi } from "vitest";
-import { render, screen, fireEvent } from "@testing-library/react";
+import { describe, it, expect, vi, beforeEach, afterEach } from "vitest";
+import { render, screen, fireEvent, act } from "@testing-library/react";
 import NarrativePlayer from "@/components/NarrativePlayer";
 import type { ClipMatch } from "@/lib/types";
 
@@ -126,5 +126,97 @@ describe("NarrativePlayer", () => {
     );
 
     expect(screen.getByText(/until next clip/i)).toBeInTheDocument();
+  });
+
+  // --- 6 new tests ---
+
+  it("iframe URL never contains &end=", () => {
+    render(
+      <NarrativePlayer clips={mockClips} activeIndex={0} onClipChange={() => {}} />
+    );
+
+    const iframe = document.querySelector("iframe");
+    expect(iframe).not.toBeNull();
+    expect(iframe!.src).not.toContain("&end=");
+  });
+
+  it("iframe does NOT remount on 'Keep watching' click", () => {
+    render(
+      <NarrativePlayer clips={mockClips} activeIndex={0} onClipChange={() => {}} />
+    );
+
+    const iframeBefore = document.querySelector("iframe");
+    expect(iframeBefore).not.toBeNull();
+
+    const keepWatchingButton = screen.getByRole("button", { name: /stop auto-advance/i });
+    fireEvent.click(keepWatchingButton);
+
+    const iframeAfter = document.querySelector("iframe");
+    expect(iframeAfter).not.toBeNull();
+    // Same DOM node — not remounted
+    expect(iframeAfter).toBe(iframeBefore);
+  });
+
+  it("'Resume clips' calls onClipChange with next index", () => {
+    const onClipChange = vi.fn();
+    render(
+      <NarrativePlayer clips={mockClips} activeIndex={0} onClipChange={onClipChange} />
+    );
+
+    // Click "Keep watching" first to enter paused state
+    fireEvent.click(screen.getByRole("button", { name: /stop auto-advance/i }));
+
+    // Then click "Resume clips"
+    fireEvent.click(screen.getByRole("button", { name: /resume auto-advance/i }));
+
+    expect(onClipChange).toHaveBeenCalledWith(1);
+  });
+
+  it("timer auto-advances after clip duration", () => {
+    vi.useFakeTimers();
+    const onClipChange = vi.fn();
+
+    render(
+      <NarrativePlayer clips={mockClips} activeIndex={0} onClipChange={onClipChange} />
+    );
+
+    // Clip 0 duration is 7.5s. Advance past that.
+    act(() => {
+      vi.advanceTimersByTime(8000);
+    });
+
+    expect(onClipChange).toHaveBeenCalledWith(1);
+
+    vi.useRealTimers();
+  });
+
+  it("auto-advance stops at last clip", () => {
+    vi.useFakeTimers();
+    const onClipChange = vi.fn();
+
+    render(
+      <NarrativePlayer clips={mockClips} activeIndex={2} onClipChange={onClipChange} />
+    );
+
+    // Clip 2 duration is 7.9s. Advance past that.
+    act(() => {
+      vi.advanceTimersByTime(9000);
+    });
+
+    // Should NOT call onClipChange — it's the last clip
+    expect(onClipChange).not.toHaveBeenCalled();
+
+    vi.useRealTimers();
+  });
+
+  it("iframe start time matches clip.startTime", () => {
+    render(
+      <NarrativePlayer clips={mockClips} activeIndex={2} onClipChange={() => {}} />
+    );
+
+    const iframe = document.querySelector("iframe");
+    expect(iframe).not.toBeNull();
+    // Clip 2 startTime is 4.2, Math.floor(4.2) = 4
+    expect(iframe!.src).toContain("start=4");
   });
 });

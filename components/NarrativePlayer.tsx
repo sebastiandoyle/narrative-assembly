@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useRef, useCallback } from "react";
+import { useState, useEffect, useRef } from "react";
 import type { ClipMatch } from "../lib/types";
 
 interface NarrativePlayerProps {
@@ -16,68 +16,55 @@ export default function NarrativePlayer({
 }: NarrativePlayerProps) {
   const [isAutoAdvance, setIsAutoAdvance] = useState(true);
   const [elapsed, setElapsed] = useState(0);
-  const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
-  const startTimeRef = useRef<number>(Date.now());
+  const advanceRef = useRef<() => void>(() => {});
 
   const clip = clips[activeIndex];
   if (!clip) return null;
 
-  const duration = clip.endTime - clip.startTime;
+  const duration = Math.max(0.1, clip.endTime - clip.startTime);
   const remaining = Math.max(0, Math.ceil(duration - elapsed));
   const progress = Math.min(1, elapsed / duration);
 
-  const advanceClip = useCallback(() => {
+  // Always keep advanceRef current to avoid stale closure over activeIndex
+  advanceRef.current = () => {
     if (activeIndex < clips.length - 1) {
       onClipChange(activeIndex + 1);
     } else {
       setIsAutoAdvance(false);
     }
-  }, [activeIndex, clips.length, onClipChange]);
+  };
 
-  // Reset elapsed when clip changes
+  // Single timer effect — handles reset + countdown + auto-advance
   useEffect(() => {
     setElapsed(0);
-    startTimeRef.current = Date.now();
-  }, [activeIndex]);
 
-  // Auto-advance timer with smooth elapsed tracking
-  useEffect(() => {
-    if (!isAutoAdvance) {
-      if (timerRef.current) clearInterval(timerRef.current);
-      return;
-    }
+    if (!isAutoAdvance) return;
 
-    startTimeRef.current = Date.now() - elapsed * 1000;
-
-    timerRef.current = setInterval(() => {
-      const now = Date.now();
-      const newElapsed = (now - startTimeRef.current) / 1000;
+    const start = Date.now();
+    const interval = setInterval(() => {
+      const newElapsed = (Date.now() - start) / 1000;
       setElapsed(newElapsed);
       if (newElapsed >= duration) {
-        advanceClip();
+        clearInterval(interval);
+        advanceRef.current();
       }
     }, 100);
 
-    return () => {
-      if (timerRef.current) clearInterval(timerRef.current);
-    };
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [activeIndex, isAutoAdvance, duration, advanceClip]);
+    return () => clearInterval(interval);
+  }, [activeIndex, isAutoAdvance, duration]);
 
-  // When auto-advance is on: clip plays within start/end bounds
-  // When stopped: remove &end= so full video plays from current position
-  const youtubeUrl = isAutoAdvance
-    ? `https://www.youtube.com/embed/${clip.videoId}?start=${Math.floor(clip.startTime)}&end=${Math.ceil(clip.endTime)}&autoplay=1&rel=0&modestbranding=1`
-    : `https://www.youtube.com/embed/${clip.videoId}?start=${Math.floor(clip.startTime)}&autoplay=1&rel=0&modestbranding=1`;
+  // Never use &end= — handle clip boundaries purely client-side
+  const youtubeUrl = `https://www.youtube.com/embed/${clip.videoId}?start=${Math.floor(clip.startTime)}&autoplay=1&rel=0&modestbranding=1`;
 
-  const handleKeepWatching = () => {
-    setIsAutoAdvance(false);
-  };
+  // Keep watching — just stops timer, no iframe reload
+  const handleKeepWatching = () => setIsAutoAdvance(false);
 
+  // Resume — advance to NEXT clip (current one played past its boundary)
   const handleResumeAutoAdvance = () => {
-    setIsAutoAdvance(true);
-    setElapsed(0);
-    startTimeRef.current = Date.now();
+    if (activeIndex < clips.length - 1) {
+      setIsAutoAdvance(true);
+      onClipChange(activeIndex + 1);
+    }
   };
 
   return (
@@ -86,7 +73,7 @@ export default function NarrativePlayer({
       <div className="relative rounded-lg overflow-hidden border border-zinc-800">
         <div className="youtube-container">
           <iframe
-            key={`${clip.videoId}-${clip.startTime}-${isAutoAdvance}`}
+            key={`${clip.videoId}-${clip.startTime}`}
             src={youtubeUrl}
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
@@ -96,9 +83,9 @@ export default function NarrativePlayer({
 
         {/* Netflix-style countdown overlay — only in auto-advance mode */}
         {isAutoAdvance && (
-          <div className="absolute bottom-0 left-0 right-0">
+          <div className="absolute bottom-0 left-0 right-0 bg-black">
             {/* Progress bar filling up */}
-            <div className="h-1 bg-zinc-800/80">
+            <div className="h-1 bg-zinc-800">
               <div
                 className="h-full bg-bbc-red transition-all duration-100 ease-linear"
                 style={{ width: `${progress * 100}%` }}
@@ -106,7 +93,7 @@ export default function NarrativePlayer({
             </div>
 
             {/* Countdown strip */}
-            <div className="bg-gradient-to-t from-black/90 via-black/70 to-transparent px-4 py-3 flex items-center justify-between">
+            <div className="px-4 py-3 flex items-center justify-between">
               <div className="flex items-center gap-3">
                 <span className="text-white font-mono text-lg font-bold tabular-nums">
                   {remaining}s
@@ -129,7 +116,7 @@ export default function NarrativePlayer({
         {/* "Stopped" state — show resume option */}
         {!isAutoAdvance && activeIndex < clips.length - 1 && (
           <div className="absolute bottom-0 left-0 right-0">
-            <div className="bg-gradient-to-t from-black/90 via-black/70 to-transparent px-4 py-3 flex items-center justify-between">
+            <div className="bg-black px-4 py-3 flex items-center justify-between">
               <span className="text-zinc-400 text-sm">
                 Auto-advance paused — watching full video
               </span>
