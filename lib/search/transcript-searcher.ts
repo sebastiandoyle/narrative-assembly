@@ -41,6 +41,15 @@ export function loadAllTranscripts(): TranscriptFile[] {
   return transcripts;
 }
 
+function escapeRegex(str: string): string {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function matchesWholeWord(text: string, term: string): boolean {
+  const regex = new RegExp(`\\b${escapeRegex(term)}\\b`, 'i');
+  return regex.test(text);
+}
+
 /**
  * Search transcripts for segments matching the expanded keywords.
  * Each segment is scored by the weighted sum of matching keywords.
@@ -60,12 +69,11 @@ export function searchTranscripts(
 
   for (const transcript of transcripts) {
     for (const segment of transcript.segments) {
-      const textLower = segment.text.toLowerCase();
       let score = 0;
       const matchedKeywords: string[] = [];
 
       for (const kw of keywords) {
-        if (kw.term && textLower.includes(kw.term.toLowerCase())) {
+        if (kw.term && matchesWholeWord(segment.text, kw.term)) {
           score += kw.weight;
           matchedKeywords.push(kw.term);
         }

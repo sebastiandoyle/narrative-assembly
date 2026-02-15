@@ -59,14 +59,14 @@ export default function RedditTopics({ onSelectTopic }: RedditTopicsProps) {
   return (
     <div className="w-full max-w-2xl mx-auto">
       <p className="text-xs text-zinc-500 uppercase tracking-wider mb-2">
-        Trending on r/unitedkingdom
+        Trending in UK Politics
       </p>
       <div className="flex flex-wrap gap-2">
         {topics.map((topic) => (
           <button
             key={topic.url}
             onClick={() => onSelectTopic(topic.extractedTopic)}
-            className="px-3 py-1.5 text-sm bg-zinc-800 text-zinc-300 rounded-full border border-zinc-700 hover:border-bbc-red hover:text-white transition-colors"
+            className="px-3 py-1.5 text-sm bg-zinc-800 text-zinc-300 rounded-full border border-zinc-700 hover:border-bbc-red hover:text-white transition-colors max-w-[200px] truncate"
             title={topic.title}
           >
             {topic.extractedTopic}

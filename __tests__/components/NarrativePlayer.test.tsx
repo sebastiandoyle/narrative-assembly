@@ -100,4 +100,23 @@ describe("NarrativePlayer", () => {
     const progressButtons = screen.getAllByRole("button", { name: /go to clip/i });
     expect(progressButtons.length).toBe(3);
   });
+
+  it("renders a pause/play toggle button", () => {
+    render(
+      <NarrativePlayer clips={mockClips} activeIndex={0} onClipChange={() => {}} />
+    );
+
+    const pauseButton = screen.getByRole("button", { name: /pause auto-advance/i });
+    expect(pauseButton).toBeInTheDocument();
+  });
+
+  it("toggles aria-label between pause and resume on click", () => {
+    render(
+      <NarrativePlayer clips={mockClips} activeIndex={0} onClipChange={() => {}} />
+    );
+
+    const button = screen.getByRole("button", { name: /pause auto-advance/i });
+    fireEvent.click(button);
+    expect(screen.getByRole("button", { name: /resume auto-advance/i })).toBeInTheDocument();
+  });
 });

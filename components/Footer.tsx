@@ -22,7 +22,7 @@ export default function Footer() {
               How it works
             </Link>
             <a
-              href="https://github.com"
+              href="https://github.com/sebastiandoyle/narrative-assembly"
               target="_blank"
               rel="noopener noreferrer"
               className="text-zinc-400 hover:text-white transition-colors"

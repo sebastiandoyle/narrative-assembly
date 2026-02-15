@@ -52,10 +52,6 @@ export default function NarrativePlayer({
     };
   }, [activeIndex, isPlaying, duration, advanceClip]);
 
-  // Reset playing state when clip changes
-  useEffect(() => {
-    setIsPlaying(true);
-  }, [activeIndex]);
 
   const youtubeUrl = `https://www.youtube.com/embed/${clip.videoId}?start=${Math.floor(clip.startTime)}&end=${Math.ceil(clip.endTime)}&autoplay=1&rel=0&modestbranding=1`;
 
@@ -85,6 +81,22 @@ export default function NarrativePlayer({
             <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
               <path d="M15.707 15.707a1 1 0 01-1.414 0l-5-5a1 1 0 010-1.414l5-5a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 010 1.414zm-6 0a1 1 0 01-1.414 0l-5-5a1 1 0 010-1.414l5-5a1 1 0 011.414 1.414L5.414 10l4.293 4.293a1 1 0 010 1.414z" />
             </svg>
+          </button>
+
+          <button
+            onClick={() => setIsPlaying(prev => !prev)}
+            className="p-2 text-zinc-400 hover:text-white transition-colors"
+            aria-label={isPlaying ? "Pause auto-advance" : "Resume auto-advance"}
+          >
+            {isPlaying ? (
+              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zM7 8a1 1 0 012 0v4a1 1 0 11-2 0V8zm5-1a1 1 0 00-1 1v4a1 1 0 102 0V8a1 1 0 00-1-1z" clipRule="evenodd" />
+              </svg>
+            ) : (
+              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clipRule="evenodd" />
+              </svg>
+            )}
           </button>
 
           <span className="text-sm text-zinc-400 font-mono">

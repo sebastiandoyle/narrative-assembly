@@ -77,35 +77,40 @@ export const FALLBACK_TOPICS: RedditTopic[] = [
 export function extractTopic(title: string): string {
   const doc = nlp(title);
 
-  // Try to get named entities first (people, places, organizations)
-  const people = doc.people().text();
-  const places = doc.places().text();
-  const orgs = doc.organizations().text();
+  // 1. Try named entities (people, places, organizations) — take first only
+  const people = doc.people().out("array") as string[];
+  const places = doc.places().out("array") as string[];
+  const orgs = doc.organizations().out("array") as string[];
 
-  // Get key noun phrases
-  const nouns = doc.nouns().text();
-
-  // Build topic from most specific to least
-  const parts: string[] = [];
-  if (people) parts.push(people);
-  if (orgs) parts.push(orgs);
-  if (places) parts.push(places);
-
-  if (parts.length > 0) {
-    return parts.join(" ").slice(0, 60);
+  // Prefer a single named entity
+  const entity = people[0] || orgs[0] || places[0];
+  if (entity && entity.length <= 30) {
+    return entity;
   }
 
-  // Fall back to noun phrases
-  if (nouns) {
-    return nouns.slice(0, 60);
+  // 2. Try individual noun phrases — take first 1-2 short ones
+  const nounPhrases = doc.nouns().out("array") as string[];
+  const shortNouns = nounPhrases
+    .map((n: string) => n.replace(/^(the|a|an|this|that|some)\s+/i, "").trim())
+    .filter((n: string) => n.length >= 3 && n.length <= 25);
+
+  if (shortNouns.length > 0) {
+    // If first noun is short enough, maybe combine with second
+    if (
+      shortNouns.length >= 2 &&
+      shortNouns[0].length + shortNouns[1].length + 1 <= 30
+    ) {
+      return `${shortNouns[0]} ${shortNouns[1]}`;
+    }
+    return shortNouns[0];
   }
 
-  // Last resort: first few meaningful words
+  // 3. Last resort: first few meaningful words
   const words = title
     .replace(/[^\w\s]/g, "")
     .split(/\s+/)
     .filter((w) => w.length > 3)
-    .slice(0, 4);
+    .slice(0, 3);
   return words.join(" ");
 }
 
@@ -160,10 +165,19 @@ export async function fetchRedditTopics(): Promise<RedditTopic[]> {
         })
       );
 
-    cachedTopics = topics;
+    // Deduplicate by extractedTopic (case-insensitive)
+    const seen = new Set<string>();
+    const uniqueTopics = topics.filter((t) => {
+      const key = t.extractedTopic.toLowerCase();
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+
+    cachedTopics = uniqueTopics;
     cachedAt = Date.now();
 
-    return topics;
+    return uniqueTopics;
   } catch {
     // Return fallback topics on any error
     return FALLBACK_TOPICS;

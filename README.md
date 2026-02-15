@@ -1,6 +1,9 @@
+![Narrative Assembly](./public/og-image.png)
+
 # Narrative Assembly
 
 [![CI](https://github.com/sebastiandoyle/narrative-assembly/actions/workflows/ci.yml/badge.svg)](https://github.com/sebastiandoyle/narrative-assembly/actions/workflows/ci.yml)
+[Live Demo](https://narrative-assembly.vercel.app)
 
 **An interactive tool that demonstrates how narratives can be mechanically assembled from real media clips.**
 
@@ -15,6 +18,33 @@ Every day, social media accounts and partisan outlets build narratives by cherry
 Narrative Assembly makes this mechanic visible. By letting you assemble your own narratives from real BBC News transcripts, it exposes how easy -- and how mechanical -- the process actually is.
 
 The tool is deliberately transparent: it shows you the keyword expansion, the relevance scores, the source videos, and the timestamps. Nothing is hidden. The point is to make the machinery legible.
+
+## Built from Real User Feedback
+
+This project is shaped by real user research, not guesswork. After deploying v1, I conducted a user interview with a politically engaged BBC viewer to understand how real people interact with the tool.
+
+### What users loved
+- **Instant understanding** — within seconds, the user grasped how narrative assembly works and began exploring topics independently
+- **Passive consumption** — the auto-playing clip sequence made it easy to absorb information without constant interaction
+- **Visual clip list** — seeing all clips laid out as a sequence made the construction process transparent
+
+### What users found
+- **"The bias becomes visible"** — the user spontaneously described using the tool to check whether BBC coverage was balanced, reframing it as an evidence tool rather than just a demonstration
+- **Full video context** — users wanted to verify clips in their original context, not just see the extracted segments
+
+### What we fixed (v2)
+| User feedback | Code change |
+|--------------|-------------|
+| "Coal" search returned "coalition" results | Replaced substring matching with word-boundary regex ([transcript-searcher.ts](./lib/search/transcript-searcher.ts)) |
+| "When you pause, it keeps moving" | Removed forced auto-resume on clip change, added explicit pause/play control ([NarrativePlayer.tsx](./components/NarrativePlayer.tsx)) |
+| No way to return to search | Added "New search" back-navigation button ([page.tsx](./src/app/page.tsx)) |
+| "I don't know what r/ means" | Changed label to "Trending in UK Politics" ([RedditTopics.tsx](./components/RedditTopics.tsx)) |
+| "I'd like to see the full video" | Added "Watch full video" links on each clip card ([ClipCard.tsx](./components/ClipCard.tsx)) |
+
+### What we're building next
+- Multi-country transcript support (beyond UK)
+- Statistical bias indicators to quantify coverage patterns
+- Alternative trending topic sources beyond Reddit
 
 ## How It Works
 

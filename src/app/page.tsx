@@ -110,6 +110,12 @@ export default function Home() {
       {/* Results */}
       {result && (
         <main className="flex-1 max-w-5xl mx-auto px-4 w-full">
+          <button
+            onClick={() => { setResult(null); setActiveClipIndex(0); setError(null); }}
+            className="text-sm text-zinc-500 hover:text-white transition-colors flex items-center gap-1 mb-4"
+          >
+            &larr; New search
+          </button>
           <NarrativeHeader
             topic={result.query}
             clipCount={result.clips.length}

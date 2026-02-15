@@ -64,6 +64,15 @@ export default function ClipCard({
               ))}
             </div>
           </div>
+          <a
+            href={`https://www.youtube.com/watch?v=${clip.videoId}&t=${Math.floor(clip.startTime)}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={(e) => e.stopPropagation()}
+            className="text-xs text-zinc-500 hover:text-red-400 transition-colors mt-2 inline-flex items-center gap-1"
+          >
+            Watch full video &rarr;
+          </a>
         </div>
       </div>
     </button>

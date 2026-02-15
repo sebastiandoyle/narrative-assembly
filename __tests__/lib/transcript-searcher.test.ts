@@ -105,4 +105,54 @@ describe("transcript-searcher", () => {
       expect(results[i - 1].score).toBeGreaterThanOrEqual(results[i].score);
     }
   });
+
+  it("does not match substring-only occurrences", () => {
+    const coalitionTranscript: TranscriptFile = {
+      videoId: "test_coalition",
+      title: "Coalition talks - BBC News",
+      publishedAt: "2025-12-10",
+      channel: "BBC News",
+      durationSeconds: 30,
+      segments: [
+        { start: 0, dur: 5, text: "The coalition government has agreed on new policies" },
+      ],
+    };
+    const keywords = [makeKeyword("coal")];
+    const results = searchTranscripts([coalitionTranscript], keywords);
+    expect(results).toHaveLength(0);
+  });
+
+  it("matches whole words but not substrings", () => {
+    const mixedTranscript: TranscriptFile = {
+      videoId: "test_mixed_coal",
+      title: "Energy and politics - BBC News",
+      publishedAt: "2025-12-10",
+      channel: "BBC News",
+      durationSeconds: 30,
+      segments: [
+        { start: 0, dur: 5, text: "The coal mining industry faces new regulations" },
+        { start: 5, dur: 5, text: "Meanwhile the coalition has debated energy policy" },
+      ],
+    };
+    const keywords = [makeKeyword("coal")];
+    const results = searchTranscripts([mixedTranscript], keywords);
+    expect(results).toHaveLength(1);
+    expect(results[0].text).toContain("coal mining");
+  });
+
+  it("handles possessive forms with word boundaries", () => {
+    const possessiveTranscript: TranscriptFile = {
+      videoId: "test_possessive",
+      title: "Government policy - BBC News",
+      publishedAt: "2025-12-10",
+      channel: "BBC News",
+      durationSeconds: 30,
+      segments: [
+        { start: 0, dur: 5, text: "The government's new policy has been announced" },
+      ],
+    };
+    const keywords = [makeKeyword("government")];
+    const results = searchTranscripts([possessiveTranscript], keywords);
+    expect(results).toHaveLength(1);
+  });
 });
