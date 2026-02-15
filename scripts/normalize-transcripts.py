@@ -50,7 +50,7 @@ def parse_vtt_file(vtt_path: str) -> list[dict]:
 
     segments = []
     # Match VTT cue blocks: timestamp --> timestamp followed by text
-    pattern = r"(\d{1,2}:\d{2}:\d{2}\.\d{3})\s*-->\s*(\d{1,2}:\d{2}:\d{2}\.\d{3})\s*\n((?:(?!\n\n|\d{1,2}:\d{2}).+\n?)+)"
+    pattern = r"(\d{1,2}:\d{2}:\d{2}\.\d{3})\s*-->\s*(\d{1,2}:\d{2}:\d{2}\.\d{3})[^\n]*\n((?:(?!\n\n|\d{1,2}:\d{2}).+\n?)+)"
     matches = re.finditer(pattern, content)
 
     for match in matches:

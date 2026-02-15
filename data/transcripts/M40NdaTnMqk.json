@@ -6,209 +6,839 @@
   "durationSeconds": 374,
   "segments": [
     {
-      "start": 0.9,
-      "dur": 8.6,
-      "text": "Now, the former US President Barack Obama has criticized President Trump Obama has criticized President Trump after he rolled back much of America's after he rolled back much of America's climate change legislation. Well, the"
+      "start": 0.88,
+      "dur": 1.999,
+      "text": "Now, the former US President Barack"
     },
     {
-      "start": 9.5,
-      "dur": 8.1,
-      "text": "climate change legislation. Well, the president says he's repealing a president says he's repealing a long-standing scientific finding that long-standing scientific finding that greenhouse gas emissions endanger human greenhouse gas emissions endanger human health. It means pollutants from cars,"
+      "start": 2.879,
+      "dur": 2.151,
+      "text": "Now, the former US President Barack Obama has criticized President Trump"
+    },
+    {
+      "start": 5.04,
+      "dur": 2.07,
+      "text": "Obama has criticized President Trump after he rolled back much of America's"
+    },
+    {
+      "start": 7.12,
+      "dur": 2.389,
+      "text": "after he rolled back much of America's climate change legislation. Well, the"
+    },
+    {
+      "start": 9.519,
+      "dur": 1.431,
+      "text": "climate change legislation. Well, the president says he's repealing a"
+    },
+    {
+      "start": 10.96,
+      "dur": 1.91,
+      "text": "president says he's repealing a long-standing scientific finding that"
+    },
+    {
+      "start": 12.88,
+      "dur": 2.23,
+      "text": "long-standing scientific finding that greenhouse gas emissions endanger human"
+    },
+    {
+      "start": 15.12,
+      "dur": 2.47,
+      "text": "greenhouse gas emissions endanger human health. It means pollutants from cars,"
     },
     {
       "start": 17.6,
-      "dur": 9.0,
-      "text": "health. It means pollutants from cars, trucks, and power plants, among the trucks, and power plants, among the largest drivers of climate change, will largest drivers of climate change, will no longer be regulated at the federal no longer be regulated at the federal level."
+      "dur": 1.749,
+      "text": "health. It means pollutants from cars, trucks, and power plants, among the"
     },
     {
-      "start": 26.6,
-      "dur": 9.2,
-      "text": "level. Under the process just completed by the Under the process just completed by the EPA, we are officially terminating the EPA, we are officially terminating the so-called endangerment finding, a"
+      "start": 19.359,
+      "dur": 2.151,
+      "text": "trucks, and power plants, among the largest drivers of climate change, will"
     },
     {
-      "start": 35.8,
-      "dur": 10.9,
-      "text": "so-called endangerment finding, a disastrous Obama era policy that disastrous Obama era policy that severely damaged the American auto severely damaged the American auto industry and massively drove up prices industry and massively drove up prices for American consumers. prices went up"
+      "start": 21.52,
+      "dur": 3.03,
+      "text": "largest drivers of climate change, will no longer be regulated at the federal"
     },
     {
-      "start": 46.7,
-      "dur": 9.0,
-      "text": "for American consumers. prices went up incredibly for a worse product. This incredibly for a worse product. This action will eliminate over $1.3 trillion action will eliminate over $1.3 trillion of regulatory cost and help bring car"
+      "start": 24.56,
+      "dur": 1.99,
+      "text": "no longer be regulated at the federal level."
     },
     {
-      "start": 55.7,
-      "dur": 10.2,
-      "text": "of regulatory cost and help bring car prices tumbling down dramatically. prices tumbling down dramatically. You're going to get a better car. You're You're going to get a better car. You're going to get a car that starts easier, a going to get a car that starts easier, a car that works better for a lot less"
+      "start": 26.56,
+      "dur": 2.789,
+      "text": "level. &gt;&gt; Under the process just completed by the"
     },
     {
-      "start": 65.9,
-      "dur": 9.6,
-      "text": "car that works better for a lot less money. money. President Trump outlining the re President Trump outlining the re outlining the reasons behind that outlining the reasons behind that change. Well, let's hear now from John change. Well, let's hear now from John Kerry, of course, a former US Secretary"
+      "start": 29.359,
+      "dur": 2.87,
+      "text": "&gt;&gt; Under the process just completed by the EPA, we are officially terminating the"
     },
     {
-      "start": 75.5,
-      "dur": 9.7,
-      "text": "Kerry, of course, a former US Secretary of State. He also served as President of State. He also served as President Biden's special envoy for climate. He's Biden's special envoy for climate. He's been speaking to the BBC to share his been speaking to the BBC to share his reaction."
+      "start": 32.239,
+      "dur": 3.591,
+      "text": "EPA, we are officially terminating the so-called endangerment finding, a"
+    },
+    {
+      "start": 35.84,
+      "dur": 2.15,
+      "text": "so-called endangerment finding, a disastrous Obama era policy that"
+    },
+    {
+      "start": 38.0,
+      "dur": 2.549,
+      "text": "disastrous Obama era policy that severely damaged the American auto"
+    },
+    {
+      "start": 40.559,
+      "dur": 2.071,
+      "text": "severely damaged the American auto industry and massively drove up prices"
+    },
+    {
+      "start": 42.64,
+      "dur": 4.069,
+      "text": "industry and massively drove up prices for American consumers. prices went up"
+    },
+    {
+      "start": 46.719,
+      "dur": 3.431,
+      "text": "for American consumers. prices went up incredibly for a worse product. This"
+    },
+    {
+      "start": 50.16,
+      "dur": 2.709,
+      "text": "incredibly for a worse product. This action will eliminate over $1.3 trillion"
+    },
+    {
+      "start": 52.879,
+      "dur": 2.791,
+      "text": "action will eliminate over $1.3 trillion of regulatory cost and help bring car"
+    },
+    {
+      "start": 55.68,
+      "dur": 4.23,
+      "text": "of regulatory cost and help bring car prices tumbling down dramatically."
+    },
+    {
+      "start": 59.92,
+      "dur": 1.269,
+      "text": "prices tumbling down dramatically. You're going to get a better car. You're"
+    },
+    {
+      "start": 61.199,
+      "dur": 1.751,
+      "text": "You're going to get a better car. You're going to get a car that starts easier, a"
+    },
+    {
+      "start": 62.96,
+      "dur": 2.95,
+      "text": "going to get a car that starts easier, a car that works better for a lot less"
+    },
+    {
+      "start": 65.92,
+      "dur": 1.189,
+      "text": "car that works better for a lot less money."
+    },
+    {
+      "start": 67.119,
+      "dur": 1.751,
+      "text": "money. &gt;&gt; President Trump outlining the re"
+    },
+    {
+      "start": 68.88,
+      "dur": 2.15,
+      "text": "&gt;&gt; President Trump outlining the re outlining the reasons behind that"
+    },
+    {
+      "start": 71.04,
+      "dur": 2.47,
+      "text": "outlining the reasons behind that change. Well, let's hear now from John"
+    },
+    {
+      "start": 73.52,
+      "dur": 1.99,
+      "text": "change. Well, let's hear now from John Kerry, of course, a former US Secretary"
+    },
+    {
+      "start": 75.52,
+      "dur": 1.83,
+      "text": "Kerry, of course, a former US Secretary of State. He also served as President"
+    },
+    {
+      "start": 77.36,
+      "dur": 2.789,
+      "text": "of State. He also served as President Biden's special envoy for climate. He's"
+    },
+    {
+      "start": 80.159,
+      "dur": 3.031,
+      "text": "Biden's special envoy for climate. He's been speaking to the BBC to share his"
+    },
+    {
+      "start": 83.2,
+      "dur": 1.99,
+      "text": "been speaking to the BBC to share his reaction."
     },
     {
       "start": 85.2,
-      "dur": 10.2,
-      "text": "reaction. There's a reason that we had an There's a reason that we had an endangerment rule. And the reason is endangerment rule. And the reason is that the the the pollution which is"
+      "dur": 2.87,
+      "text": "reaction. &gt;&gt; There's a reason that we had an"
     },
     {
-      "start": 95.4,
-      "dur": 9.6,
-      "text": "that the the the pollution which is creating the crisis of climate uh is creating the crisis of climate uh is dangerous. It's a killer. dangerous. It's a killer. And the fact is that uh you know this"
+      "start": 88.08,
+      "dur": 3.11,
+      "text": "&gt;&gt; There's a reason that we had an endangerment rule. And the reason is"
     },
     {
-      "start": 105.0,
-      "dur": 11.9,
-      "text": "And the fact is that uh you know this decision to just do away with it um decision to just do away with it um really takes Orwellian really takes Orwellian governance to a new height and it governance to a new height and it invites enormous damage to people and"
+      "start": 91.2,
+      "dur": 4.229,
+      "text": "endangerment rule. And the reason is that the the the pollution which is"
     },
     {
-      "start": 116.9,
-      "dur": 9.4,
-      "text": "invites enormous damage to people and property all around the world. property all around the world. That's John Kerry there sharing his That's John Kerry there sharing his reaction. Well, let's get more reaction reaction. Well, let's get more reaction now by speaking to Graeme Maxton, an"
+      "start": 95.439,
+      "dur": 3.35,
+      "text": "that the the the pollution which is creating the crisis of climate uh is"
     },
     {
-      "start": 126.3,
-      "dur": 8.3,
-      "text": "now by speaking to Graeme Maxton, an author and climate change economist and author and climate change economist and an advisory board member of the UN's an advisory board member of the UN's Pathways Project. Welcome to BBC News."
+      "start": 98.799,
+      "dur": 2.791,
+      "text": "creating the crisis of climate uh is dangerous. It's a killer."
     },
     {
-      "start": 134.6,
-      "dur": 10.4,
-      "text": "Pathways Project. Welcome to BBC News. Um, look, the president says this is for Um, look, the president says this is for economic reasons and there's always a economic reasons and there's always a balance, not just in the US, but even balance, not just in the US, but even here in the UK, between how much being"
+      "start": 101.6,
+      "dur": 3.35,
+      "text": "dangerous. It's a killer. And the fact is that uh you know this"
     },
     {
-      "start": 145.0,
-      "dur": 9.0,
-      "text": "here in the UK, between how much being more climate aware costs. Um do you more climate aware costs. Um do you think on balance though um there is an think on balance though um there is an argument from the president's side to"
+      "start": 104.96,
+      "dur": 3.35,
+      "text": "And the fact is that uh you know this decision to just do away with it um"
+    },
+    {
+      "start": 108.32,
+      "dur": 2.55,
+      "text": "decision to just do away with it um really takes Orwellian"
+    },
+    {
+      "start": 110.88,
+      "dur": 1.99,
+      "text": "really takes Orwellian governance to a new height and it"
+    },
+    {
+      "start": 112.88,
+      "dur": 3.99,
+      "text": "governance to a new height and it invites enormous damage to people and"
+    },
+    {
+      "start": 116.88,
+      "dur": 2.71,
+      "text": "invites enormous damage to people and property all around the world."
+    },
+    {
+      "start": 119.6,
+      "dur": 2.549,
+      "text": "property all around the world. &gt;&gt; That's John Kerry there sharing his"
+    },
+    {
+      "start": 122.159,
+      "dur": 1.511,
+      "text": "&gt;&gt; That's John Kerry there sharing his reaction. Well, let's get more reaction"
+    },
+    {
+      "start": 123.68,
+      "dur": 2.63,
+      "text": "reaction. Well, let's get more reaction now by speaking to Graeme Maxton, an"
+    },
+    {
+      "start": 126.32,
+      "dur": 2.149,
+      "text": "now by speaking to Graeme Maxton, an author and climate change economist and"
+    },
+    {
+      "start": 128.479,
+      "dur": 2.151,
+      "text": "author and climate change economist and an advisory board member of the UN's"
+    },
+    {
+      "start": 130.64,
+      "dur": 3.99,
+      "text": "an advisory board member of the UN's Pathways Project. Welcome to BBC News."
+    },
+    {
+      "start": 134.64,
+      "dur": 2.949,
+      "text": "Pathways Project. Welcome to BBC News. Um, look, the president says this is for"
+    },
+    {
+      "start": 137.599,
+      "dur": 1.99,
+      "text": "Um, look, the president says this is for economic reasons and there's always a"
+    },
+    {
+      "start": 139.599,
+      "dur": 2.151,
+      "text": "economic reasons and there's always a balance, not just in the US, but even"
+    },
+    {
+      "start": 141.76,
+      "dur": 3.189,
+      "text": "balance, not just in the US, but even here in the UK, between how much being"
+    },
+    {
+      "start": 144.959,
+      "dur": 3.431,
+      "text": "here in the UK, between how much being more climate aware costs. Um do you"
+    },
+    {
+      "start": 148.4,
+      "dur": 3.829,
+      "text": "more climate aware costs. Um do you think on balance though um there is an"
+    },
+    {
+      "start": 152.239,
+      "dur": 1.751,
+      "text": "think on balance though um there is an argument from the president's side to"
     },
     {
       "start": 154.0,
-      "dur": 9.4,
-      "text": "argument from the president's side to start to start with and then we'll start to start with and then we'll unpick the climate side to it. unpick the climate side to it. I I mean I think what this is simply I I mean I think what this is simply confirming is is is the trend which"
+      "dur": 1.35,
+      "text": "argument from the president's side to start to start with and then we'll"
     },
     {
-      "start": 163.4,
-      "dur": 9.2,
-      "text": "confirming is is is the trend which we've seen since President Trump took we've seen since President Trump took office which is that there's a push back office which is that there's a push back against the environmental movement against the environmental movement against regulations which which are"
+      "start": 155.36,
+      "dur": 3.91,
+      "text": "start to start with and then we'll unpick the climate side to it."
     },
     {
-      "start": 172.6,
-      "dur": 8.2,
-      "text": "against regulations which which are seemed to be restricted on industry. So seemed to be restricted on industry. So this is a step in the wrong direction. this is a step in the wrong direction. It's not a great leap in the wrong It's not a great leap in the wrong direction, direction, a step in the wrong direction. How much"
+      "start": 159.28,
+      "dur": 1.589,
+      "text": "unpick the climate side to it. I I mean I think what this is simply"
+    },
+    {
+      "start": 160.879,
+      "dur": 2.471,
+      "text": "I I mean I think what this is simply confirming is is is the trend which"
+    },
+    {
+      "start": 163.36,
+      "dur": 2.07,
+      "text": "confirming is is is the trend which we've seen since President Trump took"
+    },
+    {
+      "start": 165.44,
+      "dur": 2.23,
+      "text": "we've seen since President Trump took office which is that there's a push back"
+    },
+    {
+      "start": 167.68,
+      "dur": 2.39,
+      "text": "office which is that there's a push back against the environmental movement"
+    },
+    {
+      "start": 170.08,
+      "dur": 2.47,
+      "text": "against the environmental movement against regulations which which are"
+    },
+    {
+      "start": 172.56,
+      "dur": 2.47,
+      "text": "against regulations which which are seemed to be restricted on industry. So"
+    },
+    {
+      "start": 175.04,
+      "dur": 1.59,
+      "text": "seemed to be restricted on industry. So this is a step in the wrong direction."
+    },
+    {
+      "start": 176.64,
+      "dur": 1.35,
+      "text": "this is a step in the wrong direction. It's not a great leap in the wrong"
+    },
+    {
+      "start": 178.0,
+      "dur": 0.63,
+      "text": "It's not a great leap in the wrong direction,"
+    },
+    {
+      "start": 178.64,
+      "dur": 2.15,
+      "text": "direction, &gt;&gt; a step in the wrong direction. How much"
     },
     {
       "start": 180.8,
-      "dur": 10.3,
-      "text": "a step in the wrong direction. How much do you think this is going to be a blow do you think this is going to be a blow for climate change and all the goals for climate change and all the goals that world leaders are trying to meet that world leaders are trying to meet when it comes to those COP summits and when it comes to those COP summits and various other climate agreements?"
+      "dur": 2.47,
+      "text": "&gt;&gt; a step in the wrong direction. How much do you think this is going to be a blow"
     },
     {
-      "start": 191.1,
-      "dur": 8.4,
-      "text": "various other climate agreements? I mean, as a signal, it certainly sends I mean, as a signal, it certainly sends the wrong signal. It it says that that the wrong signal. It it says that that climate change is not real. It says that"
+      "start": 183.28,
+      "dur": 2.15,
+      "text": "do you think this is going to be a blow for climate change and all the goals"
     },
     {
-      "start": 199.5,
-      "dur": 8.4,
-      "text": "climate change is not real. It says that emissions don't count and that that that emissions don't count and that that that you can do whatever you like. And that's you can do whatever you like. And that's certainly a very bad signal in terms of certainly a very bad signal in terms of the actual emissions. And this may"
+      "start": 185.44,
+      "dur": 1.59,
+      "text": "for climate change and all the goals that world leaders are trying to meet"
     },
     {
-      "start": 207.9,
-      "dur": 8.7,
-      "text": "the actual emissions. And this may surprise you considering I'm an surprise you considering I'm an environmentalist. I don't think it's environmentalist. I don't think it's that serious. Uh the US accounts for that serious. Uh the US accounts for about 11% of total emissions. So even if"
+      "start": 187.04,
+      "dur": 1.67,
+      "text": "that world leaders are trying to meet when it comes to those COP summits and"
     },
     {
-      "start": 216.6,
-      "dur": 9.8,
-      "text": "about 11% of total emissions. So even if we see a 10% increase in their emissions we see a 10% increase in their emissions as a result of this, then you'll see a as a result of this, then you'll see a 1% increase in global emissions. So it 1% increase in global emissions. So it won't have a huge impact on on global"
+      "start": 188.72,
+      "dur": 2.39,
+      "text": "when it comes to those COP summits and various other climate agreements?"
+    },
+    {
+      "start": 191.12,
+      "dur": 2.23,
+      "text": "various other climate agreements? &gt;&gt; I mean, as a signal, it certainly sends"
+    },
+    {
+      "start": 193.36,
+      "dur": 4.149,
+      "text": "&gt;&gt; I mean, as a signal, it certainly sends the wrong signal. It it says that that"
+    },
+    {
+      "start": 197.519,
+      "dur": 1.99,
+      "text": "the wrong signal. It it says that that climate change is not real. It says that"
+    },
+    {
+      "start": 199.519,
+      "dur": 2.391,
+      "text": "climate change is not real. It says that emissions don't count and that that that"
+    },
+    {
+      "start": 201.92,
+      "dur": 1.43,
+      "text": "emissions don't count and that that that you can do whatever you like. And that's"
+    },
+    {
+      "start": 203.36,
+      "dur": 2.39,
+      "text": "you can do whatever you like. And that's certainly a very bad signal in terms of"
+    },
+    {
+      "start": 205.76,
+      "dur": 2.15,
+      "text": "certainly a very bad signal in terms of the actual emissions. And this may"
+    },
+    {
+      "start": 207.92,
+      "dur": 1.35,
+      "text": "the actual emissions. And this may surprise you considering I'm an"
+    },
+    {
+      "start": 209.28,
+      "dur": 1.99,
+      "text": "surprise you considering I'm an environmentalist. I don't think it's"
+    },
+    {
+      "start": 211.28,
+      "dur": 2.47,
+      "text": "environmentalist. I don't think it's that serious. Uh the US accounts for"
+    },
+    {
+      "start": 213.76,
+      "dur": 2.87,
+      "text": "that serious. Uh the US accounts for about 11% of total emissions. So even if"
+    },
+    {
+      "start": 216.64,
+      "dur": 2.869,
+      "text": "about 11% of total emissions. So even if we see a 10% increase in their emissions"
+    },
+    {
+      "start": 219.519,
+      "dur": 2.151,
+      "text": "we see a 10% increase in their emissions as a result of this, then you'll see a"
+    },
+    {
+      "start": 221.68,
+      "dur": 2.15,
+      "text": "as a result of this, then you'll see a 1% increase in global emissions. So it"
+    },
+    {
+      "start": 223.84,
+      "dur": 2.55,
+      "text": "1% increase in global emissions. So it won't have a huge impact on on global"
     },
     {
       "start": 226.4,
-      "dur": 8.2,
-      "text": "won't have a huge impact on on global emissions no matter what what the US emissions no matter what what the US auto industry or the or the fossil fuel auto industry or the or the fossil fuel industry does. M and from an industry does. M and from an also also I just wanted to ask you follow on that"
+      "dur": 1.749,
+      "text": "won't have a huge impact on on global emissions no matter what what the US"
     },
     {
-      "start": 234.6,
-      "dur": 9.6,
-      "text": "I just wanted to ask you follow on that you say it won't have an impact there you say it won't have an impact there but of course President Trump's but of course President Trump's rationale is it he believes it would rationale is it he believes it would have an impact on the cost of cars have an impact on the cost of cars I mean it could I mean if if if car"
+      "start": 228.159,
+      "dur": 1.911,
+      "text": "emissions no matter what what the US auto industry or the or the fossil fuel"
     },
     {
-      "start": 244.2,
-      "dur": 8.4,
-      "text": "I mean it could I mean if if if car manufacturers take out catalyst manufacturers take out catalyst catalytic converters and they they catalytic converters and they they change their engines to make them much change their engines to make them much more polluting then of course it would more polluting then of course it would make the cars cheaper and that would"
+      "start": 230.08,
+      "dur": 2.069,
+      "text": "auto industry or the or the fossil fuel industry does. M and from an"
     },
     {
-      "start": 252.6,
-      "dur": 10.2,
-      "text": "make the cars cheaper and that would boost demand but I don't think car boost demand but I don't think car manufacturers will necessarily do that manufacturers will necessarily do that because the car industry is a global because the car industry is a global industry and and they sell cars outside"
+      "start": 232.159,
+      "dur": 0.79,
+      "text": "industry does. M and from an &gt;&gt; also"
+    },
+    {
+      "start": 232.959,
+      "dur": 1.591,
+      "text": "&gt;&gt; also &gt;&gt; I just wanted to ask you follow on that"
+    },
+    {
+      "start": 234.56,
+      "dur": 1.27,
+      "text": "&gt;&gt; I just wanted to ask you follow on that you say it won't have an impact there"
+    },
+    {
+      "start": 235.84,
+      "dur": 1.19,
+      "text": "you say it won't have an impact there but of course President Trump's"
+    },
+    {
+      "start": 237.04,
+      "dur": 1.67,
+      "text": "but of course President Trump's rationale is it he believes it would"
+    },
+    {
+      "start": 238.72,
+      "dur": 3.11,
+      "text": "rationale is it he believes it would have an impact on the cost of cars"
+    },
+    {
+      "start": 241.84,
+      "dur": 2.389,
+      "text": "have an impact on the cost of cars &gt;&gt; I mean it could I mean if if if car"
+    },
+    {
+      "start": 244.239,
+      "dur": 1.431,
+      "text": "&gt;&gt; I mean it could I mean if if if car manufacturers take out catalyst"
+    },
+    {
+      "start": 245.68,
+      "dur": 1.829,
+      "text": "manufacturers take out catalyst catalytic converters and they they"
+    },
+    {
+      "start": 247.519,
+      "dur": 1.43,
+      "text": "catalytic converters and they they change their engines to make them much"
+    },
+    {
+      "start": 248.959,
+      "dur": 2.151,
+      "text": "change their engines to make them much more polluting then of course it would"
+    },
+    {
+      "start": 251.12,
+      "dur": 1.43,
+      "text": "more polluting then of course it would make the cars cheaper and that would"
+    },
+    {
+      "start": 252.56,
+      "dur": 2.389,
+      "text": "make the cars cheaper and that would boost demand but I don't think car"
+    },
+    {
+      "start": 254.959,
+      "dur": 1.751,
+      "text": "boost demand but I don't think car manufacturers will necessarily do that"
+    },
+    {
+      "start": 256.72,
+      "dur": 2.15,
+      "text": "manufacturers will necessarily do that because the car industry is a global"
+    },
+    {
+      "start": 258.88,
+      "dur": 3.91,
+      "text": "because the car industry is a global industry and and they sell cars outside"
     },
     {
       "start": 262.8,
-      "dur": 8.2,
-      "text": "industry and and they sell cars outside the US as well. So, they're engineered the US as well. So, they're engineered for other markets and and it takes a for other markets and and it takes a long time to re-engineer a car and they long time to re-engineer a car and they spend a lot of time and effort"
+      "dur": 1.829,
+      "text": "industry and and they sell cars outside the US as well. So, they're engineered"
     },
     {
-      "start": 271.0,
-      "dur": 8.2,
-      "text": "spend a lot of time and effort engineering cars to make them less engineering cars to make them less polluting. So, I think it's a signal polluting. So, I think it's a signal again, but I'm not sure the auto again, but I'm not sure the auto industry in the US is going to leap industry in the US is going to leap wholeheartedly into the idea that it can"
+      "start": 264.639,
+      "dur": 2.631,
+      "text": "the US as well. So, they're engineered for other markets and and it takes a"
     },
     {
-      "start": 279.2,
-      "dur": 9.1,
-      "text": "wholeheartedly into the idea that it can take out all these pollution control take out all these pollution control measures. measures. Yeah. And I suppose that's because the Yeah. And I suppose that's because the car market's a global one. And so if car market's a global one. And so if cars were remodified for the US market,"
+      "start": 267.28,
+      "dur": 2.15,
+      "text": "for other markets and and it takes a long time to re-engineer a car and they"
     },
     {
-      "start": 288.3,
-      "dur": 8.3,
-      "text": "cars were remodified for the US market, you wouldn't be able to sell them that you wouldn't be able to sell them that easily in other countries where they do easily in other countries where they do have climate regulations. have climate regulations. Exactly. Now the US doesn't export a Exactly. Now the US doesn't export a huge number of cars, but it does design"
+      "start": 269.44,
+      "dur": 1.51,
+      "text": "long time to re-engineer a car and they spend a lot of time and effort"
     },
     {
-      "start": 296.6,
-      "dur": 8.1,
-      "text": "huge number of cars, but it does design them uh for for international markets. them uh for for international markets. Uh the bigger concern is if they roll Uh the bigger concern is if they roll back the emissions regulations on the"
+      "start": 270.96,
+      "dur": 1.43,
+      "text": "spend a lot of time and effort engineering cars to make them less"
     },
     {
-      "start": 304.7,
-      "dur": 8.3,
-      "text": "back the emissions regulations on the power plants on the fossil fuel power power plants on the fossil fuel power plants because that would certainly plants because that would certainly create a lot more pollution and a lot create a lot more pollution and a lot more emissions. Again, not globally"
+      "start": 272.4,
+      "dur": 2.15,
+      "text": "engineering cars to make them less polluting. So, I think it's a signal"
     },
     {
-      "start": 313.0,
-      "dur": 9.3,
-      "text": "more emissions. Again, not globally important, but certainly for air quality important, but certainly for air quality in the US, that would be very serious. in the US, that would be very serious. And what do you think are the longerterm And what do you think are the longerterm repercussions of this announcement from repercussions of this announcement from the president then?"
+      "start": 274.56,
+      "dur": 1.349,
+      "text": "polluting. So, I think it's a signal again, but I'm not sure the auto"
     },
     {
-      "start": 322.3,
-      "dur": 10.7,
-      "text": "the president then? Well, as again, as I said, not in not Well, as again, as I said, not in not very large. I mean, we've already very large. I mean, we've already reached the the the point where climate reached the the the point where climate change is becoming much more serious. Uh"
+      "start": 275.919,
+      "dur": 1.511,
+      "text": "again, but I'm not sure the auto industry in the US is going to leap"
     },
     {
-      "start": 333.0,
-      "dur": 9.1,
-      "text": "change is becoming much more serious. Uh what we've also got to remember is that what we've also got to remember is that it's not the annual emissions that are it's not the annual emissions that are really important. It's the cumulative really important. It's the cumulative emissions. It's the buildup of emissions emissions. It's the buildup of emissions over the last 200 years and particularly"
+      "start": 277.44,
+      "dur": 1.749,
+      "text": "industry in the US is going to leap wholeheartedly into the idea that it can"
     },
     {
-      "start": 342.1,
-      "dur": 8.3,
-      "text": "over the last 200 years and particularly over the last 50 years that really is over the last 50 years that really is causing climate change. What happens one causing climate change. What happens one year to the next is important, but it's year to the next is important, but it's not nearly as important as as the"
+      "start": 279.199,
+      "dur": 1.351,
+      "text": "wholeheartedly into the idea that it can take out all these pollution control"
+    },
+    {
+      "start": 280.56,
+      "dur": 0.55,
+      "text": "take out all these pollution control measures."
+    },
+    {
+      "start": 281.12,
+      "dur": 1.43,
+      "text": "measures. &gt;&gt; Yeah. And I suppose that's because the"
+    },
+    {
+      "start": 282.56,
+      "dur": 2.55,
+      "text": "&gt;&gt; Yeah. And I suppose that's because the car market's a global one. And so if"
+    },
+    {
+      "start": 285.12,
+      "dur": 3.19,
+      "text": "car market's a global one. And so if cars were remodified for the US market,"
+    },
+    {
+      "start": 288.32,
+      "dur": 1.19,
+      "text": "cars were remodified for the US market, you wouldn't be able to sell them that"
+    },
+    {
+      "start": 289.52,
+      "dur": 1.59,
+      "text": "you wouldn't be able to sell them that easily in other countries where they do"
+    },
+    {
+      "start": 291.12,
+      "dur": 1.91,
+      "text": "easily in other countries where they do have climate regulations."
+    },
+    {
+      "start": 293.04,
+      "dur": 1.75,
+      "text": "have climate regulations. &gt;&gt; Exactly. Now the US doesn't export a"
+    },
+    {
+      "start": 294.8,
+      "dur": 1.829,
+      "text": "&gt;&gt; Exactly. Now the US doesn't export a huge number of cars, but it does design"
+    },
+    {
+      "start": 296.639,
+      "dur": 2.951,
+      "text": "huge number of cars, but it does design them uh for for international markets."
+    },
+    {
+      "start": 299.6,
+      "dur": 2.55,
+      "text": "them uh for for international markets. Uh the bigger concern is if they roll"
+    },
+    {
+      "start": 302.16,
+      "dur": 2.55,
+      "text": "Uh the bigger concern is if they roll back the emissions regulations on the"
+    },
+    {
+      "start": 304.72,
+      "dur": 1.99,
+      "text": "back the emissions regulations on the power plants on the fossil fuel power"
+    },
+    {
+      "start": 306.72,
+      "dur": 1.83,
+      "text": "power plants on the fossil fuel power plants because that would certainly"
+    },
+    {
+      "start": 308.56,
+      "dur": 1.99,
+      "text": "plants because that would certainly create a lot more pollution and a lot"
+    },
+    {
+      "start": 310.56,
+      "dur": 2.39,
+      "text": "create a lot more pollution and a lot more emissions. Again, not globally"
+    },
+    {
+      "start": 312.96,
+      "dur": 1.669,
+      "text": "more emissions. Again, not globally important, but certainly for air quality"
+    },
+    {
+      "start": 314.639,
+      "dur": 1.911,
+      "text": "important, but certainly for air quality in the US, that would be very serious."
+    },
+    {
+      "start": 316.56,
+      "dur": 2.39,
+      "text": "in the US, that would be very serious. &gt;&gt; And what do you think are the longerterm"
+    },
+    {
+      "start": 318.96,
+      "dur": 1.59,
+      "text": "&gt;&gt; And what do you think are the longerterm repercussions of this announcement from"
+    },
+    {
+      "start": 320.56,
+      "dur": 1.75,
+      "text": "repercussions of this announcement from the president then?"
+    },
+    {
+      "start": 322.32,
+      "dur": 2.869,
+      "text": "the president then? &gt;&gt; Well, as again, as I said, not in not"
+    },
+    {
+      "start": 325.199,
+      "dur": 1.591,
+      "text": "&gt;&gt; Well, as again, as I said, not in not very large. I mean, we've already"
+    },
+    {
+      "start": 326.8,
+      "dur": 2.87,
+      "text": "very large. I mean, we've already reached the the the point where climate"
+    },
+    {
+      "start": 329.68,
+      "dur": 3.27,
+      "text": "reached the the the point where climate change is becoming much more serious. Uh"
+    },
+    {
+      "start": 332.96,
+      "dur": 1.669,
+      "text": "change is becoming much more serious. Uh what we've also got to remember is that"
+    },
+    {
+      "start": 334.639,
+      "dur": 1.671,
+      "text": "what we've also got to remember is that it's not the annual emissions that are"
+    },
+    {
+      "start": 336.32,
+      "dur": 1.99,
+      "text": "it's not the annual emissions that are really important. It's the cumulative"
+    },
+    {
+      "start": 338.32,
+      "dur": 1.83,
+      "text": "really important. It's the cumulative emissions. It's the buildup of emissions"
+    },
+    {
+      "start": 340.16,
+      "dur": 1.91,
+      "text": "emissions. It's the buildup of emissions over the last 200 years and particularly"
+    },
+    {
+      "start": 342.08,
+      "dur": 2.23,
+      "text": "over the last 200 years and particularly over the last 50 years that really is"
+    },
+    {
+      "start": 344.32,
+      "dur": 2.149,
+      "text": "over the last 50 years that really is causing climate change. What happens one"
+    },
+    {
+      "start": 346.479,
+      "dur": 2.391,
+      "text": "causing climate change. What happens one year to the next is important, but it's"
+    },
+    {
+      "start": 348.88,
+      "dur": 1.51,
+      "text": "year to the next is important, but it's not nearly as important as as the"
     },
     {
       "start": 350.4,
-      "dur": 8.2,
-      "text": "not nearly as important as as the buildup that's taking place. So what buildup that's taking place. So what we're seeing with the US is that they we're seeing with the US is that they may increase the level of emissions by may increase the level of emissions by maybe another 10%, which would be 1% in"
+      "dur": 1.75,
+      "text": "not nearly as important as as the buildup that's taking place. So what"
     },
     {
-      "start": 358.6,
-      "dur": 8.8,
-      "text": "maybe another 10%, which would be 1% in global terms, which is not going to global terms, which is not going to change the overall outlook at this change the overall outlook at this point. Uh so it's it's it's a very bad point. Uh so it's it's it's a very bad signal, but it's not going to change the"
+      "start": 352.16,
+      "dur": 1.51,
+      "text": "buildup that's taking place. So what we're seeing with the US is that they"
     },
     {
-      "start": 367.4,
-      "dur": 7.8,
-      "text": "signal, but it's not going to change the direction of where we're going to any direction of where we're going to any great degree. great degree. Okay, interesting perspective. Thank you Okay, interesting perspective. Thank you very much for joining us, Graeme Maxton."
+      "start": 353.68,
+      "dur": 1.99,
+      "text": "we're seeing with the US is that they may increase the level of emissions by"
+    },
+    {
+      "start": 355.68,
+      "dur": 2.949,
+      "text": "may increase the level of emissions by maybe another 10%, which would be 1% in"
+    },
+    {
+      "start": 358.639,
+      "dur": 1.83,
+      "text": "maybe another 10%, which would be 1% in global terms, which is not going to"
+    },
+    {
+      "start": 360.479,
+      "dur": 1.591,
+      "text": "global terms, which is not going to change the overall outlook at this"
+    },
+    {
+      "start": 362.08,
+      "dur": 3.03,
+      "text": "change the overall outlook at this point. Uh so it's it's it's a very bad"
+    },
+    {
+      "start": 365.12,
+      "dur": 2.23,
+      "text": "point. Uh so it's it's it's a very bad signal, but it's not going to change the"
+    },
+    {
+      "start": 367.36,
+      "dur": 1.51,
+      "text": "signal, but it's not going to change the direction of where we're going to any"
+    },
+    {
+      "start": 368.88,
+      "dur": 0.95,
+      "text": "direction of where we're going to any great degree."
+    },
+    {
+      "start": 369.84,
+      "dur": 1.51,
+      "text": "great degree. &gt;&gt; Okay, interesting perspective. Thank you"
+    },
+    {
+      "start": 371.36,
+      "dur": 3.839,
+      "text": "&gt;&gt; Okay, interesting perspective. Thank you very much for joining us, Graeme Maxton."
     }
   ]
 }

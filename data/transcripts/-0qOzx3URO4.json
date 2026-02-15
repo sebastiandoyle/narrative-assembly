@@ -1,0 +1,3129 @@
+{
+  "videoId": "-0qOzx3URO4",
+  "title": "One Survivor’s AI Breakthrough Predicts Cancer Years Ahead | BBC News",
+  "publishedAt": "2026-02-09",
+  "channel": "BBC News",
+  "durationSeconds": 1565,
+  "segments": [
+    {
+      "start": 4.0,
+      "dur": 2.0,
+      "text": "We should be asking Regina to say Regina"
+    },
+    {
+      "start": 6.0,
+      "dur": 1.829,
+      "text": "We should be asking Regina to say Regina please. She may have even studied this."
+    },
+    {
+      "start": 7.839,
+      "dur": 1.83,
+      "text": "please. She may have even studied this. Have you have you studied this Regina?"
+    },
+    {
+      "start": 9.679,
+      "dur": 2.07,
+      "text": "Have you have you studied this Regina? &gt;&gt; I did have cards but it was before the"
+    },
+    {
+      "start": 11.759,
+      "dur": 2.471,
+      "text": "&gt;&gt; I did have cards but it was before the AI time. But I would tell you what"
+    },
+    {
+      "start": 14.24,
+      "dur": 1.75,
+      "text": "AI time. But I would tell you what actually you now we're trying to"
+    },
+    {
+      "start": 16.0,
+      "dur": 2.23,
+      "text": "actually you now we're trying to understand there is some content as you"
+    },
+    {
+      "start": 18.24,
+      "dur": 2.15,
+      "text": "understand there is some content as you know we've seen from the letter when the"
+    },
+    {
+      "start": 20.4,
+      "dur": 2.15,
+      "text": "know we've seen from the letter when the cats are excited and some which is not"
+    },
+    {
+      "start": 22.56,
+      "dur": 1.91,
+      "text": "cats are excited and some which is not and you can imagine that if we want to"
+    },
+    {
+      "start": 24.48,
+      "dur": 2.709,
+      "text": "and you can imagine that if we want to fully automate the generation of movies"
+    },
+    {
+      "start": 27.199,
+      "dur": 3.031,
+      "text": "fully automate the generation of movies we can just have an AI system that you"
+    },
+    {
+      "start": 30.24,
+      "dur": 2.79,
+      "text": "we can just have an AI system that you know in mass trains on the cards and"
+    },
+    {
+      "start": 33.04,
+      "dur": 3.27,
+      "text": "know in mass trains on the cards and their reactions and then creates a"
+    },
+    {
+      "start": 36.32,
+      "dur": 2.31,
+      "text": "their reactions and then creates a customized content which would really"
+    },
+    {
+      "start": 38.64,
+      "dur": 3.19,
+      "text": "customized content which would really make the captivated for hours. It may"
+    },
+    {
+      "start": 41.84,
+      "dur": 2.79,
+      "text": "make the captivated for hours. It may not be good for the cat uh you know"
+    },
+    {
+      "start": 44.64,
+      "dur": 0.79,
+      "text": "not be good for the cat uh you know health."
+    },
+    {
+      "start": 45.44,
+      "dur": 2.31,
+      "text": "health. &gt;&gt; I can see why you're on the time I can"
+    },
+    {
+      "start": 47.76,
+      "dur": 1.99,
+      "text": "&gt;&gt; I can see why you're on the time I can see why you're on the Time magazine 100"
+    },
+    {
+      "start": 49.76,
+      "dur": 11.19,
+      "text": "see why you're on the Time magazine 100 list. Look at that."
+    },
+    {
+      "start": 60.96,
+      "dur": 2.56,
+      "text": "&gt;&gt; Welcome to AI Decoded. This week we are"
+    },
+    {
+      "start": 63.52,
+      "dur": 2.47,
+      "text": "&gt;&gt; Welcome to AI Decoded. This week we are focusing on one of the most urgent"
+    },
+    {
+      "start": 66.0,
+      "dur": 2.149,
+      "text": "focusing on one of the most urgent tangible uses of artificial"
+    },
+    {
+      "start": 68.159,
+      "dur": 2.871,
+      "text": "tangible uses of artificial intelligence, healthcare. We're about to"
+    },
+    {
+      "start": 71.04,
+      "dur": 2.15,
+      "text": "intelligence, healthcare. We're about to speak to a scientist who is already"
+    },
+    {
+      "start": 73.2,
+      "dur": 3.43,
+      "text": "speak to a scientist who is already using AI to detect and treat cancer. She"
+    },
+    {
+      "start": 76.64,
+      "dur": 3.35,
+      "text": "using AI to detect and treat cancer. She is Dr. Regina Basel, an MIT professor"
+    },
+    {
+      "start": 80.0,
+      "dur": 1.83,
+      "text": "is Dr. Regina Basel, an MIT professor who herself was diagnosed with breast"
+    },
+    {
+      "start": 81.84,
+      "dur": 2.949,
+      "text": "who herself was diagnosed with breast cancer in 2014 and has used that"
+    },
+    {
+      "start": 84.799,
+      "dur": 2.151,
+      "text": "cancer in 2014 and has used that experience to target her research"
+    },
+    {
+      "start": 86.96,
+      "dur": 2.39,
+      "text": "experience to target her research towards prevention. The AI model she and"
+    },
+    {
+      "start": 89.36,
+      "dur": 3.109,
+      "text": "towards prevention. The AI model she and her team built named Meri is now able to"
+    },
+    {
+      "start": 92.479,
+      "dur": 2.151,
+      "text": "her team built named Meri is now able to detect a patient's risk of developing"
+    },
+    {
+      "start": 94.64,
+      "dur": 3.91,
+      "text": "detect a patient's risk of developing breast cancer within 5 years. It is uh"
+    },
+    {
+      "start": 98.56,
+      "dur": 1.75,
+      "text": "breast cancer within 5 years. It is uh quite an extraordinary breakthrough. To"
+    },
+    {
+      "start": 100.32,
+      "dur": 1.829,
+      "text": "quite an extraordinary breakthrough. To date, it's been used on over two million"
+    },
+    {
+      "start": 102.159,
+      "dur": 3.59,
+      "text": "date, it's been used on over two million mammograms in 48 hospitals and across 22"
+    },
+    {
+      "start": 105.759,
+      "dur": 2.071,
+      "text": "mammograms in 48 hospitals and across 22 countries. In fact, she was recently"
+    },
+    {
+      "start": 107.84,
+      "dur": 2.309,
+      "text": "countries. In fact, she was recently recognized by Time magazine as one of"
+    },
+    {
+      "start": 110.159,
+      "dur": 3.511,
+      "text": "recognized by Time magazine as one of the top 100 most influential people in"
+    },
+    {
+      "start": 113.68,
+      "dur": 2.15,
+      "text": "the top 100 most influential people in artificial intelligence. Dr. Basel,"
+    },
+    {
+      "start": 115.84,
+      "dur": 1.11,
+      "text": "artificial intelligence. Dr. Basel, welcome to the program."
+    },
+    {
+      "start": 116.96,
+      "dur": 2.55,
+      "text": "welcome to the program. &gt;&gt; Hey, and very happy to be here."
+    },
+    {
+      "start": 119.52,
+      "dur": 1.51,
+      "text": "&gt;&gt; Hey, and very happy to be here. &gt;&gt; Also with us, of course, our regular"
+    },
+    {
+      "start": 121.04,
+      "dur": 2.23,
+      "text": "&gt;&gt; Also with us, of course, our regular co-host Dr. Stephanie Hair and the BBC's"
+    },
+    {
+      "start": 123.28,
+      "dur": 3.109,
+      "text": "co-host Dr. Stephanie Hair and the BBC's AI correspondent, Mark Chislac. Dr."
+    },
+    {
+      "start": 126.399,
+      "dur": 1.83,
+      "text": "AI correspondent, Mark Chislac. Dr. Basel you've you you said that your"
+    },
+    {
+      "start": 128.239,
+      "dur": 2.23,
+      "text": "Basel you've you you said that your cancer diagnosis changed the direction"
+    },
+    {
+      "start": 130.479,
+      "dur": 2.631,
+      "text": "cancer diagnosis changed the direction of your research. Take us back to that"
+    },
+    {
+      "start": 133.12,
+      "dur": 1.749,
+      "text": "of your research. Take us back to that moment. Why did you suddenly come to the"
+    },
+    {
+      "start": 134.879,
+      "dur": 2.871,
+      "text": "moment. Why did you suddenly come to the realization that AI could play a much"
+    },
+    {
+      "start": 137.76,
+      "dur": 2.15,
+      "text": "realization that AI could play a much bigger role in preventing cancers like"
+    },
+    {
+      "start": 139.92,
+      "dur": 0.55,
+      "text": "bigger role in preventing cancers like yours?"
+    },
+    {
+      "start": 140.48,
+      "dur": 2.55,
+      "text": "yours? &gt;&gt; So first of all I need to go back to"
+    },
+    {
+      "start": 143.04,
+      "dur": 4.31,
+      "text": "&gt;&gt; So first of all I need to go back to 2014. Uh in 2014 AI was still not a word"
+    },
+    {
+      "start": 147.36,
+      "dur": 1.99,
+      "text": "2014. Uh in 2014 AI was still not a word that you know everybody knew and"
+    },
+    {
+      "start": 149.36,
+      "dur": 2.949,
+      "text": "that you know everybody knew and everybody used. It was something for LA"
+    },
+    {
+      "start": 152.319,
+      "dur": 1.91,
+      "text": "everybody used. It was something for LA audience which was more kind of a"
+    },
+    {
+      "start": 154.239,
+      "dur": 2.391,
+      "text": "audience which was more kind of a scientific abstract notion not a"
+    },
+    {
+      "start": 156.64,
+      "dur": 1.75,
+      "text": "scientific abstract notion not a concrete technology that we're using"
+    },
+    {
+      "start": 158.4,
+      "dur": 4.23,
+      "text": "concrete technology that we're using every day. And when I came as a patient"
+    },
+    {
+      "start": 162.64,
+      "dur": 2.39,
+      "text": "every day. And when I came as a patient to Massachusetts General Hospital it is"
+    },
+    {
+      "start": 165.04,
+      "dur": 2.15,
+      "text": "to Massachusetts General Hospital it is located just across a bridge from MIT."
+    },
+    {
+      "start": 167.2,
+      "dur": 2.389,
+      "text": "located just across a bridge from MIT. It's like 20 minutes walk. You know I"
+    },
+    {
+      "start": 169.599,
+      "dur": 2.951,
+      "text": "It's like 20 minutes walk. You know I was really surprised as a patient what a"
+    },
+    {
+      "start": 172.56,
+      "dur": 2.63,
+      "text": "was really surprised as a patient what a huge difference there is between what we"
+    },
+    {
+      "start": 175.2,
+      "dur": 2.07,
+      "text": "huge difference there is between what we do at MIT and what I knew about"
+    },
+    {
+      "start": 177.28,
+      "dur": 2.79,
+      "text": "do at MIT and what I knew about technology in all other areas of life."
+    },
+    {
+      "start": 180.08,
+      "dur": 2.55,
+      "text": "technology in all other areas of life. And what I observed in a hospital which"
+    },
+    {
+      "start": 182.64,
+      "dur": 1.75,
+      "text": "And what I observed in a hospital which is considered one of the top hospitals"
+    },
+    {
+      "start": 184.4,
+      "dur": 2.469,
+      "text": "is considered one of the top hospitals in the United States, none of the"
+    },
+    {
+      "start": 186.879,
+      "dur": 1.511,
+      "text": "in the United States, none of the information technologies that is"
+    },
+    {
+      "start": 188.4,
+      "dur": 2.79,
+      "text": "information technologies that is routinely used everywhere"
+    },
+    {
+      "start": 191.2,
+      "dur": 4.15,
+      "text": "routinely used everywhere was not used in patient care. And this"
+    },
+    {
+      "start": 195.36,
+      "dur": 2.47,
+      "text": "was not used in patient care. And this was particularly surprising in the case"
+    },
+    {
+      "start": 197.84,
+      "dur": 2.389,
+      "text": "was particularly surprising in the case of cancer care because there are so many"
+    },
+    {
+      "start": 200.239,
+      "dur": 2.951,
+      "text": "of cancer care because there are so many questions as to you know what will"
+    },
+    {
+      "start": 203.2,
+      "dur": 2.389,
+      "text": "questions as to you know what will happen and whatever question you ask"
+    },
+    {
+      "start": 205.599,
+      "dur": 2.871,
+      "text": "happen and whatever question you ask your uh treating team the answer would"
+    },
+    {
+      "start": 208.48,
+      "dur": 3.19,
+      "text": "your uh treating team the answer would be you know uh there was this clinical"
+    },
+    {
+      "start": 211.68,
+      "dur": 2.15,
+      "text": "be you know uh there was this clinical trial that happened 10 years ago and"
+    },
+    {
+      "start": 213.84,
+      "dur": 2.389,
+      "text": "trial that happened 10 years ago and this is the list of outcomes and you're"
+    },
+    {
+      "start": 216.239,
+      "dur": 1.511,
+      "text": "this is the list of outcomes and you're saying but what's going to happen to me"
+    },
+    {
+      "start": 217.76,
+      "dur": 2.549,
+      "text": "saying but what's going to happen to me which is a normal prediction problem and"
+    },
+    {
+      "start": 220.319,
+      "dur": 1.751,
+      "text": "which is a normal prediction problem and the answer would you can you know go"
+    },
+    {
+      "start": 222.08,
+      "dur": 2.709,
+      "text": "the answer would you can you know go read the study and decide. So there is a"
+    },
+    {
+      "start": 224.799,
+      "dur": 2.471,
+      "text": "read the study and decide. So there is a lot of uncertainty in all the stages of"
+    },
+    {
+      "start": 227.28,
+      "dur": 2.309,
+      "text": "lot of uncertainty in all the stages of diagnosis and treatment and it was clear"
+    },
+    {
+      "start": 229.599,
+      "dur": 4.231,
+      "text": "diagnosis and treatment and it was clear to me that AI can really help here."
+    },
+    {
+      "start": 233.84,
+      "dur": 3.589,
+      "text": "to me that AI can really help here. &gt;&gt; So then you come to this this AI model"
+    },
+    {
+      "start": 237.439,
+      "dur": 1.99,
+      "text": "&gt;&gt; So then you come to this this AI model called mi if I'm right is that the"
+    },
+    {
+      "start": 239.439,
+      "dur": 1.751,
+      "text": "called mi if I'm right is that the Japanese word for future was that the"
+    },
+    {
+      "start": 241.2,
+      "dur": 1.35,
+      "text": "Japanese word for future was that the intention"
+    },
+    {
+      "start": 242.56,
+      "dur": 3.51,
+      "text": "intention &gt;&gt; yes indeed uh my student adala who is"
+    },
+    {
+      "start": 246.08,
+      "dur": 1.91,
+      "text": "&gt;&gt; yes indeed uh my student adala who is currently a professor at Berkeley and"
+    },
+    {
+      "start": 248.0,
+      "dur": 3.03,
+      "text": "currently a professor at Berkeley and UCSF come up with this name. He really"
+    },
+    {
+      "start": 251.04,
+      "dur": 3.109,
+      "text": "UCSF come up with this name. He really thought of it as a future diagnostics."
+    },
+    {
+      "start": 254.159,
+      "dur": 1.91,
+      "text": "thought of it as a future diagnostics. &gt;&gt; Okay. Well, it's very futuristic in what"
+    },
+    {
+      "start": 256.079,
+      "dur": 2.87,
+      "text": "&gt;&gt; Okay. Well, it's very futuristic in what it does. You say that it can estimate"
+    },
+    {
+      "start": 258.959,
+      "dur": 2.55,
+      "text": "it does. You say that it can estimate breast cancer risk years before the"
+    },
+    {
+      "start": 261.519,
+      "dur": 2.711,
+      "text": "breast cancer risk years before the symptoms appear. What signals is the"
+    },
+    {
+      "start": 264.24,
+      "dur": 1.509,
+      "text": "symptoms appear. What signals is the model"
+    },
+    {
+      "start": 265.759,
+      "dur": 1.671,
+      "text": "model seeing that clinicians traditionally"
+    },
+    {
+      "start": 267.44,
+      "dur": 2.95,
+      "text": "seeing that clinicians traditionally can't or don't see."
+    },
+    {
+      "start": 270.4,
+      "dur": 2.069,
+      "text": "can't or don't see. &gt;&gt; So, let me first before we even talk"
+    },
+    {
+      "start": 272.479,
+      "dur": 3.191,
+      "text": "&gt;&gt; So, let me first before we even talk about AI bring you to a point that"
+    },
+    {
+      "start": 275.68,
+      "dur": 2.63,
+      "text": "about AI bring you to a point that majority of radiologists and oncologists"
+    },
+    {
+      "start": 278.32,
+      "dur": 2.07,
+      "text": "majority of radiologists and oncologists agree. There are a lot of studies that"
+    },
+    {
+      "start": 280.4,
+      "dur": 1.509,
+      "text": "agree. There are a lot of studies that confirm it is that actually when a"
+    },
+    {
+      "start": 281.919,
+      "dur": 3.111,
+      "text": "confirm it is that actually when a patient is diagnosed with cancer often"
+    },
+    {
+      "start": 285.04,
+      "dur": 2.63,
+      "text": "patient is diagnosed with cancer often when we look back at the previous image"
+    },
+    {
+      "start": 287.68,
+      "dur": 2.069,
+      "text": "when we look back at the previous image the signs of cancer maybe the cancer"
+    },
+    {
+      "start": 289.759,
+      "dur": 2.311,
+      "text": "the signs of cancer maybe the cancer itself was already there it was just"
+    },
+    {
+      "start": 292.08,
+      "dur": 3.35,
+      "text": "itself was already there it was just ambiguous it was too hard to diagnose"
+    },
+    {
+      "start": 295.44,
+      "dur": 2.07,
+      "text": "ambiguous it was too hard to diagnose and it's not necessarily we can think of"
+    },
+    {
+      "start": 297.52,
+      "dur": 1.83,
+      "text": "and it's not necessarily we can think of it as a mistake because if you ever seen"
+    },
+    {
+      "start": 299.36,
+      "dur": 1.829,
+      "text": "it as a mistake because if you ever seen a mamogram or any other medical image"
+    },
+    {
+      "start": 301.199,
+      "dur": 2.071,
+      "text": "a mamogram or any other medical image there are a lot of you know white areas"
+    },
+    {
+      "start": 303.28,
+      "dur": 1.909,
+      "text": "there are a lot of you know white areas it's not like I'm in doubt let's go and"
+    },
+    {
+      "start": 305.199,
+      "dur": 1.911,
+      "text": "it's not like I'm in doubt let's go and pull because it means we need to do a"
+    },
+    {
+      "start": 307.12,
+      "dur": 1.67,
+      "text": "pull because it means we need to do a biopsy which is a surgery which have"
+    },
+    {
+      "start": 308.8,
+      "dur": 1.99,
+      "text": "biopsy which is a surgery which have sight side effects which cost which you"
+    },
+    {
+      "start": 310.8,
+      "dur": 2.229,
+      "text": "sight side effects which cost which you know take the patient uh out of their"
+    },
+    {
+      "start": 313.039,
+      "dur": 4.311,
+      "text": "know take the patient uh out of their ordinary life. So at the end um you know"
+    },
+    {
+      "start": 317.36,
+      "dur": 2.389,
+      "text": "ordinary life. So at the end um you know clinicians can only tell you should go"
+    },
+    {
+      "start": 319.759,
+      "dur": 1.99,
+      "text": "clinicians can only tell you should go for biopsy when they're really sure that"
+    },
+    {
+      "start": 321.759,
+      "dur": 2.231,
+      "text": "for biopsy when they're really sure that there's a very high probability because"
+    },
+    {
+      "start": 324.0,
+      "dur": 2.629,
+      "text": "there's a very high probability because it's very hard for human eye to"
+    },
+    {
+      "start": 326.639,
+      "dur": 2.231,
+      "text": "it's very hard for human eye to discriminate this very subtle changes."
+    },
+    {
+      "start": 328.88,
+      "dur": 2.79,
+      "text": "discriminate this very subtle changes. So before it becomes big enough that we"
+    },
+    {
+      "start": 331.68,
+      "dur": 2.31,
+      "text": "So before it becomes big enough that we can really see it very clearly nobody"
+    },
+    {
+      "start": 334.0,
+      "dur": 2.629,
+      "text": "can really see it very clearly nobody will going to send a patient to biopsy"
+    },
+    {
+      "start": 336.639,
+      "dur": 3.83,
+      "text": "will going to send a patient to biopsy and what machine can do machine can"
+    },
+    {
+      "start": 340.479,
+      "dur": 3.351,
+      "text": "and what machine can do machine can identify very very subtle changes in"
+    },
+    {
+      "start": 343.84,
+      "dur": 3.51,
+      "text": "identify very very subtle changes in color in texture and other things. So in"
+    },
+    {
+      "start": 347.36,
+      "dur": 3.03,
+      "text": "color in texture and other things. So in many ways it's much better equipped than"
+    },
+    {
+      "start": 350.4,
+      "dur": 2.95,
+      "text": "many ways it's much better equipped than a human eye to see these very subtle"
+    },
+    {
+      "start": 353.36,
+      "dur": 2.87,
+      "text": "a human eye to see these very subtle changes and if you train it correctly it"
+    },
+    {
+      "start": 356.24,
+      "dur": 2.07,
+      "text": "changes and if you train it correctly it would be able to say ahead of time that"
+    },
+    {
+      "start": 358.32,
+      "dur": 2.79,
+      "text": "would be able to say ahead of time that the changes are already underway."
+    },
+    {
+      "start": 361.12,
+      "dur": 1.75,
+      "text": "the changes are already underway. &gt;&gt; Regina if I may come in for just a"
+    },
+    {
+      "start": 362.88,
+      "dur": 2.869,
+      "text": "&gt;&gt; Regina if I may come in for just a moment I'm really curious about this. So"
+    },
+    {
+      "start": 365.759,
+      "dur": 2.231,
+      "text": "moment I'm really curious about this. So first of all we spoke a couple of months"
+    },
+    {
+      "start": 368.0,
+      "dur": 2.55,
+      "text": "first of all we spoke a couple of months ago you and I and it was a big question"
+    },
+    {
+      "start": 370.56,
+      "dur": 2.15,
+      "text": "ago you and I and it was a big question about the way that health care differs"
+    },
+    {
+      "start": 372.72,
+      "dur": 3.11,
+      "text": "about the way that health care differs around the world. So if prevention and"
+    },
+    {
+      "start": 375.84,
+      "dur": 2.789,
+      "text": "around the world. So if prevention and early detection is key,"
+    },
+    {
+      "start": 378.639,
+      "dur": 2.151,
+      "text": "early detection is key, do we need to at the very first thing"
+    },
+    {
+      "start": 380.8,
+      "dur": 2.229,
+      "text": "do we need to at the very first thing before we even throw AI at the problem"
+    },
+    {
+      "start": 383.039,
+      "dur": 2.471,
+      "text": "before we even throw AI at the problem get some consensus around what age is"
+    },
+    {
+      "start": 385.52,
+      "dur": 1.83,
+      "text": "get some consensus around what age is the best age for women to be having"
+    },
+    {
+      "start": 387.36,
+      "dur": 3.75,
+      "text": "the best age for women to be having mamograms? When should we start that?"
+    },
+    {
+      "start": 391.12,
+      "dur": 1.99,
+      "text": "mamograms? When should we start that? So I actually think that the question"
+    },
+    {
+      "start": 393.12,
+      "dur": 2.87,
+      "text": "So I actually think that the question when we should start and the questions"
+    },
+    {
+      "start": 396.0,
+      "dur": 3.189,
+      "text": "when we should start and the questions what do we you know how we go after that"
+    },
+    {
+      "start": 399.199,
+      "dur": 3.751,
+      "text": "what do we you know how we go after that they're very much intertwined because"
+    },
+    {
+      "start": 402.96,
+      "dur": 2.87,
+      "text": "they're very much intertwined because imagine like in and there's a huge"
+    },
+    {
+      "start": 405.84,
+      "dur": 2.069,
+      "text": "imagine like in and there's a huge variance in terms of how different"
+    },
+    {
+      "start": 407.919,
+      "dur": 1.911,
+      "text": "variance in terms of how different country approach screening because it's"
+    },
+    {
+      "start": 409.84,
+      "dur": 1.83,
+      "text": "country approach screening because it's typically a national policy as we know"
+    },
+    {
+      "start": 411.68,
+      "dur": 3.03,
+      "text": "typically a national policy as we know in the UK it's every three years for you"
+    },
+    {
+      "start": 414.72,
+      "dur": 2.39,
+      "text": "in the UK it's every three years for you know general population you know in the"
+    },
+    {
+      "start": 417.12,
+      "dur": 3.11,
+      "text": "know general population you know in the United States um it's every year"
+    },
+    {
+      "start": 420.24,
+      "dur": 1.91,
+      "text": "United States um it's every year according to one professional society"
+    },
+    {
+      "start": 422.16,
+      "dur": 1.749,
+      "text": "according to one professional society and every two years according to another"
+    },
+    {
+      "start": 423.919,
+      "dur": 2.231,
+      "text": "and every two years according to another but insurance have to pay you every year"
+    },
+    {
+      "start": 426.16,
+      "dur": 2.469,
+      "text": "but insurance have to pay you every year in Israel it's every two years so there"
+    },
+    {
+      "start": 428.639,
+      "dur": 3.67,
+      "text": "in Israel it's every two years so there is a huge discrepancy in what's going on"
+    },
+    {
+      "start": 432.319,
+      "dur": 1.911,
+      "text": "is a huge discrepancy in what's going on and and there is another again the big"
+    },
+    {
+      "start": 434.24,
+      "dur": 2.47,
+      "text": "and and there is another again the big question is when do we start so one"
+    },
+    {
+      "start": 436.72,
+      "dur": 3.35,
+      "text": "question is when do we start so one scenario that we can imagine is scenario"
+    },
+    {
+      "start": 440.08,
+      "dur": 1.669,
+      "text": "scenario that we can imagine is scenario that we screen everybody let's say at"
+    },
+    {
+      "start": 441.759,
+      "dur": 2.791,
+      "text": "that we screen everybody let's say at age 40 um which is an expense indeed"
+    },
+    {
+      "start": 444.56,
+      "dur": 1.029,
+      "text": "age 40 um which is an expense indeed because we're going to be screening the"
+    },
+    {
+      "start": 445.599,
+      "dur": 1.43,
+      "text": "because we're going to be screening the whole population but we're going to say"
+    },
+    {
+      "start": 447.039,
+      "dur": 3.911,
+      "text": "whole population but we're going to say you know for 97 7% of women they can"
+    },
+    {
+      "start": 450.96,
+      "dur": 3.43,
+      "text": "you know for 97 7% of women they can come back at age 50 or whatever they"
+    },
+    {
+      "start": 454.4,
+      "dur": 1.83,
+      "text": "come back at age 50 or whatever they will determine the next screening piece"
+    },
+    {
+      "start": 456.24,
+      "dur": 3.83,
+      "text": "will determine the next screening piece and another uh remaining 3% which are"
+    },
+    {
+      "start": 460.08,
+      "dur": 1.59,
+      "text": "and another uh remaining 3% which are deemed high risk they actually are going"
+    },
+    {
+      "start": 461.68,
+      "dur": 3.67,
+      "text": "deemed high risk they actually are going to be screened much earlier today it"
+    },
+    {
+      "start": 465.36,
+      "dur": 1.99,
+      "text": "to be screened much earlier today it doesn't happen I'm really happy that you"
+    },
+    {
+      "start": 467.36,
+      "dur": 1.75,
+      "text": "doesn't happen I'm really happy that you asked me this question because I just"
+    },
+    {
+      "start": 469.12,
+      "dur": 3.99,
+      "text": "asked me this question because I just recently look at the numbers in Israel"
+    },
+    {
+      "start": 473.12,
+      "dur": 2.469,
+      "text": "recently look at the numbers in Israel and in Israel the recommended screening"
+    },
+    {
+      "start": 475.599,
+      "dur": 5.03,
+      "text": "and in Israel the recommended screening is at age 50 and it turns Now that 25%"
+    },
+    {
+      "start": 480.639,
+      "dur": 3.591,
+      "text": "is at age 50 and it turns Now that 25% of breast cancers happen to women before"
+    },
+    {
+      "start": 484.24,
+      "dur": 3.19,
+      "text": "of breast cancers happen to women before age 50 and these women because they are"
+    },
+    {
+      "start": 487.44,
+      "dur": 3.749,
+      "text": "age 50 and these women because they are not screened actually their detection um"
+    },
+    {
+      "start": 491.199,
+      "dur": 2.471,
+      "text": "not screened actually their detection um stage is much higher than those"
+    },
+    {
+      "start": 493.68,
+      "dur": 2.069,
+      "text": "stage is much higher than those counterparts who are screened which is"
+    },
+    {
+      "start": 495.759,
+      "dur": 2.791,
+      "text": "counterparts who are screened which is really a terrible thing but at the same"
+    },
+    {
+      "start": 498.56,
+      "dur": 4.069,
+      "text": "really a terrible thing but at the same time it will be a very big expense and"
+    },
+    {
+      "start": 502.639,
+      "dur": 1.99,
+      "text": "time it will be a very big expense and also you know a lot of unnecessary"
+    },
+    {
+      "start": 504.639,
+      "dur": 2.871,
+      "text": "also you know a lot of unnecessary burden to to younger women to go and"
+    },
+    {
+      "start": 507.52,
+      "dur": 1.75,
+      "text": "burden to to younger women to go and screen themselves you every"
+    },
+    {
+      "start": 509.28,
+      "dur": 1.909,
+      "text": "screen themselves you every &gt;&gt; just just to just to interject there. Is"
+    },
+    {
+      "start": 511.199,
+      "dur": 1.591,
+      "text": "&gt;&gt; just just to just to interject there. Is is this the point then where the"
+    },
+    {
+      "start": 512.8,
+      "dur": 2.63,
+      "text": "is this the point then where the technology really makes a giant step"
+    },
+    {
+      "start": 515.44,
+      "dur": 2.87,
+      "text": "technology really makes a giant step forward? Because if if there is a a cost"
+    },
+    {
+      "start": 518.32,
+      "dur": 3.91,
+      "text": "forward? Because if if there is a a cost imperative to this and you can analyze"
+    },
+    {
+      "start": 522.24,
+      "dur": 1.83,
+      "text": "imperative to this and you can analyze mamograms that much quicker and that"
+    },
+    {
+      "start": 524.08,
+      "dur": 1.91,
+      "text": "mamograms that much quicker and that much more efficiently and cheaper"
+    },
+    {
+      "start": 526.0,
+      "dur": 2.47,
+      "text": "much more efficiently and cheaper presumably then you could start the"
+    },
+    {
+      "start": 528.48,
+      "dur": 2.87,
+      "text": "presumably then you could start the process that much earlier. Surely"
+    },
+    {
+      "start": 531.36,
+      "dur": 1.83,
+      "text": "process that much earlier. Surely &gt;&gt; the point is not to start it earlier."
+    },
+    {
+      "start": 533.2,
+      "dur": 2.309,
+      "text": "&gt;&gt; the point is not to start it earlier. The point is just to say that vast"
+    },
+    {
+      "start": 535.519,
+      "dur": 2.071,
+      "text": "The point is just to say that vast majority of population doesn't need to"
+    },
+    {
+      "start": 537.6,
+      "dur": 2.229,
+      "text": "majority of population doesn't need to to start very early screening. They can"
+    },
+    {
+      "start": 539.839,
+      "dur": 2.071,
+      "text": "to start very early screening. They can come back at 50 but there will be very"
+    },
+    {
+      "start": 541.92,
+      "dur": 2.71,
+      "text": "come back at 50 but there will be very few that do need to have something"
+    },
+    {
+      "start": 544.64,
+      "dur": 2.15,
+      "text": "few that do need to have something special and they need to be screened"
+    },
+    {
+      "start": 546.8,
+      "dur": 0.87,
+      "text": "special and they need to be screened much earlier."
+    },
+    {
+      "start": 547.68,
+      "dur": 1.91,
+      "text": "much earlier. &gt;&gt; Dr. Barzel, can I can I just jump in"
+    },
+    {
+      "start": 549.6,
+      "dur": 3.03,
+      "text": "&gt;&gt; Dr. Barzel, can I can I just jump in there? There's another important strand"
+    },
+    {
+      "start": 552.64,
+      "dur": 2.15,
+      "text": "there? There's another important strand to this work. Um I think it was"
+    },
+    {
+      "start": 554.8,
+      "dur": 2.149,
+      "text": "to this work. Um I think it was highlighted by the National Academy of"
+    },
+    {
+      "start": 556.959,
+      "dur": 1.911,
+      "text": "highlighted by the National Academy of Medicine last year. You developed AI"
+    },
+    {
+      "start": 558.88,
+      "dur": 3.67,
+      "text": "Medicine last year. You developed AI models that predict how effective flu"
+    },
+    {
+      "start": 562.56,
+      "dur": 2.87,
+      "text": "models that predict how effective flu vaccines are likely to be forecasting"
+    },
+    {
+      "start": 565.44,
+      "dur": 1.99,
+      "text": "vaccines are likely to be forecasting what the spread is going to be into the"
+    },
+    {
+      "start": 567.44,
+      "dur": 2.55,
+      "text": "what the spread is going to be into the next season. Now, this is crucially"
+    },
+    {
+      "start": 570.0,
+      "dur": 2.79,
+      "text": "next season. Now, this is crucially important because we see every single"
+    },
+    {
+      "start": 572.8,
+      "dur": 3.029,
+      "text": "important because we see every single winter um our health services come under"
+    },
+    {
+      "start": 575.839,
+      "dur": 2.071,
+      "text": "winter um our health services come under enormous strain as a result of these"
+    },
+    {
+      "start": 577.92,
+      "dur": 1.99,
+      "text": "enormous strain as a result of these these sorts of illnesses which limits"
+    },
+    {
+      "start": 579.92,
+      "dur": 2.95,
+      "text": "these sorts of illnesses which limits their ability to provide services. So do"
+    },
+    {
+      "start": 582.88,
+      "dur": 1.83,
+      "text": "their ability to provide services. So do you think it's it's important it's it's"
+    },
+    {
+      "start": 584.72,
+      "dur": 2.549,
+      "text": "you think it's it's important it's it's it's crucially important to see these"
+    },
+    {
+      "start": 587.279,
+      "dur": 1.591,
+      "text": "it's crucially important to see these kind of innovations."
+    },
+    {
+      "start": 588.88,
+      "dur": 2.069,
+      "text": "kind of innovations. &gt;&gt; So thank you for bringing up the flu"
+    },
+    {
+      "start": 590.959,
+      "dur": 2.31,
+      "text": "&gt;&gt; So thank you for bringing up the flu vaccine. So it's very interesting"
+    },
+    {
+      "start": 593.279,
+      "dur": 2.311,
+      "text": "vaccine. So it's very interesting because this year if you are following"
+    },
+    {
+      "start": 595.6,
+      "dur": 2.87,
+      "text": "because this year if you are following the news uh actually the selection was"
+    },
+    {
+      "start": 598.48,
+      "dur": 2.55,
+      "text": "the news uh actually the selection was really not a great selection and"
+    },
+    {
+      "start": 601.04,
+      "dur": 2.15,
+      "text": "really not a great selection and literally every day we're reading about"
+    },
+    {
+      "start": 603.2,
+      "dur": 2.069,
+      "text": "literally every day we're reading about uh you know hospitalization burden and"
+    },
+    {
+      "start": 605.279,
+      "dur": 2.311,
+      "text": "uh you know hospitalization burden and death especially in children. So"
+    },
+    {
+      "start": 607.6,
+      "dur": 1.909,
+      "text": "death especially in children. So actually the problem that we solved in"
+    },
+    {
+      "start": 609.519,
+      "dur": 2.391,
+      "text": "actually the problem that we solved in our paper is slightly different because"
+    },
+    {
+      "start": 611.92,
+      "dur": 3.51,
+      "text": "our paper is slightly different because at a time when you know WH decides which"
+    },
+    {
+      "start": 615.44,
+      "dur": 2.47,
+      "text": "at a time when you know WH decides which strain to use they look at kind of a set"
+    },
+    {
+      "start": 617.92,
+      "dur": 2.71,
+      "text": "strain to use they look at kind of a set of circulating strain and then say you"
+    },
+    {
+      "start": 620.64,
+      "dur": 1.749,
+      "text": "of circulating strain and then say you know this is their current frequency"
+    },
+    {
+      "start": 622.399,
+      "dur": 2.471,
+      "text": "know this is their current frequency which one should I select to be the main"
+    },
+    {
+      "start": 624.88,
+      "dur": 1.35,
+      "text": "which one should I select to be the main one for which I'm going to have a"
+    },
+    {
+      "start": 626.24,
+      "dur": 3.91,
+      "text": "one for which I'm going to have a vaccine. Um so we can tell them how the"
+    },
+    {
+      "start": 630.16,
+      "dur": 1.75,
+      "text": "vaccine. Um so we can tell them how the frequency of this train is going to"
+    },
+    {
+      "start": 631.92,
+      "dur": 1.99,
+      "text": "frequency of this train is going to change in 6 months because maybe who is"
+    },
+    {
+      "start": 633.92,
+      "dur": 2.23,
+      "text": "change in 6 months because maybe who is leading the race today is not going to"
+    },
+    {
+      "start": 636.16,
+      "dur": 2.31,
+      "text": "leading the race today is not going to be the one who is there in six months."
+    },
+    {
+      "start": 638.48,
+      "dur": 3.51,
+      "text": "be the one who is there in six months. So we kind of help them to tell how this"
+    },
+    {
+      "start": 642.0,
+      "dur": 1.99,
+      "text": "So we kind of help them to tell how this competition between strain is going to"
+    },
+    {
+      "start": 644.0,
+      "dur": 1.03,
+      "text": "competition between strain is going to evolve."
+    },
+    {
+      "start": 645.04,
+      "dur": 2.07,
+      "text": "evolve. &gt;&gt; What is the AI actually doing? What is"
+    },
+    {
+      "start": 647.12,
+      "dur": 2.149,
+      "text": "&gt;&gt; What is the AI actually doing? What is the AI doing in detecting that?"
+    },
+    {
+      "start": 649.279,
+      "dur": 2.23,
+      "text": "the AI doing in detecting that? &gt;&gt; AI in this particular case doing two"
+    },
+    {
+      "start": 651.519,
+      "dur": 2.231,
+      "text": "&gt;&gt; AI in this particular case doing two things. It kind of looks at frequency of"
+    },
+    {
+      "start": 653.76,
+      "dur": 2.23,
+      "text": "things. It kind of looks at frequency of the strains like frequency of how much"
+    },
+    {
+      "start": 656.0,
+      "dur": 4.069,
+      "text": "the strains like frequency of how much of it and it very much relates of how"
+    },
+    {
+      "start": 660.079,
+      "dur": 2.391,
+      "text": "of it and it very much relates of how strong the strain is how likely it's"
+    },
+    {
+      "start": 662.48,
+      "dur": 3.11,
+      "text": "strong the strain is how likely it's going to to continue to to grow and you"
+    },
+    {
+      "start": 665.6,
+      "dur": 3.03,
+      "text": "going to to continue to to grow and you can correlate you know the sequence"
+    },
+    {
+      "start": 668.64,
+      "dur": 1.99,
+      "text": "can correlate you know the sequence characteristics kind of the the"
+    },
+    {
+      "start": 670.64,
+      "dur": 2.23,
+      "text": "characteristics kind of the the characteristics on the biological sense"
+    },
+    {
+      "start": 672.88,
+      "dur": 2.55,
+      "text": "characteristics on the biological sense of the sequence and it ability to be"
+    },
+    {
+      "start": 675.44,
+      "dur": 2.629,
+      "text": "of the sequence and it ability to be strong to kind of change over time. So"
+    },
+    {
+      "start": 678.079,
+      "dur": 2.071,
+      "text": "strong to kind of change over time. So we modeled this progression as a"
+    },
+    {
+      "start": 680.16,
+      "dur": 2.31,
+      "text": "we modeled this progression as a function kind of a protein properties."
+    },
+    {
+      "start": 682.48,
+      "dur": 1.589,
+      "text": "function kind of a protein properties. That's what the model does. It actually"
+    },
+    {
+      "start": 684.079,
+      "dur": 1.19,
+      "text": "That's what the model does. It actually looks at the proteins and make"
+    },
+    {
+      "start": 685.279,
+      "dur": 2.071,
+      "text": "looks at the proteins and make predictions. But I would tell you the"
+    },
+    {
+      "start": 687.36,
+      "dur": 1.67,
+      "text": "predictions. But I would tell you the problem that we didn't solve and we"
+    },
+    {
+      "start": 689.04,
+      "dur": 1.19,
+      "text": "problem that we didn't solve and we could not have addressed the problem"
+    },
+    {
+      "start": 690.24,
+      "dur": 1.67,
+      "text": "could not have addressed the problem that currently we are all suffering"
+    },
+    {
+      "start": 691.92,
+      "dur": 1.67,
+      "text": "that currently we are all suffering which is totally mismatched because what"
+    },
+    {
+      "start": 693.6,
+      "dur": 3.83,
+      "text": "which is totally mismatched because what happened at the time when was looking at"
+    },
+    {
+      "start": 697.44,
+      "dur": 2.47,
+      "text": "happened at the time when was looking at set of strain the current strain that"
+    },
+    {
+      "start": 699.92,
+      "dur": 2.55,
+      "text": "set of strain the current strain that actually is now dominating the market"
+    },
+    {
+      "start": 702.48,
+      "dur": 4.07,
+      "text": "actually is now dominating the market was not even in the running. So this is"
+    },
+    {
+      "start": 706.56,
+      "dur": 1.99,
+      "text": "was not even in the running. So this is another question can you actually"
+    },
+    {
+      "start": 708.56,
+      "dur": 1.75,
+      "text": "another question can you actually predict something that at a time when"
+    },
+    {
+      "start": 710.32,
+      "dur": 2.069,
+      "text": "predict something that at a time when they're making decision is not even"
+    },
+    {
+      "start": 712.399,
+      "dur": 2.151,
+      "text": "they're making decision is not even there. So this situation happened but"
+    },
+    {
+      "start": 714.56,
+      "dur": 2.79,
+      "text": "there. So this situation happened but many times you know all the strains were"
+    },
+    {
+      "start": 717.36,
+      "dur": 2.149,
+      "text": "many times you know all the strains were there and they just bet on the wrong"
+    },
+    {
+      "start": 719.519,
+      "dur": 3.271,
+      "text": "there and they just bet on the wrong course if I may say so and you know"
+    },
+    {
+      "start": 722.8,
+      "dur": 3.35,
+      "text": "course if I may say so and you know again it's not like AI is perfect but it"
+    },
+    {
+      "start": 726.16,
+      "dur": 2.789,
+      "text": "again it's not like AI is perfect but it can assist you in this betting process"
+    },
+    {
+      "start": 728.959,
+      "dur": 2.071,
+      "text": "can assist you in this betting process by providing another source of"
+    },
+    {
+      "start": 731.04,
+      "dur": 1.99,
+      "text": "by providing another source of information complimentary to many other"
+    },
+    {
+      "start": 733.04,
+      "dur": 3.67,
+      "text": "information complimentary to many other source of information that W experts are"
+    },
+    {
+      "start": 736.72,
+      "dur": 2.47,
+      "text": "source of information that W experts are looking at. But does that limit does"
+    },
+    {
+      "start": 739.2,
+      "dur": 2.79,
+      "text": "looking at. But does that limit does that sort of illustrate limitations in"
+    },
+    {
+      "start": 742.0,
+      "dur": 1.509,
+      "text": "that sort of illustrate limitations in the predictive modeling and in the"
+    },
+    {
+      "start": 743.519,
+      "dur": 2.951,
+      "text": "the predictive modeling and in the modeling that when novel strains appear"
+    },
+    {
+      "start": 746.48,
+      "dur": 1.99,
+      "text": "modeling that when novel strains appear it's just it can't predict them because"
+    },
+    {
+      "start": 748.48,
+      "dur": 1.83,
+      "text": "it's just it can't predict them because it can only basically predict stuff"
+    },
+    {
+      "start": 750.32,
+      "dur": 1.99,
+      "text": "it can only basically predict stuff based on the existing training data that"
+    },
+    {
+      "start": 752.32,
+      "dur": 1.83,
+      "text": "based on the existing training data that it has."
+    },
+    {
+      "start": 754.16,
+      "dur": 1.349,
+      "text": "it has. &gt;&gt; It's it's a slightly different question"
+    },
+    {
+      "start": 755.519,
+      "dur": 1.75,
+      "text": "&gt;&gt; It's it's a slightly different question because it depends what do you formulate"
+    },
+    {
+      "start": 757.279,
+      "dur": 3.191,
+      "text": "because it depends what do you formulate the specific question we asked is give"
+    },
+    {
+      "start": 760.48,
+      "dur": 2.149,
+      "text": "the specific question we asked is give me the strain give me their frequency I"
+    },
+    {
+      "start": 762.639,
+      "dur": 1.831,
+      "text": "me the strain give me their frequency I would tell you how it would look like in"
+    },
+    {
+      "start": 764.48,
+      "dur": 1.75,
+      "text": "would tell you how it would look like in six months. This is a problem that we"
+    },
+    {
+      "start": 766.24,
+      "dur": 2.389,
+      "text": "six months. This is a problem that we could solve with within existing data."
+    },
+    {
+      "start": 768.639,
+      "dur": 2.31,
+      "text": "could solve with within existing data. There is a separate question for which"
+    },
+    {
+      "start": 770.959,
+      "dur": 2.151,
+      "text": "There is a separate question for which you are right. We don't have much data"
+    },
+    {
+      "start": 773.12,
+      "dur": 1.509,
+      "text": "you are right. We don't have much data because it's not a very frequent"
+    },
+    {
+      "start": 774.639,
+      "dur": 2.87,
+      "text": "because it's not a very frequent occurrence. Uh can you tell me who else"
+    },
+    {
+      "start": 777.519,
+      "dur": 2.951,
+      "text": "occurrence. Uh can you tell me who else may appear there? But um this is"
+    },
+    {
+      "start": 780.48,
+      "dur": 2.39,
+      "text": "may appear there? But um this is extremely extremely important question"
+    },
+    {
+      "start": 782.88,
+      "dur": 1.43,
+      "text": "extremely extremely important question because when we are thinking about all"
+    },
+    {
+      "start": 784.32,
+      "dur": 1.99,
+      "text": "because when we are thinking about all the zutonic viruses when we are thinking"
+    },
+    {
+      "start": 786.32,
+      "dur": 2.47,
+      "text": "the zutonic viruses when we are thinking about the previous pandemic and others"
+    },
+    {
+      "start": 788.8,
+      "dur": 2.23,
+      "text": "about the previous pandemic and others all of a sudden this kind of dark horse"
+    },
+    {
+      "start": 791.04,
+      "dur": 3.349,
+      "text": "all of a sudden this kind of dark horse became like the main winner. So I I"
+    },
+    {
+      "start": 794.399,
+      "dur": 4.391,
+      "text": "became like the main winner. So I I think that you know we demonstrated the"
+    },
+    {
+      "start": 798.8,
+      "dur": 2.149,
+      "text": "think that you know we demonstrated the first step you can do this prediction in"
+    },
+    {
+      "start": 800.959,
+      "dur": 3.031,
+      "text": "first step you can do this prediction in in a reliable way but there are many big"
+    },
+    {
+      "start": 804.0,
+      "dur": 2.389,
+      "text": "in a reliable way but there are many big questions that need to be answered is"
+    },
+    {
+      "start": 806.399,
+      "dur": 3.67,
+      "text": "questions that need to be answered is like who and what is going to be the"
+    },
+    {
+      "start": 810.079,
+      "dur": 3.031,
+      "text": "like who and what is going to be the next thread in the same way as we had to"
+    },
+    {
+      "start": 813.12,
+      "dur": 3.269,
+      "text": "next thread in the same way as we had to call it. I if you're able to if you're"
+    },
+    {
+      "start": 816.399,
+      "dur": 2.23,
+      "text": "call it. I if you're able to if you're able to predict how a disease might"
+    },
+    {
+      "start": 818.639,
+      "dur": 2.31,
+      "text": "able to predict how a disease might change in a particular way, are you"
+    },
+    {
+      "start": 820.959,
+      "dur": 1.99,
+      "text": "change in a particular way, are you applying that same technique to cancers"
+    },
+    {
+      "start": 822.959,
+      "dur": 3.271,
+      "text": "applying that same technique to cancers and and are you therefore able to tailor"
+    },
+    {
+      "start": 826.24,
+      "dur": 2.47,
+      "text": "and and are you therefore able to tailor a specific treatment to an individual"
+    },
+    {
+      "start": 828.72,
+      "dur": 2.07,
+      "text": "a specific treatment to an individual patient?"
+    },
+    {
+      "start": 830.8,
+      "dur": 1.75,
+      "text": "patient? &gt;&gt; Yeah. So, as you can see, you know,"
+    },
+    {
+      "start": 832.56,
+      "dur": 1.91,
+      "text": "&gt;&gt; Yeah. So, as you can see, you know, we're looking at different modalities."
+    },
+    {
+      "start": 834.48,
+      "dur": 3.589,
+      "text": "we're looking at different modalities. when we started with um uh you know we"
+    },
+    {
+      "start": 838.079,
+      "dur": 2.391,
+      "text": "when we started with um uh you know we work on the big images on mamograms then"
+    },
+    {
+      "start": 840.48,
+      "dur": 2.709,
+      "text": "work on the big images on mamograms then we moved to proteins really a protein"
+    },
+    {
+      "start": 843.199,
+      "dur": 1.99,
+      "text": "we moved to proteins really a protein language model and work in that space in"
+    },
+    {
+      "start": 845.199,
+      "dur": 2.63,
+      "text": "language model and work in that space in differential equations now we addressing"
+    },
+    {
+      "start": 847.839,
+      "dur": 3.67,
+      "text": "differential equations now we addressing a question which you know as me who you"
+    },
+    {
+      "start": 851.519,
+      "dur": 2.071,
+      "text": "a question which you know as me who you know as a cancer survivor plays really"
+    },
+    {
+      "start": 853.6,
+      "dur": 1.99,
+      "text": "know as a cancer survivor plays really really a big role because you know when"
+    },
+    {
+      "start": 855.6,
+      "dur": 1.589,
+      "text": "really a big role because you know when I went through my treatment of course"
+    },
+    {
+      "start": 857.199,
+      "dur": 1.99,
+      "text": "I went through my treatment of course you know when you go to the cancer war"
+    },
+    {
+      "start": 859.199,
+      "dur": 2.63,
+      "text": "you know when you go to the cancer war you feel miserable no matter what but"
+    },
+    {
+      "start": 861.839,
+      "dur": 2.631,
+      "text": "you feel miserable no matter what but you know I've seen a lot of patients who"
+    },
+    {
+      "start": 864.48,
+      "dur": 1.75,
+      "text": "you know I've seen a lot of patients who you know were untreatable. Those are"
+    },
+    {
+      "start": 866.24,
+      "dur": 2.23,
+      "text": "you know were untreatable. Those are metastatic patients and one of the"
+    },
+    {
+      "start": 868.48,
+      "dur": 1.909,
+      "text": "metastatic patients and one of the biggest challenges with metastatic"
+    },
+    {
+      "start": 870.399,
+      "dur": 3.191,
+      "text": "biggest challenges with metastatic patients that you know there is no good"
+    },
+    {
+      "start": 873.6,
+      "dur": 2.15,
+      "text": "patients that you know there is no good treatment. There is huge variability"
+    },
+    {
+      "start": 875.76,
+      "dur": 1.91,
+      "text": "treatment. There is huge variability what you would give to them depending on"
+    },
+    {
+      "start": 877.68,
+      "dur": 1.829,
+      "text": "what you would give to them depending on which hospital they would go because you"
+    },
+    {
+      "start": 879.519,
+      "dur": 2.711,
+      "text": "which hospital they would go because you know at the initial stages when cancer"
+    },
+    {
+      "start": 882.24,
+      "dur": 2.149,
+      "text": "know at the initial stages when cancer is treated you you can b the patient and"
+    },
+    {
+      "start": 884.399,
+      "dur": 1.511,
+      "text": "is treated you you can b the patient and say you're going to get this back the"
+    },
+    {
+      "start": 885.92,
+      "dur": 1.029,
+      "text": "say you're going to get this back the patient say you're going to get"
+    },
+    {
+      "start": 886.959,
+      "dur": 2.151,
+      "text": "patient say you're going to get treatment A or treatment B at a time"
+    },
+    {
+      "start": 889.12,
+      "dur": 1.43,
+      "text": "treatment A or treatment B at a time when the patients become metastatic"
+    },
+    {
+      "start": 890.56,
+      "dur": 2.15,
+      "text": "when the patients become metastatic disease is so very different so unique"
+    },
+    {
+      "start": 892.72,
+      "dur": 3.19,
+      "text": "disease is so very different so unique changes in a very personalized way that"
+    },
+    {
+      "start": 895.92,
+      "dur": 2.95,
+      "text": "changes in a very personalized way that it's very hard to do this mapping and"
+    },
+    {
+      "start": 898.88,
+      "dur": 2.389,
+      "text": "it's very hard to do this mapping and the specific questions that we started"
+    },
+    {
+      "start": 901.279,
+      "dur": 3.11,
+      "text": "the specific questions that we started working on I am happy to say that Um"
+    },
+    {
+      "start": 904.399,
+      "dur": 1.831,
+      "text": "working on I am happy to say that Um there are already clinical trials in the"
+    },
+    {
+      "start": 906.24,
+      "dur": 1.99,
+      "text": "there are already clinical trials in the United States where patients can enroll"
+    },
+    {
+      "start": 908.24,
+      "dur": 4.23,
+      "text": "United States where patients can enroll in breast, colon and lung cancer where"
+    },
+    {
+      "start": 912.48,
+      "dur": 2.709,
+      "text": "in breast, colon and lung cancer where uh the machine learning is used given"
+    },
+    {
+      "start": 915.199,
+      "dur": 1.831,
+      "text": "uh the machine learning is used given you know the pathology slide of the"
+    },
+    {
+      "start": 917.04,
+      "dur": 3.029,
+      "text": "you know the pathology slide of the patient the sequencing information to"
+    },
+    {
+      "start": 920.079,
+      "dur": 2.071,
+      "text": "patient the sequencing information to identify which treatment is more likely"
+    },
+    {
+      "start": 922.16,
+      "dur": 1.83,
+      "text": "identify which treatment is more likely to be successful on this patient."
+    },
+    {
+      "start": 924.0,
+      "dur": 0.31,
+      "text": "to be successful on this patient. &gt;&gt; Absolutely."
+    },
+    {
+      "start": 924.32,
+      "dur": 3.189,
+      "text": "&gt;&gt; Absolutely. &gt;&gt; So kind ofing the guess work that uh"
+    },
+    {
+      "start": 927.519,
+      "dur": 3.351,
+      "text": "&gt;&gt; So kind ofing the guess work that uh today oncologists need to do."
+    },
+    {
+      "start": 930.88,
+      "dur": 2.71,
+      "text": "today oncologists need to do. &gt;&gt; Wow. Regina, are we getting to a point,"
+    },
+    {
+      "start": 933.6,
+      "dur": 2.31,
+      "text": "&gt;&gt; Wow. Regina, are we getting to a point, do you think, where we might be able to"
+    },
+    {
+      "start": 935.92,
+      "dur": 2.31,
+      "text": "do you think, where we might be able to have a greater opportunity for"
+    },
+    {
+      "start": 938.24,
+      "dur": 3.029,
+      "text": "have a greater opportunity for personalized medicine? So, if AI is"
+    },
+    {
+      "start": 941.279,
+      "dur": 2.471,
+      "text": "personalized medicine? So, if AI is truly able to stop treating us as a gi"
+    },
+    {
+      "start": 943.76,
+      "dur": 3.11,
+      "text": "truly able to stop treating us as a gi gigantic cohort of humanity and actually"
+    },
+    {
+      "start": 946.88,
+      "dur": 2.869,
+      "text": "gigantic cohort of humanity and actually look at you, the individual, with your"
+    },
+    {
+      "start": 949.759,
+      "dur": 2.791,
+      "text": "look at you, the individual, with your scans, your data, and how that compares"
+    },
+    {
+      "start": 952.56,
+      "dur": 2.709,
+      "text": "scans, your data, and how that compares to humanity. Is that where you see this"
+    },
+    {
+      "start": 955.279,
+      "dur": 2.071,
+      "text": "to humanity. Is that where you see this going, or is it going somewhere else?"
+    },
+    {
+      "start": 957.36,
+      "dur": 0.55,
+      "text": "going, or is it going somewhere else? Yeah."
+    },
+    {
+      "start": 957.92,
+      "dur": 2.55,
+      "text": "Yeah. &gt;&gt; So scientifically I totally see we are"
+    },
+    {
+      "start": 960.48,
+      "dur": 1.83,
+      "text": "&gt;&gt; So scientifically I totally see we are going there and it's going there like"
+    },
+    {
+      "start": 962.32,
+      "dur": 2.069,
+      "text": "going there and it's going there like from two direction. On one direction we"
+    },
+    {
+      "start": 964.399,
+      "dur": 3.11,
+      "text": "from two direction. On one direction we have much better capacity today to"
+    },
+    {
+      "start": 967.519,
+      "dur": 2.23,
+      "text": "have much better capacity today to identify your trajectory to kind of"
+    },
+    {
+      "start": 969.759,
+      "dur": 1.831,
+      "text": "identify your trajectory to kind of predict your future. In some ways we're"
+    },
+    {
+      "start": 971.6,
+      "dur": 1.75,
+      "text": "predict your future. In some ways we're not truly predicting the future because"
+    },
+    {
+      "start": 973.36,
+      "dur": 1.829,
+      "text": "not truly predicting the future because it's already there just human eye cannot"
+    },
+    {
+      "start": 975.199,
+      "dur": 3.351,
+      "text": "it's already there just human eye cannot see it but we can you know identify this"
+    },
+    {
+      "start": 978.56,
+      "dur": 2.23,
+      "text": "see it but we can you know identify this trajectory and stratify the patients. on"
+    },
+    {
+      "start": 980.8,
+      "dur": 1.99,
+      "text": "trajectory and stratify the patients. on the other hand you know again talking"
+    },
+    {
+      "start": 982.8,
+      "dur": 1.91,
+      "text": "the other hand you know again talking about the big breakthroughs that came"
+    },
+    {
+      "start": 984.72,
+      "dur": 4.39,
+      "text": "about the big breakthroughs that came from UK you know the um discovery the"
+    },
+    {
+      "start": 989.12,
+      "dur": 3.269,
+      "text": "from UK you know the um discovery the alpha fold and you know at MIT we did BS"
+    },
+    {
+      "start": 992.399,
+      "dur": 3.191,
+      "text": "alpha fold and you know at MIT we did BS that now is in London it's a company is"
+    },
+    {
+      "start": 995.6,
+      "dur": 2.07,
+      "text": "that now is in London it's a company is in London but there are a lot of work on"
+    },
+    {
+      "start": 997.68,
+      "dur": 2.63,
+      "text": "in London but there are a lot of work on the molecular modeling that enables you"
+    },
+    {
+      "start": 1000.32,
+      "dur": 2.23,
+      "text": "the molecular modeling that enables you to really characterize disease on the"
+    },
+    {
+      "start": 1002.56,
+      "dur": 3.509,
+      "text": "to really characterize disease on the molecular level and produce new drugs so"
+    },
+    {
+      "start": 1006.079,
+      "dur": 2.231,
+      "text": "molecular level and produce new drugs so on one hand you can say this patient is"
+    },
+    {
+      "start": 1008.32,
+      "dur": 2.629,
+      "text": "on one hand you can say this patient is likely to go this way and In theory, we"
+    },
+    {
+      "start": 1010.959,
+      "dur": 2.151,
+      "text": "likely to go this way and In theory, we would be able to generate something that"
+    },
+    {
+      "start": 1013.12,
+      "dur": 2.709,
+      "text": "would be able to generate something that is going to treat this patient. I'm not"
+    },
+    {
+      "start": 1015.839,
+      "dur": 1.35,
+      "text": "is going to treat this patient. I'm not saying it's going to happen next year,"
+    },
+    {
+      "start": 1017.199,
+      "dur": 2.07,
+      "text": "saying it's going to happen next year, but we can imagine the scenario in which"
+    },
+    {
+      "start": 1019.279,
+      "dur": 2.55,
+      "text": "but we can imagine the scenario in which you can really kind of person that do"
+    },
+    {
+      "start": 1021.839,
+      "dur": 1.91,
+      "text": "you can really kind of person that do you do you think that speeds up the"
+    },
+    {
+      "start": 1023.759,
+      "dur": 1.831,
+      "text": "you do you think that speeds up the bottleneck that there is in in drug"
+    },
+    {
+      "start": 1025.6,
+      "dur": 1.91,
+      "text": "bottleneck that there is in in drug development? Because we know from from"
+    },
+    {
+      "start": 1027.52,
+      "dur": 2.95,
+      "text": "development? Because we know from from conception to production, there are"
+    },
+    {
+      "start": 1030.48,
+      "dur": 2.469,
+      "text": "conception to production, there are enormous amount of years in between. Do"
+    },
+    {
+      "start": 1032.959,
+      "dur": 1.911,
+      "text": "enormous amount of years in between. Do you think that time frame starts to"
+    },
+    {
+      "start": 1034.88,
+      "dur": 2.23,
+      "text": "you think that time frame starts to shrink if that's possible?"
+    },
+    {
+      "start": 1037.12,
+      "dur": 2.47,
+      "text": "shrink if that's possible? I think it already does start to shrink"
+    },
+    {
+      "start": 1039.6,
+      "dur": 2.309,
+      "text": "I think it already does start to shrink because you know before you need to do"
+    },
+    {
+      "start": 1041.919,
+      "dur": 3.51,
+      "text": "because you know before you need to do humongous screening uh processes and"
+    },
+    {
+      "start": 1045.439,
+      "dur": 2.39,
+      "text": "humongous screening uh processes and there was a lot of failure. We know that"
+    },
+    {
+      "start": 1047.839,
+      "dur": 3.351,
+      "text": "there was a lot of failure. We know that majority of course goes to fail attempts"
+    },
+    {
+      "start": 1051.2,
+      "dur": 2.23,
+      "text": "majority of course goes to fail attempts to the clinical trials that happened to"
+    },
+    {
+      "start": 1053.44,
+      "dur": 2.39,
+      "text": "to the clinical trials that happened to fail you know in the late stages when"
+    },
+    {
+      "start": 1055.84,
+      "dur": 2.63,
+      "text": "fail you know in the late stages when already humongous amount of money and"
+    },
+    {
+      "start": 1058.48,
+      "dur": 3.11,
+      "text": "already humongous amount of money and time were spent. So I think AI can"
+    },
+    {
+      "start": 1061.6,
+      "dur": 4.47,
+      "text": "time were spent. So I think AI can really help to make it faster. Now can"
+    },
+    {
+      "start": 1066.08,
+      "dur": 3.67,
+      "text": "really help to make it faster. Now can it make it faster to to the extent that"
+    },
+    {
+      "start": 1069.76,
+      "dur": 1.99,
+      "text": "it make it faster to to the extent that you know it will take us you know 1"
+    },
+    {
+      "start": 1071.76,
+      "dur": 2.87,
+      "text": "you know it will take us you know 1 months to produce new drug. We are not"
+    },
+    {
+      "start": 1074.64,
+      "dur": 2.71,
+      "text": "months to produce new drug. We are not quite there yet but I do think there is"
+    },
+    {
+      "start": 1077.36,
+      "dur": 3.91,
+      "text": "quite there yet but I do think there is a meaningful uh speed up across many"
+    },
+    {
+      "start": 1081.28,
+      "dur": 1.99,
+      "text": "a meaningful uh speed up across many different parts of drug discovery"
+    },
+    {
+      "start": 1083.28,
+      "dur": 1.749,
+      "text": "different parts of drug discovery starting from understanding disease"
+    },
+    {
+      "start": 1085.039,
+      "dur": 2.471,
+      "text": "starting from understanding disease mechanism selecting the molecule and"
+    },
+    {
+      "start": 1087.52,
+      "dur": 3.99,
+      "text": "mechanism selecting the molecule and running effectively clinical trials."
+    },
+    {
+      "start": 1091.52,
+      "dur": 2.87,
+      "text": "running effectively clinical trials. Just a a final thought. Um you're right"
+    },
+    {
+      "start": 1094.4,
+      "dur": 3.83,
+      "text": "Just a a final thought. Um you're right at the cutting edge of this"
+    },
+    {
+      "start": 1098.24,
+      "dur": 1.99,
+      "text": "at the cutting edge of this paint a picture for people of of where"
+    },
+    {
+      "start": 1100.24,
+      "dur": 2.15,
+      "text": "paint a picture for people of of where cancer treatment will be in 10 years"
+    },
+    {
+      "start": 1102.4,
+      "dur": 2.629,
+      "text": "cancer treatment will be in 10 years time."
+    },
+    {
+      "start": 1105.039,
+      "dur": 3.75,
+      "text": "time. &gt;&gt; So what I hope what I hope will happen"
+    },
+    {
+      "start": 1108.799,
+      "dur": 3.271,
+      "text": "&gt;&gt; So what I hope what I hope will happen um is we will have tests which will be"
+    },
+    {
+      "start": 1112.08,
+      "dur": 1.43,
+      "text": "um is we will have tests which will be the same test that you can do in the"
+    },
+    {
+      "start": 1113.52,
+      "dur": 1.509,
+      "text": "the same test that you can do in the general practitioner if it's not going"
+    },
+    {
+      "start": 1115.039,
+      "dur": 1.911,
+      "text": "general practitioner if it's not going to be an MRI and big images. Maybe"
+    },
+    {
+      "start": 1116.96,
+      "dur": 1.51,
+      "text": "to be an MRI and big images. Maybe you're going to be doing some simple"
+    },
+    {
+      "start": 1118.48,
+      "dur": 4.069,
+      "text": "you're going to be doing some simple blood test. uh that you regularly uh go"
+    },
+    {
+      "start": 1122.559,
+      "dur": 3.271,
+      "text": "blood test. uh that you regularly uh go you're screened and you may be identify"
+    },
+    {
+      "start": 1125.84,
+      "dur": 3.03,
+      "text": "you're screened and you may be identify at risk in certain conditions and at the"
+    },
+    {
+      "start": 1128.88,
+      "dur": 3.27,
+      "text": "at risk in certain conditions and at the same time very very early on and the"
+    },
+    {
+      "start": 1132.16,
+      "dur": 3.03,
+      "text": "same time very very early on and the machine would be able to propose you a"
+    },
+    {
+      "start": 1135.2,
+      "dur": 2.07,
+      "text": "machine would be able to propose you a set of modification in your lifestyle"
+    },
+    {
+      "start": 1137.28,
+      "dur": 2.55,
+      "text": "set of modification in your lifestyle maybe diet maybe some lighter changes"
+    },
+    {
+      "start": 1139.84,
+      "dur": 5.27,
+      "text": "maybe diet maybe some lighter changes that you can make uh that would make you"
+    },
+    {
+      "start": 1145.12,
+      "dur": 3.03,
+      "text": "that you can make uh that would make you kind of be in a healthier zone and if in"
+    },
+    {
+      "start": 1148.16,
+      "dur": 2.79,
+      "text": "kind of be in a healthier zone and if in some cases we cannot do it. We hope that"
+    },
+    {
+      "start": 1150.96,
+      "dur": 2.23,
+      "text": "some cases we cannot do it. We hope that at this point you can identify a"
+    },
+    {
+      "start": 1153.2,
+      "dur": 2.95,
+      "text": "at this point you can identify a treatment as early as possible and less"
+    },
+    {
+      "start": 1156.16,
+      "dur": 2.23,
+      "text": "treatment as early as possible and less kind of toxic because you know cancer"
+    },
+    {
+      "start": 1158.4,
+      "dur": 3.11,
+      "text": "kind of toxic because you know cancer treatment today are terribly toxic. Um"
+    },
+    {
+      "start": 1161.52,
+      "dur": 3.59,
+      "text": "treatment today are terribly toxic. Um that will more likely to result in a"
+    },
+    {
+      "start": 1165.12,
+      "dur": 2.31,
+      "text": "that will more likely to result in a better outcome. So on one hand it's"
+    },
+    {
+      "start": 1167.44,
+      "dur": 2.55,
+      "text": "better outcome. So on one hand it's going to be much early detection. Second"
+    },
+    {
+      "start": 1170.0,
+      "dur": 1.909,
+      "text": "going to be much early detection. Second understanding how your general"
+    },
+    {
+      "start": 1171.919,
+      "dur": 2.711,
+      "text": "understanding how your general conditions in your life are contributing"
+    },
+    {
+      "start": 1174.64,
+      "dur": 2.79,
+      "text": "conditions in your life are contributing to the development of your disease. And"
+    },
+    {
+      "start": 1177.44,
+      "dur": 2.87,
+      "text": "to the development of your disease. And the third one, a personalized non-toxic"
+    },
+    {
+      "start": 1180.32,
+      "dur": 2.87,
+      "text": "the third one, a personalized non-toxic treatment with high efficacy. This is a"
+    },
+    {
+      "start": 1183.2,
+      "dur": 0.31,
+      "text": "treatment with high efficacy. This is a hope"
+    },
+    {
+      "start": 1183.52,
+      "dur": 3.269,
+      "text": "hope &gt;&gt; and survival rates. And again, I really"
+    },
+    {
+      "start": 1186.799,
+      "dur": 1.671,
+      "text": "&gt;&gt; and survival rates. And again, I really hope that even if we solve the first"
+    },
+    {
+      "start": 1188.48,
+      "dur": 2.309,
+      "text": "hope that even if we solve the first part of very early detection because we"
+    },
+    {
+      "start": 1190.799,
+      "dur": 1.99,
+      "text": "part of very early detection because we know how to treat the cancer early, we"
+    },
+    {
+      "start": 1192.799,
+      "dur": 1.99,
+      "text": "know how to treat the cancer early, we can dramatically"
+    },
+    {
+      "start": 1194.799,
+      "dur": 4.23,
+      "text": "can dramatically decrease um death. And also I really"
+    },
+    {
+      "start": 1199.039,
+      "dur": 1.911,
+      "text": "decrease um death. And also I really hope that the projects we are working on"
+    },
+    {
+      "start": 1200.96,
+      "dur": 1.91,
+      "text": "hope that the projects we are working on and many other scientists around the"
+    },
+    {
+      "start": 1202.88,
+      "dur": 4.47,
+      "text": "and many other scientists around the world including UK um that we would be"
+    },
+    {
+      "start": 1207.36,
+      "dur": 2.23,
+      "text": "world including UK um that we would be able to do much better matching with the"
+    },
+    {
+      "start": 1209.6,
+      "dur": 3.03,
+      "text": "able to do much better matching with the existing uh drugs to make sure that"
+    },
+    {
+      "start": 1212.64,
+      "dur": 2.07,
+      "text": "existing uh drugs to make sure that patients can live better and longer and"
+    },
+    {
+      "start": 1214.72,
+      "dur": 2.069,
+      "text": "patients can live better and longer and also come up with a new drug that can"
+    },
+    {
+      "start": 1216.799,
+      "dur": 3.75,
+      "text": "also come up with a new drug that can really cure the advanced disease."
+    },
+    {
+      "start": 1220.559,
+      "dur": 2.951,
+      "text": "really cure the advanced disease. &gt;&gt; Wow, that is exciting news. It's good to"
+    },
+    {
+      "start": 1223.52,
+      "dur": 1.67,
+      "text": "&gt;&gt; Wow, that is exciting news. It's good to have a good news story on AI decoded,"
+    },
+    {
+      "start": 1225.2,
+      "dur": 1.589,
+      "text": "have a good news story on AI decoded, isn't it? uh and that is certainly a"
+    },
+    {
+      "start": 1226.799,
+      "dur": 1.431,
+      "text": "isn't it? uh and that is certainly a very good one uh which we can all get"
+    },
+    {
+      "start": 1228.24,
+      "dur": 1.35,
+      "text": "very good one uh which we can all get around. Thank you very much indeed for"
+    },
+    {
+      "start": 1229.6,
+      "dur": 1.91,
+      "text": "around. Thank you very much indeed for that. Uh listen, what I want to do uh"
+    },
+    {
+      "start": 1231.52,
+      "dur": 1.83,
+      "text": "that. Uh listen, what I want to do uh just in the short time we have left on"
+    },
+    {
+      "start": 1233.36,
+      "dur": 2.23,
+      "text": "just in the short time we have left on the program is look a little bit at some"
+    },
+    {
+      "start": 1235.6,
+      "dur": 0.949,
+      "text": "the program is look a little bit at some of the questions that you've been"
+    },
+    {
+      "start": 1236.559,
+      "dur": 1.271,
+      "text": "of the questions that you've been sending in. We've been getting some"
+    },
+    {
+      "start": 1237.84,
+      "dur": 2.15,
+      "text": "sending in. We've been getting some fantastic questions from viewers on the"
+    },
+    {
+      "start": 1240.0,
+      "dur": 2.71,
+      "text": "fantastic questions from viewers on the email link aidbc.co.uk."
+    },
+    {
+      "start": 1242.72,
+      "dur": 1.27,
+      "text": "email link aidbc.co.uk. So I want to take a few minutes to get"
+    },
+    {
+      "start": 1244.0,
+      "dur": 1.83,
+      "text": "So I want to take a few minutes to get to some of the best of those. Here's one"
+    },
+    {
+      "start": 1245.84,
+      "dur": 3.59,
+      "text": "to some of the best of those. Here's one from Veronica who asks, \"Do governments"
+    },
+    {
+      "start": 1249.44,
+      "dur": 3.43,
+      "text": "from Veronica who asks, \"Do governments need to step in and make it compulsory"
+    },
+    {
+      "start": 1252.88,
+      "dur": 2.95,
+      "text": "need to step in and make it compulsory for schools to teach AI, including its"
+    },
+    {
+      "start": 1255.84,
+      "dur": 2.709,
+      "text": "for schools to teach AI, including its biases, how to spot fake content online,"
+    },
+    {
+      "start": 1258.559,
+      "dur": 4.311,
+      "text": "biases, how to spot fake content online, and how to distinguish what uh is AI"
+    },
+    {
+      "start": 1262.88,
+      "dur": 3.83,
+      "text": "and how to distinguish what uh is AI generated from what is real?\" Stephanie,"
+    },
+    {
+      "start": 1266.72,
+      "dur": 2.63,
+      "text": "generated from what is real?\" Stephanie, why don't you pick that one up?"
+    },
+    {
+      "start": 1269.36,
+      "dur": 1.91,
+      "text": "why don't you pick that one up? I'm a bit nervous about this because"
+    },
+    {
+      "start": 1271.28,
+      "dur": 2.31,
+      "text": "I'm a bit nervous about this because some governments are actually using AI"
+    },
+    {
+      "start": 1273.6,
+      "dur": 2.15,
+      "text": "some governments are actually using AI for misinformation and disinformation"
+    },
+    {
+      "start": 1275.76,
+      "dur": 2.07,
+      "text": "for misinformation and disinformation purposes. So looking for ethical"
+    },
+    {
+      "start": 1277.84,
+      "dur": 2.39,
+      "text": "purposes. So looking for ethical guidance from them is perhaps not the"
+    },
+    {
+      "start": 1280.24,
+      "dur": 2.549,
+      "text": "guidance from them is perhaps not the solution we would love and expect. I"
+    },
+    {
+      "start": 1282.799,
+      "dur": 1.911,
+      "text": "solution we would love and expect. I think instead what we could see rather"
+    },
+    {
+      "start": 1284.72,
+      "dur": 3.189,
+      "text": "think instead what we could see rather is push from the ground up. So parents"
+    },
+    {
+      "start": 1287.919,
+      "dur": 2.151,
+      "text": "is push from the ground up. So parents wanting it, teachers wanting it, the"
+    },
+    {
+      "start": 1290.08,
+      "dur": 2.069,
+      "text": "wanting it, teachers wanting it, the students themselves wanting it and"
+    },
+    {
+      "start": 1292.159,
+      "dur": 1.671,
+      "text": "students themselves wanting it and creating space for that in the"
+    },
+    {
+      "start": 1293.84,
+      "dur": 2.23,
+      "text": "creating space for that in the curriculum where it's being brought in"
+    },
+    {
+      "start": 1296.08,
+      "dur": 2.79,
+      "text": "curriculum where it's being brought in from the you know bottom up and also"
+    },
+    {
+      "start": 1298.88,
+      "dur": 2.39,
+      "text": "from the you know bottom up and also laterally horizontally asking each"
+    },
+    {
+      "start": 1301.28,
+      "dur": 2.23,
+      "text": "laterally horizontally asking each other. I don't know if I would want it"
+    },
+    {
+      "start": 1303.52,
+      "dur": 2.71,
+      "text": "other. I don't know if I would want it coming from government on down even"
+    },
+    {
+      "start": 1306.24,
+      "dur": 1.429,
+      "text": "coming from government on down even countries like the United States which"
+    },
+    {
+      "start": 1307.679,
+      "dur": 1.431,
+      "text": "countries like the United States which is you know ostensively a liberal"
+    },
+    {
+      "start": 1309.12,
+      "dur": 2.15,
+      "text": "is you know ostensively a liberal democracy the white house is one of the"
+    },
+    {
+      "start": 1311.28,
+      "dur": 3.11,
+      "text": "democracy the white house is one of the biggest users of AI misinformation and"
+    },
+    {
+      "start": 1314.4,
+      "dur": 2.95,
+      "text": "biggest users of AI misinformation and slop. So, you know, just be careful what"
+    },
+    {
+      "start": 1317.36,
+      "dur": 2.549,
+      "text": "slop. So, you know, just be careful what you wish for on that one. But I think we"
+    },
+    {
+      "start": 1319.919,
+      "dur": 1.671,
+      "text": "you wish for on that one. But I think we can all agree more education and"
+    },
+    {
+      "start": 1321.6,
+      "dur": 1.91,
+      "text": "can all agree more education and critical thinking skills, particularly"
+    },
+    {
+      "start": 1323.52,
+      "dur": 1.75,
+      "text": "critical thinking skills, particularly for young people, but also, frankly,"
+    },
+    {
+      "start": 1325.28,
+      "dur": 1.83,
+      "text": "for young people, but also, frankly, some of us who are not so young, is"
+    },
+    {
+      "start": 1327.12,
+      "dur": 0.63,
+      "text": "some of us who are not so young, is great."
+    },
+    {
+      "start": 1327.76,
+      "dur": 1.51,
+      "text": "great. &gt;&gt; All right, here's another question uh"
+    },
+    {
+      "start": 1329.28,
+      "dur": 1.91,
+      "text": "&gt;&gt; All right, here's another question uh from Trudy, who is taking us truly left"
+    },
+    {
+      "start": 1331.2,
+      "dur": 1.829,
+      "text": "from Trudy, who is taking us truly left field here. She's written in with this."
+    },
+    {
+      "start": 1333.039,
+      "dur": 1.911,
+      "text": "field here. She's written in with this. My cats"
+    },
+    {
+      "start": 1334.96,
+      "dur": 3.11,
+      "text": "My cats seem to prefer cartoons to liveaction TV"
+    },
+    {
+      "start": 1338.08,
+      "dur": 2.469,
+      "text": "seem to prefer cartoons to liveaction TV or films, and I've even noticed my cat"
+    },
+    {
+      "start": 1340.559,
+      "dur": 2.071,
+      "text": "or films, and I've even noticed my cat reacting to a clip of an AI generated"
+    },
+    {
+      "start": 1342.64,
+      "dur": 2.71,
+      "text": "reacting to a clip of an AI generated film that you showed. Is there something"
+    },
+    {
+      "start": 1345.36,
+      "dur": 3.669,
+      "text": "film that you showed. Is there something about animation or AI generated visuals"
+    },
+    {
+      "start": 1349.039,
+      "dur": 3.671,
+      "text": "about animation or AI generated visuals that animals perceive differently? This"
+    },
+    {
+      "start": 1352.72,
+      "dur": 2.47,
+      "text": "that animals perceive differently? This is something that I'm hoping, well, I'm"
+    },
+    {
+      "start": 1355.2,
+      "dur": 1.829,
+      "text": "is something that I'm hoping, well, I'm hoping here that we can recruit the"
+    },
+    {
+      "start": 1357.039,
+      "dur": 1.75,
+      "text": "hoping here that we can recruit the audience to help us out a little bit"
+    },
+    {
+      "start": 1358.799,
+      "dur": 1.831,
+      "text": "audience to help us out a little bit with this one. I am very much a cat"
+    },
+    {
+      "start": 1360.64,
+      "dur": 2.63,
+      "text": "with this one. I am very much a cat person. Uh, unfortunately, I have"
+    },
+    {
+      "start": 1363.28,
+      "dur": 1.99,
+      "text": "person. Uh, unfortunately, I have allergies, quite severe allergies, so I"
+    },
+    {
+      "start": 1365.28,
+      "dur": 3.83,
+      "text": "allergies, quite severe allergies, so I can't have a cat at home. But after"
+    },
+    {
+      "start": 1369.12,
+      "dur": 1.59,
+      "text": "can't have a cat at home. But after after seeing this email, I thought,"
+    },
+    {
+      "start": 1370.72,
+      "dur": 1.67,
+      "text": "after seeing this email, I thought, okay, let's let's conduct an experiment"
+    },
+    {
+      "start": 1372.4,
+      "dur": 3.509,
+      "text": "okay, let's let's conduct an experiment here. So, we made a couple of clips for"
+    },
+    {
+      "start": 1375.919,
+      "dur": 2.071,
+      "text": "here. So, we made a couple of clips for domestic animals, for cats, and for"
+    },
+    {
+      "start": 1378.0,
+      "dur": 2.07,
+      "text": "domestic animals, for cats, and for dogs. So, I think we can play those"
+    },
+    {
+      "start": 1380.08,
+      "dur": 17.35,
+      "text": "dogs. So, I think we can play those clips right now."
+    },
+    {
+      "start": 1397.44,
+      "dur": 1.68,
+      "text": "Now, hopefully you've seen those clips."
+    },
+    {
+      "start": 1399.12,
+      "dur": 1.35,
+      "text": "Now, hopefully you've seen those clips. You can you can go back and view them"
+    },
+    {
+      "start": 1400.48,
+      "dur": 2.15,
+      "text": "You can you can go back and view them again on i Player if you need to show"
+    },
+    {
+      "start": 1402.64,
+      "dur": 2.23,
+      "text": "again on i Player if you need to show them to your animals. See if they"
+    },
+    {
+      "start": 1404.88,
+      "dur": 2.39,
+      "text": "them to your animals. See if they respond to them. And I would love to"
+    },
+    {
+      "start": 1407.28,
+      "dur": 1.83,
+      "text": "respond to them. And I would love to find out from the audience what their"
+    },
+    {
+      "start": 1409.12,
+      "dur": 2.07,
+      "text": "find out from the audience what their animals responses were to those clips."
+    },
+    {
+      "start": 1411.2,
+      "dur": 1.91,
+      "text": "animals responses were to those clips. They could even film it."
+    },
+    {
+      "start": 1413.12,
+      "dur": 2.71,
+      "text": "They could even film it. &gt;&gt; I'm always science."
+    },
+    {
+      "start": 1415.84,
+      "dur": 2.87,
+      "text": "&gt;&gt; I'm always science. &gt;&gt; It is in science. I I show my dog things"
+    },
+    {
+      "start": 1418.72,
+      "dur": 3.11,
+      "text": "&gt;&gt; It is in science. I I show my dog things on my iPhone that I've recorded and and"
+    },
+    {
+      "start": 1421.84,
+      "dur": 2.47,
+      "text": "on my iPhone that I've recorded and and I know the dog has no idea it it there's"
+    },
+    {
+      "start": 1424.32,
+      "dur": 2.229,
+      "text": "I know the dog has no idea it it there's no reaction, none whatsoever. So, I'm"
+    },
+    {
+      "start": 1426.559,
+      "dur": 3.511,
+      "text": "no reaction, none whatsoever. So, I'm I'm sort of intrigued as to why AI"
+    },
+    {
+      "start": 1430.08,
+      "dur": 2.31,
+      "text": "I'm sort of intrigued as to why AI generated film might be stirring some"
+    },
+    {
+      "start": 1432.4,
+      "dur": 1.59,
+      "text": "generated film might be stirring some sort of interest. What What do you"
+    },
+    {
+      "start": 1434.0,
+      "dur": 1.35,
+      "text": "sort of interest. What What do you think, Stephanie?"
+    },
+    {
+      "start": 1435.36,
+      "dur": 1.91,
+      "text": "think, Stephanie? &gt;&gt; I mean, this is the black box. Who knows"
+    },
+    {
+      "start": 1437.28,
+      "dur": 1.91,
+      "text": "&gt;&gt; I mean, this is the black box. Who knows how it works. No, I'm just teasing. I"
+    },
+    {
+      "start": 1439.2,
+      "dur": 2.55,
+      "text": "how it works. No, I'm just teasing. I think it may also depend on the colors."
+    },
+    {
+      "start": 1441.76,
+      "dur": 1.51,
+      "text": "think it may also depend on the colors. &gt;&gt; We should be asking the scientists. I"
+    },
+    {
+      "start": 1443.28,
+      "dur": 2.389,
+      "text": "&gt;&gt; We should be asking the scientists. I mean, we should be asking,"
+    },
+    {
+      "start": 1445.679,
+      "dur": 1.911,
+      "text": "mean, we should be asking, &gt;&gt; she may have even studied this. Have you"
+    },
+    {
+      "start": 1447.6,
+      "dur": 2.23,
+      "text": "&gt;&gt; she may have even studied this. Have you Have you studied this, Regina?"
+    },
+    {
+      "start": 1449.84,
+      "dur": 2.15,
+      "text": "Have you studied this, Regina? &gt;&gt; I did have cards, but it was before the"
+    },
+    {
+      "start": 1452.0,
+      "dur": 2.39,
+      "text": "&gt;&gt; I did have cards, but it was before the AI time. But I would tell you what"
+    },
+    {
+      "start": 1454.4,
+      "dur": 1.67,
+      "text": "AI time. But I would tell you what actually you now we're trying to"
+    },
+    {
+      "start": 1456.08,
+      "dur": 2.23,
+      "text": "actually you now we're trying to understand there is some content as you"
+    },
+    {
+      "start": 1458.32,
+      "dur": 2.15,
+      "text": "understand there is some content as you know we've seen from the letter when the"
+    },
+    {
+      "start": 1460.48,
+      "dur": 1.99,
+      "text": "know we've seen from the letter when the cats are excited and and some which is"
+    },
+    {
+      "start": 1462.48,
+      "dur": 1.91,
+      "text": "cats are excited and and some which is not and you can imagine that if we want"
+    },
+    {
+      "start": 1464.4,
+      "dur": 2.47,
+      "text": "not and you can imagine that if we want to fully automate the generation of"
+    },
+    {
+      "start": 1466.88,
+      "dur": 2.71,
+      "text": "to fully automate the generation of movies we can just have an AI system"
+    },
+    {
+      "start": 1469.6,
+      "dur": 3.11,
+      "text": "movies we can just have an AI system that you know in mass trains on the"
+    },
+    {
+      "start": 1472.72,
+      "dur": 3.11,
+      "text": "that you know in mass trains on the cards and their reactions and then"
+    },
+    {
+      "start": 1475.84,
+      "dur": 2.55,
+      "text": "cards and their reactions and then creates a customized content which would"
+    },
+    {
+      "start": 1478.4,
+      "dur": 3.43,
+      "text": "creates a customized content which would really make the captivated for hours. It"
+    },
+    {
+      "start": 1481.84,
+      "dur": 2.709,
+      "text": "really make the captivated for hours. It may not be good for the current uh you"
+    },
+    {
+      "start": 1484.559,
+      "dur": 1.11,
+      "text": "may not be good for the current uh you know health."
+    },
+    {
+      "start": 1485.679,
+      "dur": 2.311,
+      "text": "know health. &gt;&gt; I can see why you're on the time I can"
+    },
+    {
+      "start": 1488.0,
+      "dur": 1.99,
+      "text": "&gt;&gt; I can see why you're on the time I can see why you're on the Time magazine 100"
+    },
+    {
+      "start": 1490.0,
+      "dur": 1.909,
+      "text": "see why you're on the Time magazine 100 list. Look at that."
+    },
+    {
+      "start": 1491.919,
+      "dur": 0.551,
+      "text": "list. Look at that. &gt;&gt; If anyone"
+    },
+    {
+      "start": 1492.48,
+      "dur": 1.429,
+      "text": "&gt;&gt; If anyone &gt;&gt; I'm fascinated to see what the results"
+    },
+    {
+      "start": 1493.919,
+      "dur": 2.63,
+      "text": "&gt;&gt; I'm fascinated to see what the results of this are because those two clips"
+    },
+    {
+      "start": 1496.559,
+      "dur": 1.35,
+      "text": "of this are because those two clips those two clips were completely"
+    },
+    {
+      "start": 1497.919,
+      "dur": 3.191,
+      "text": "those two clips were completely generated via prompt and I also asked"
+    },
+    {
+      "start": 1501.12,
+      "dur": 3.11,
+      "text": "generated via prompt and I also asked the model what it thought cats and dogs"
+    },
+    {
+      "start": 1504.24,
+      "dur": 2.71,
+      "text": "the model what it thought cats and dogs might want to see as well. So everything"
+    },
+    {
+      "start": 1506.96,
+      "dur": 2.069,
+      "text": "might want to see as well. So everything that we're seeing here, the the images"
+    },
+    {
+      "start": 1509.039,
+      "dur": 1.911,
+      "text": "that we're seeing here, the the images that are created, not just entirely AI"
+    },
+    {
+      "start": 1510.96,
+      "dur": 2.39,
+      "text": "that are created, not just entirely AI generated, but the the the the prompt"
+    },
+    {
+      "start": 1513.36,
+      "dur": 2.87,
+      "text": "generated, but the the the the prompt itself was basically AI generated, too."
+    },
+    {
+      "start": 1516.24,
+      "dur": 2.15,
+      "text": "itself was basically AI generated, too. &gt;&gt; Yeah. I I can't get the remote control"
+    },
+    {
+      "start": 1518.4,
+      "dur": 1.67,
+      "text": "&gt;&gt; Yeah. I I can't get the remote control in our house as it is. I'm not giving"
+    },
+    {
+      "start": 1520.08,
+      "dur": 2.31,
+      "text": "in our house as it is. I'm not giving the dog a reason to take it as well. I"
+    },
+    {
+      "start": 1522.4,
+      "dur": 1.99,
+      "text": "the dog a reason to take it as well. I mean, I never get the I'll never get the"
+    },
+    {
+      "start": 1524.4,
+      "dur": 3.03,
+      "text": "mean, I never get the I'll never get the football on. Listen, listen, that's all"
+    },
+    {
+      "start": 1527.44,
+      "dur": 2.469,
+      "text": "football on. Listen, listen, that's all we've got time for uh this week. H keep"
+    },
+    {
+      "start": 1529.919,
+      "dur": 2.87,
+      "text": "we've got time for uh this week. H keep the questions coming about cats and AI"
+    },
+    {
+      "start": 1532.799,
+      "dur": 1.75,
+      "text": "the questions coming about cats and AI if if that's where you want to go. AI"
+    },
+    {
+      "start": 1534.559,
+      "dur": 2.791,
+      "text": "if if that's where you want to go. AI decoded atbc.co. co.uk. We love hearing"
+    },
+    {
+      "start": 1537.36,
+      "dur": 2.39,
+      "text": "decoded atbc.co. co.uk. We love hearing what has grabbed your attention. Um,"
+    },
+    {
+      "start": 1539.76,
+      "dur": 1.35,
+      "text": "what has grabbed your attention. Um, thank you to Regina. Thank you to"
+    },
+    {
+      "start": 1541.12,
+      "dur": 2.23,
+      "text": "thank you to Regina. Thank you to Stephanie and Mark as ever. Hope you'll"
+    },
+    {
+      "start": 1543.36,
+      "dur": 2.71,
+      "text": "Stephanie and Mark as ever. Hope you'll join us next week for more AI Decoded."
+    },
+    {
+      "start": 1546.08,
+      "dur": 3.479,
+      "text": "join us next week for more AI Decoded. Thanks for watching."
+    }
+  ]
+}

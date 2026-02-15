@@ -1,234 +1,914 @@
 {
   "videoId": "UyaZFR5mOMk",
-  "title": "UK Prime Minister facing calls to resign over ambassador\u2019s Epstein links | BBC News",
+  "title": "UK Prime Minister facing calls to resign over ambassador’s Epstein links | BBC News",
   "publishedAt": "2026-02-09",
   "channel": "BBC News",
   "durationSeconds": 411,
   "segments": [
     {
-      "start": 0.1,
-      "dur": 8.4,
-      "text": "A day of extreme jeopardy for Secure Star over the scandal surrounding Peter Star over the scandal surrounding Peter Mandelson and his links with Jeffrey Mandelson and his links with Jeffrey Epstein is ending tonight with his"
+      "start": 0.08,
+      "dur": 2.48,
+      "text": "A day of extreme jeopardy for Secure"
     },
     {
-      "start": 8.5,
-      "dur": 8.5,
-      "text": "Epstein is ending tonight with his cabinet rallying around him and his cabinet rallying around him and his backbench MPs applauding him after he backbench MPs applauding him after he appealed to them for support in an appealed to them for support in an evening meeting in Westminster during a"
+      "start": 2.56,
+      "dur": 1.91,
+      "text": "A day of extreme jeopardy for Secure Star over the scandal surrounding Peter"
     },
     {
-      "start": 17.0,
-      "dur": 8.9,
-      "text": "evening meeting in Westminster during a frantic and roller coaster day for frantic and roller coaster day for Sakir. He faced the sudden resignation Sakir. He faced the sudden resignation of his director of communications and a of his director of communications and a public call on him to stand down by"
+      "start": 4.48,
+      "dur": 1.75,
+      "text": "Star over the scandal surrounding Peter Mandelson and his links with Jeffrey"
     },
     {
-      "start": 25.9,
-      "dur": 9.9,
-      "text": "public call on him to stand down by Labour's leader in Scotland. Labour's leader in Scotland. The fallout from the Epstein files has The fallout from the Epstein files has also prompted an unprecedented statement also prompted an unprecedented statement from Buckingham Palace in which the king"
+      "start": 6.24,
+      "dur": 2.23,
+      "text": "Mandelson and his links with Jeffrey Epstein is ending tonight with his"
     },
     {
-      "start": 35.8,
-      "dur": 8.7,
-      "text": "from Buckingham Palace in which the king makes clear his profound concern at makes clear his profound concern at allegations about his brother Andrew allegations about his brother Andrew Mountbatten Windsor and his involvement Mountbatten Windsor and his involvement with the late pedophile and says they"
+      "start": 8.48,
+      "dur": 1.91,
+      "text": "Epstein is ending tonight with his cabinet rallying around him and his"
     },
     {
-      "start": 44.5,
-      "dur": 10.1,
-      "text": "with the late pedophile and says they stand ready to support a police stand ready to support a police investigation if they're approached. investigation if they're approached. More on that in a moment. But first, More on that in a moment. But first, here's Chris Mason on a perilous day for here's Chris Mason on a perilous day for the prime minister."
+      "start": 10.4,
+      "dur": 2.47,
+      "text": "cabinet rallying around him and his backbench MPs applauding him after he"
     },
     {
-      "start": 54.6,
-      "dur": 9.5,
-      "text": "the prime minister. Tea time tonight. Tea time tonight. Is time running out for you, Prime Is time running out for you, Prime Minister? And the question of the day, Minister? And the question of the day, if Karma had ever wondered what a if Karma had ever wondered what a political near-death experience felt"
+      "start": 12.88,
+      "dur": 1.669,
+      "text": "backbench MPs applauding him after he appealed to them for support in an"
     },
     {
-      "start": 64.1,
-      "dur": 10.1,
-      "text": "political near-death experience felt like, he doesn't have to wonder anymore. like, he doesn't have to wonder anymore. He was heading to address his MPs and He was heading to address his MPs and peers in private in Parliament and was peers in private in Parliament and was greeted very warmly. The Labour Party"
+      "start": 14.559,
+      "dur": 2.391,
+      "text": "appealed to them for support in an evening meeting in Westminster during a"
     },
     {
-      "start": 74.2,
-      "dur": 9.4,
-      "text": "greeted very warmly. The Labour Party peered over the cliff edge of a peered over the cliff edge of a leadership change today and has thought leadership change today and has thought twice about it, for now at least. twice about it, for now at least. Tonight's demonstration of strength, of"
+      "start": 16.96,
+      "dur": 2.149,
+      "text": "evening meeting in Westminster during a frantic and roller coaster day for"
+    },
+    {
+      "start": 19.119,
+      "dur": 1.99,
+      "text": "frantic and roller coaster day for Sakir. He faced the sudden resignation"
+    },
+    {
+      "start": 21.119,
+      "dur": 2.31,
+      "text": "Sakir. He faced the sudden resignation of his director of communications and a"
+    },
+    {
+      "start": 23.439,
+      "dur": 2.471,
+      "text": "of his director of communications and a public call on him to stand down by"
+    },
+    {
+      "start": 25.92,
+      "dur": 3.03,
+      "text": "public call on him to stand down by Labour's leader in Scotland."
+    },
+    {
+      "start": 28.96,
+      "dur": 2.149,
+      "text": "Labour's leader in Scotland. The fallout from the Epstein files has"
+    },
+    {
+      "start": 31.119,
+      "dur": 2.311,
+      "text": "The fallout from the Epstein files has also prompted an unprecedented statement"
+    },
+    {
+      "start": 33.44,
+      "dur": 2.31,
+      "text": "also prompted an unprecedented statement from Buckingham Palace in which the king"
+    },
+    {
+      "start": 35.76,
+      "dur": 2.15,
+      "text": "from Buckingham Palace in which the king makes clear his profound concern at"
+    },
+    {
+      "start": 37.92,
+      "dur": 2.23,
+      "text": "makes clear his profound concern at allegations about his brother Andrew"
+    },
+    {
+      "start": 40.16,
+      "dur": 2.15,
+      "text": "allegations about his brother Andrew Mountbatten Windsor and his involvement"
+    },
+    {
+      "start": 42.32,
+      "dur": 2.15,
+      "text": "Mountbatten Windsor and his involvement with the late pedophile and says they"
+    },
+    {
+      "start": 44.48,
+      "dur": 1.589,
+      "text": "with the late pedophile and says they stand ready to support a police"
+    },
+    {
+      "start": 46.079,
+      "dur": 2.231,
+      "text": "stand ready to support a police investigation if they're approached."
+    },
+    {
+      "start": 48.32,
+      "dur": 1.59,
+      "text": "investigation if they're approached. More on that in a moment. But first,"
+    },
+    {
+      "start": 49.92,
+      "dur": 2.469,
+      "text": "More on that in a moment. But first, here's Chris Mason on a perilous day for"
+    },
+    {
+      "start": 52.399,
+      "dur": 2.15,
+      "text": "here's Chris Mason on a perilous day for the prime minister."
+    },
+    {
+      "start": 54.559,
+      "dur": 1.431,
+      "text": "the prime minister. &gt;&gt; Tea time tonight."
+    },
+    {
+      "start": 56.0,
+      "dur": 1.67,
+      "text": "&gt;&gt; Tea time tonight. &gt;&gt; Is time running out for you, Prime"
+    },
+    {
+      "start": 57.68,
+      "dur": 2.389,
+      "text": "&gt;&gt; Is time running out for you, Prime Minister? And the question of the day,"
+    },
+    {
+      "start": 60.079,
+      "dur": 1.99,
+      "text": "Minister? And the question of the day, if Karma had ever wondered what a"
+    },
+    {
+      "start": 62.079,
+      "dur": 1.991,
+      "text": "if Karma had ever wondered what a political near-death experience felt"
+    },
+    {
+      "start": 64.08,
+      "dur": 2.95,
+      "text": "political near-death experience felt like, he doesn't have to wonder anymore."
+    },
+    {
+      "start": 67.04,
+      "dur": 1.749,
+      "text": "like, he doesn't have to wonder anymore. He was heading to address his MPs and"
+    },
+    {
+      "start": 68.799,
+      "dur": 2.551,
+      "text": "He was heading to address his MPs and peers in private in Parliament and was"
+    },
+    {
+      "start": 71.36,
+      "dur": 2.789,
+      "text": "peers in private in Parliament and was greeted very warmly. The Labour Party"
+    },
+    {
+      "start": 74.159,
+      "dur": 1.671,
+      "text": "greeted very warmly. The Labour Party peered over the cliff edge of a"
+    },
+    {
+      "start": 75.84,
+      "dur": 2.15,
+      "text": "peered over the cliff edge of a leadership change today and has thought"
+    },
+    {
+      "start": 78.0,
+      "dur": 2.789,
+      "text": "leadership change today and has thought twice about it, for now at least."
+    },
+    {
+      "start": 80.799,
+      "dur": 2.791,
+      "text": "twice about it, for now at least. Tonight's demonstration of strength, of"
     },
     {
       "start": 83.6,
-      "dur": 9.4,
-      "text": "Tonight's demonstration of strength, of course, with friendly criticism, but course, with friendly criticism, but demonstration of strength, I hope, will demonstration of strength, I hope, will now allow Kiama to be able to pull him now allow Kiama to be able to pull him his act together, to be able to get his"
+      "dur": 2.149,
+      "text": "Tonight's demonstration of strength, of course, with friendly criticism, but"
     },
     {
-      "start": 93.0,
-      "dur": 8.7,
-      "text": "his act together, to be able to get his team together and to be able to do what team together and to be able to do what we came into government to achieve. we came into government to achieve. That's the tr the truth is, isn't it? That's the tr the truth is, isn't it? The government's teetered today, hasn't The government's teetered today, hasn't it? It's teetered on the brink. it? It's teetered on the brink. Oh, there's no question whatsoever. The"
+      "start": 85.759,
+      "dur": 2.471,
+      "text": "course, with friendly criticism, but demonstration of strength, I hope, will"
     },
     {
-      "start": 101.7,
-      "dur": 9.3,
-      "text": "Oh, there's no question whatsoever. The last few days, as Karma said himself, last few days, as Karma said himself, have been absolutely dreadful for all of have been absolutely dreadful for all of us. us. It's always difficult when we have a day It's always difficult when we have a day like this, Chris. There will always be like this, Chris. There will always be ups and downs, but the fundamental"
+      "start": 88.24,
+      "dur": 2.95,
+      "text": "demonstration of strength, I hope, will now allow Kiama to be able to pull him"
     },
     {
-      "start": 111.0,
-      "dur": 8.5,
-      "text": "ups and downs, but the fundamental mission of this Labor government is not mission of this Labor government is not changed. Cutting the cost of living, changed. Cutting the cost of living, cutting NHS waiting lists, making sure cutting NHS waiting lists, making sure we're focused on changing the country"
+      "start": 91.2,
+      "dur": 1.83,
+      "text": "now allow Kiama to be able to pull him his act together, to be able to get his"
     },
     {
-      "start": 119.5,
-      "dur": 8.9,
-      "text": "we're focused on changing the country like we came here to do. So, we saw this like we came here to do. So, we saw this evening a prime minister absolutely evening a prime minister absolutely focused on doing that. And we're all focused on doing that. And we're all behind in Can we be absolutely clear behind in Can we be absolutely clear tonight? This is it. You're joining a"
+      "start": 93.04,
+      "dur": 1.83,
+      "text": "his act together, to be able to get his team together and to be able to do what"
     },
     {
-      "start": 128.4,
-      "dur": 9.3,
-      "text": "tonight? This is it. You're joining a line in the sand. The these days of line in the sand. The these days of chaos, these days of mess that have been chaos, these days of mess that have been gripping the government are done, are gripping the government are done, are over, are finished. Well, I very much"
+      "start": 94.88,
+      "dur": 1.589,
+      "text": "team together and to be able to do what we came into government to achieve."
     },
     {
-      "start": 137.7,
-      "dur": 9.4,
-      "text": "over, are finished. Well, I very much hope so because there was a real well hope so because there was a real well there was a real sense of unity tonight there was a real sense of unity tonight uh amongst Labour MPs in that room that uh amongst Labour MPs in that room that we meet every week and the prime"
+      "start": 96.479,
+      "dur": 1.351,
+      "text": "we came into government to achieve. &gt;&gt; That's the tr the truth is, isn't it?"
     },
     {
-      "start": 147.1,
-      "dur": 8.8,
-      "text": "we meet every week and the prime minister spoke to them and he talked minister spoke to them and he talked about his determination and about his determination and responsibility to the British people. responsibility to the British people. A lot of this a reaction to this"
+      "start": 97.84,
+      "dur": 1.269,
+      "text": "&gt;&gt; That's the tr the truth is, isn't it? The government's teetered today, hasn't"
     },
     {
-      "start": 155.9,
-      "dur": 9.5,
-      "text": "A lot of this a reaction to this extraordinary moment in Glasgow just extraordinary moment in Glasgow just after lunchtime. The leader of Scottish after lunchtime. The leader of Scottish Labor had called a last minute news Labor had called a last minute news conference. This isn't easy and it's not"
+      "start": 99.119,
+      "dur": 1.111,
+      "text": "The government's teetered today, hasn't it? It's teetered on the brink."
     },
     {
-      "start": 165.4,
-      "dur": 9.5,
-      "text": "conference. This isn't easy and it's not without pain as I have a genuine without pain as I have a genuine friendship with Kier Starmer. But my friendship with Kier Starmer. But my first priority and my first loyalty is"
+      "start": 100.24,
+      "dur": 1.43,
+      "text": "it? It's teetered on the brink. &gt;&gt; Oh, there's no question whatsoever. The"
     },
     {
-      "start": 174.9,
-      "dur": 8.8,
-      "text": "first priority and my first loyalty is to my country, Scotland. And I am not to my country, Scotland. And I am not willing to sacrifice Scotland's NHS, our willing to sacrifice Scotland's NHS, our schools, our communities, our towns,"
+      "start": 101.68,
+      "dur": 2.15,
+      "text": "&gt;&gt; Oh, there's no question whatsoever. The last few days, as Karma said himself,"
     },
     {
-      "start": 183.7,
-      "dur": 9.3,
-      "text": "schools, our communities, our towns, cities, villages, and islands to a third cities, villages, and islands to a third decade of an SMP government. That's why decade of an SMP government. That's why the distraction needs to end. and the"
+      "start": 103.84,
+      "dur": 1.75,
+      "text": "last few days, as Karma said himself, have been absolutely dreadful for all of"
     },
     {
-      "start": 193.0,
-      "dur": 8.1,
-      "text": "the distraction needs to end. and the leadership in Downing Street has to leadership in Downing Street has to change. change. News of this huge intervention soon News of this huge intervention soon reached Downing Street. So, was it time"
+      "start": 105.6,
+      "dur": 0.39,
+      "text": "have been absolutely dreadful for all of us."
     },
     {
-      "start": 201.1,
-      "dur": 10.0,
-      "text": "reached Downing Street. So, was it time Kama resigned? Kama resigned? Waited 14 years to get here. Waited 14 years to get here. With a jab of his finger, the prime With a jab of his finger, the prime minister's deputy defended his boss and"
+      "start": 106.0,
+      "dur": 1.59,
+      "text": "us. &gt;&gt; It's always difficult when we have a day"
     },
     {
-      "start": 211.1,
-      "dur": 9.5,
-      "text": "minister's deputy defended his boss and the rest of the cabinet and others soon the rest of the cabinet and others soon followed suit with a stream of social followed suit with a stream of social media posts supporting him."
+      "start": 107.6,
+      "dur": 1.35,
+      "text": "&gt;&gt; It's always difficult when we have a day like this, Chris. There will always be"
     },
     {
-      "start": 220.6,
-      "dur": 9.4,
-      "text": "media posts supporting him. There had been yet more chaos earlier. There had been yet more chaos earlier. This man, the prime minister's director This man, the prime minister's director of communications, Tim Allen, packed it of communications, Tim Allen, packed it in after Saki's chief of staff, left"
+      "start": 108.96,
+      "dur": 2.07,
+      "text": "like this, Chris. There will always be ups and downs, but the fundamental"
+    },
+    {
+      "start": 111.04,
+      "dur": 2.23,
+      "text": "ups and downs, but the fundamental mission of this Labor government is not"
+    },
+    {
+      "start": 113.28,
+      "dur": 2.23,
+      "text": "mission of this Labor government is not changed. Cutting the cost of living,"
+    },
+    {
+      "start": 115.52,
+      "dur": 2.31,
+      "text": "changed. Cutting the cost of living, cutting NHS waiting lists, making sure"
+    },
+    {
+      "start": 117.84,
+      "dur": 1.67,
+      "text": "cutting NHS waiting lists, making sure we're focused on changing the country"
+    },
+    {
+      "start": 119.52,
+      "dur": 2.15,
+      "text": "we're focused on changing the country like we came here to do. So, we saw this"
+    },
+    {
+      "start": 121.68,
+      "dur": 1.749,
+      "text": "like we came here to do. So, we saw this evening a prime minister absolutely"
+    },
+    {
+      "start": 123.439,
+      "dur": 1.67,
+      "text": "evening a prime minister absolutely focused on doing that. And we're all"
+    },
+    {
+      "start": 125.119,
+      "dur": 1.511,
+      "text": "focused on doing that. And we're all behind in Can we be absolutely clear"
+    },
+    {
+      "start": 126.64,
+      "dur": 1.749,
+      "text": "behind in Can we be absolutely clear tonight? This is it. You're joining a"
+    },
+    {
+      "start": 128.399,
+      "dur": 2.63,
+      "text": "tonight? This is it. You're joining a line in the sand. The these days of"
+    },
+    {
+      "start": 131.039,
+      "dur": 2.55,
+      "text": "line in the sand. The these days of chaos, these days of mess that have been"
+    },
+    {
+      "start": 133.599,
+      "dur": 1.751,
+      "text": "chaos, these days of mess that have been gripping the government are done, are"
+    },
+    {
+      "start": 135.36,
+      "dur": 2.31,
+      "text": "gripping the government are done, are over, are finished. Well, I very much"
+    },
+    {
+      "start": 137.68,
+      "dur": 1.99,
+      "text": "over, are finished. Well, I very much hope so because there was a real well"
+    },
+    {
+      "start": 139.68,
+      "dur": 3.189,
+      "text": "hope so because there was a real well there was a real sense of unity tonight"
+    },
+    {
+      "start": 142.879,
+      "dur": 2.71,
+      "text": "there was a real sense of unity tonight uh amongst Labour MPs in that room that"
+    },
+    {
+      "start": 145.599,
+      "dur": 1.511,
+      "text": "uh amongst Labour MPs in that room that we meet every week and the prime"
+    },
+    {
+      "start": 147.12,
+      "dur": 2.39,
+      "text": "we meet every week and the prime minister spoke to them and he talked"
+    },
+    {
+      "start": 149.52,
+      "dur": 2.069,
+      "text": "minister spoke to them and he talked about his determination and"
+    },
+    {
+      "start": 151.599,
+      "dur": 2.311,
+      "text": "about his determination and responsibility to the British people."
+    },
+    {
+      "start": 153.92,
+      "dur": 1.99,
+      "text": "responsibility to the British people. &gt;&gt; A lot of this a reaction to this"
+    },
+    {
+      "start": 155.92,
+      "dur": 2.07,
+      "text": "&gt;&gt; A lot of this a reaction to this extraordinary moment in Glasgow just"
+    },
+    {
+      "start": 158.0,
+      "dur": 2.47,
+      "text": "extraordinary moment in Glasgow just after lunchtime. The leader of Scottish"
+    },
+    {
+      "start": 160.48,
+      "dur": 1.99,
+      "text": "after lunchtime. The leader of Scottish Labor had called a last minute news"
+    },
+    {
+      "start": 162.48,
+      "dur": 2.95,
+      "text": "Labor had called a last minute news conference. This isn't easy and it's not"
+    },
+    {
+      "start": 165.44,
+      "dur": 2.789,
+      "text": "conference. This isn't easy and it's not without pain as I have a genuine"
+    },
+    {
+      "start": 168.239,
+      "dur": 3.27,
+      "text": "without pain as I have a genuine friendship with Kier Starmer. But my"
+    },
+    {
+      "start": 171.519,
+      "dur": 3.35,
+      "text": "friendship with Kier Starmer. But my first priority and my first loyalty is"
+    },
+    {
+      "start": 174.879,
+      "dur": 3.271,
+      "text": "first priority and my first loyalty is to my country, Scotland. And I am not"
+    },
+    {
+      "start": 178.16,
+      "dur": 3.27,
+      "text": "to my country, Scotland. And I am not willing to sacrifice Scotland's NHS, our"
+    },
+    {
+      "start": 181.44,
+      "dur": 2.23,
+      "text": "willing to sacrifice Scotland's NHS, our schools, our communities, our towns,"
+    },
+    {
+      "start": 183.68,
+      "dur": 2.71,
+      "text": "schools, our communities, our towns, cities, villages, and islands to a third"
+    },
+    {
+      "start": 186.4,
+      "dur": 3.189,
+      "text": "cities, villages, and islands to a third decade of an SMP government. That's why"
+    },
+    {
+      "start": 189.599,
+      "dur": 3.35,
+      "text": "decade of an SMP government. That's why the distraction needs to end. and the"
+    },
+    {
+      "start": 192.959,
+      "dur": 2.791,
+      "text": "the distraction needs to end. and the leadership in Downing Street has to"
+    },
+    {
+      "start": 195.76,
+      "dur": 1.03,
+      "text": "leadership in Downing Street has to change."
+    },
+    {
+      "start": 196.8,
+      "dur": 2.149,
+      "text": "change. &gt;&gt; News of this huge intervention soon"
+    },
+    {
+      "start": 198.959,
+      "dur": 2.151,
+      "text": "&gt;&gt; News of this huge intervention soon reached Downing Street. So, was it time"
+    },
+    {
+      "start": 201.12,
+      "dur": 1.43,
+      "text": "reached Downing Street. So, was it time Kama resigned?"
+    },
+    {
+      "start": 202.56,
+      "dur": 3.27,
+      "text": "Kama resigned? &gt;&gt; Waited 14 years to get here."
+    },
+    {
+      "start": 205.84,
+      "dur": 1.91,
+      "text": "&gt;&gt; Waited 14 years to get here. &gt;&gt; With a jab of his finger, the prime"
+    },
+    {
+      "start": 207.76,
+      "dur": 3.35,
+      "text": "&gt;&gt; With a jab of his finger, the prime minister's deputy defended his boss and"
+    },
+    {
+      "start": 211.12,
+      "dur": 3.029,
+      "text": "minister's deputy defended his boss and the rest of the cabinet and others soon"
+    },
+    {
+      "start": 214.159,
+      "dur": 2.79,
+      "text": "the rest of the cabinet and others soon followed suit with a stream of social"
+    },
+    {
+      "start": 216.959,
+      "dur": 3.671,
+      "text": "followed suit with a stream of social media posts supporting him."
+    },
+    {
+      "start": 220.64,
+      "dur": 2.47,
+      "text": "media posts supporting him. There had been yet more chaos earlier."
+    },
+    {
+      "start": 223.12,
+      "dur": 1.59,
+      "text": "There had been yet more chaos earlier. This man, the prime minister's director"
+    },
+    {
+      "start": 224.72,
+      "dur": 2.31,
+      "text": "This man, the prime minister's director of communications, Tim Allen, packed it"
+    },
+    {
+      "start": 227.04,
+      "dur": 2.95,
+      "text": "of communications, Tim Allen, packed it in after Saki's chief of staff, left"
     },
     {
       "start": 230.0,
-      "dur": 8.6,
-      "text": "in after Saki's chief of staff, left yesterday. Mr. Allen's WhatsApp picture yesterday. Mr. Allen's WhatsApp picture making it very clear he was out of here. making it very clear he was out of here. Kia Starmer has lost control of his of"
+      "dur": 2.789,
+      "text": "in after Saki's chief of staff, left yesterday. Mr. Allen's WhatsApp picture"
     },
     {
-      "start": 238.6,
-      "dur": 8.1,
-      "text": "Kia Starmer has lost control of his of his government. He is in office but not his government. He is in office but not in power. He is completely at the mercy in power. He is completely at the mercy of Labor MPs who, let's be frank, have"
+      "start": 232.799,
+      "dur": 2.871,
+      "text": "yesterday. Mr. Allen's WhatsApp picture making it very clear he was out of here."
     },
     {
-      "start": 246.7,
-      "dur": 10.0,
-      "text": "of Labor MPs who, let's be frank, have not been voting uh his way since uh the not been voting uh his way since uh the the U-turn on the two child benefit cap. the U-turn on the two child benefit cap. Labour elected to bring change to the Labour elected to bring change to the country and to end the chaos we saw"
+      "start": 235.68,
+      "dur": 2.95,
+      "text": "making it very clear he was out of here. &gt;&gt; Kia Starmer has lost control of his of"
     },
     {
-      "start": 256.7,
-      "dur": 8.2,
-      "text": "country and to end the chaos we saw under the Conservatives. But Karma, I'm under the Conservatives. But Karma, I'm afraid, has failed to deliver and we afraid, has failed to deliver and we still have this daily soap opera and still have this daily soap opera and it's damaging the country. It's damaging"
+      "start": 238.64,
+      "dur": 2.55,
+      "text": "&gt;&gt; Kia Starmer has lost control of his of his government. He is in office but not"
     },
     {
-      "start": 264.9,
-      "dur": 10.9,
-      "text": "it's damaging the country. It's damaging our economy. It means things like the our economy. It means things like the health service aren't improving the way health service aren't improving the way they should. I think that he should they should. I think that he should resign and I think that he will before resign and I think that he will before very long resign. I think Anasawa"
+      "start": 241.2,
+      "dur": 3.029,
+      "text": "his government. He is in office but not in power. He is completely at the mercy"
     },
     {
-      "start": 275.8,
-      "dur": 9.0,
-      "text": "very long resign. I think Anasawa is a very big marker. I mean, how can is a very big marker. I mean, how can Labour now fight the Scottish elections Labour now fight the Scottish elections if Starmmer stays as prime minister? if Starmmer stays as prime minister? It's virtually impossible, isn't it?"
+      "start": 244.239,
+      "dur": 2.471,
+      "text": "in power. He is completely at the mercy of Labor MPs who, let's be frank, have"
+    },
+    {
+      "start": 246.72,
+      "dur": 2.95,
+      "text": "of Labor MPs who, let's be frank, have not been voting uh his way since uh the"
+    },
+    {
+      "start": 249.68,
+      "dur": 2.39,
+      "text": "not been voting uh his way since uh the the U-turn on the two child benefit cap."
+    },
+    {
+      "start": 252.08,
+      "dur": 2.31,
+      "text": "the U-turn on the two child benefit cap. &gt;&gt; Labour elected to bring change to the"
+    },
+    {
+      "start": 254.4,
+      "dur": 2.31,
+      "text": "&gt;&gt; Labour elected to bring change to the country and to end the chaos we saw"
+    },
+    {
+      "start": 256.72,
+      "dur": 1.909,
+      "text": "country and to end the chaos we saw under the Conservatives. But Karma, I'm"
+    },
+    {
+      "start": 258.639,
+      "dur": 2.471,
+      "text": "under the Conservatives. But Karma, I'm afraid, has failed to deliver and we"
+    },
+    {
+      "start": 261.12,
+      "dur": 2.15,
+      "text": "afraid, has failed to deliver and we still have this daily soap opera and"
+    },
+    {
+      "start": 263.28,
+      "dur": 1.59,
+      "text": "still have this daily soap opera and it's damaging the country. It's damaging"
+    },
+    {
+      "start": 264.88,
+      "dur": 1.83,
+      "text": "it's damaging the country. It's damaging our economy. It means things like the"
+    },
+    {
+      "start": 266.72,
+      "dur": 2.07,
+      "text": "our economy. It means things like the health service aren't improving the way"
+    },
+    {
+      "start": 268.8,
+      "dur": 1.669,
+      "text": "health service aren't improving the way they should. I think that he should"
+    },
+    {
+      "start": 270.479,
+      "dur": 2.071,
+      "text": "they should. I think that he should resign and I think that he will before"
+    },
+    {
+      "start": 272.56,
+      "dur": 3.27,
+      "text": "resign and I think that he will before very long resign. I think Anasawa"
+    },
+    {
+      "start": 275.84,
+      "dur": 2.55,
+      "text": "very long resign. I think Anasawa is a very big marker. I mean, how can"
+    },
+    {
+      "start": 278.4,
+      "dur": 2.31,
+      "text": "is a very big marker. I mean, how can Labour now fight the Scottish elections"
+    },
+    {
+      "start": 280.72,
+      "dur": 1.83,
+      "text": "Labour now fight the Scottish elections if Starmmer stays as prime minister?"
+    },
+    {
+      "start": 282.56,
+      "dur": 2.23,
+      "text": "if Starmmer stays as prime minister? It's virtually impossible, isn't it?"
     },
     {
       "start": 284.8,
-      "dur": 9.1,
-      "text": "It's virtually impossible, isn't it? The day complete and what a day. Kia The day complete and what a day. Kia Starmmer returning to Downing Street Starmmer returning to Downing Street tonight. A political survivor for now,"
+      "dur": 3.43,
+      "text": "It's virtually impossible, isn't it? &gt;&gt; The day complete and what a day. Kia"
     },
     {
-      "start": 293.9,
-      "dur": 8.1,
-      "text": "tonight. A political survivor for now, but damaged. but damaged. Chris, it feels like Sakir has been Chris, it feels like Sakir has been saved from the brink. But just how safe saved from the brink. But just how safe is he now? is he now? Well, the prime minister's future in the"
+      "start": 288.24,
+      "dur": 1.75,
+      "text": "&gt;&gt; The day complete and what a day. Kia Starmmer returning to Downing Street"
+    },
+    {
+      "start": 290.0,
+      "dur": 3.909,
+      "text": "Starmmer returning to Downing Street tonight. A political survivor for now,"
+    },
+    {
+      "start": 293.919,
+      "dur": 1.591,
+      "text": "tonight. A political survivor for now, but damaged."
+    },
+    {
+      "start": 295.52,
+      "dur": 2.07,
+      "text": "but damaged. &gt;&gt; Chris, it feels like Sakir has been"
+    },
+    {
+      "start": 297.6,
+      "dur": 2.23,
+      "text": "&gt;&gt; Chris, it feels like Sakir has been saved from the brink. But just how safe"
+    },
+    {
+      "start": 299.84,
+      "dur": 0.71,
+      "text": "saved from the brink. But just how safe is he now?"
+    },
+    {
+      "start": 300.56,
+      "dur": 1.43,
+      "text": "is he now? &gt;&gt; Well, the prime minister's future in the"
     },
     {
       "start": 302.0,
-      "dur": 10.7,
-      "text": "Well, the prime minister's future in the Jawita looked bleak at breakfast time. Jawita looked bleak at breakfast time. It looked dire shortly after lunchtime It looked dire shortly after lunchtime with Anaf Sawa's uh intervention. But with Anaf Sawa's uh intervention. But that was then the pivot point of the"
+      "dur": 2.71,
+      "text": "&gt;&gt; Well, the prime minister's future in the Jawita looked bleak at breakfast time."
     },
     {
-      "start": 312.7,
-      "dur": 10.6,
-      "text": "that was then the pivot point of the whole day. Had others significant whole day. Had others significant figures within the party followed the figures within the party followed the lead of Mr. Sawa, we could be in a very lead of Mr. Sawa, we could be in a very very different place tonight. it could"
+      "start": 304.72,
+      "dur": 2.309,
+      "text": "Jawita looked bleak at breakfast time. It looked dire shortly after lunchtime"
     },
     {
-      "start": 323.3,
-      "dur": 8.3,
-      "text": "very different place tonight. it could have fast forwarded the prime minister's have fast forwarded the prime minister's resignation even as soon as today. That resignation even as soon as today. That did not happen. The opposite happened as"
+      "start": 307.039,
+      "dur": 2.791,
+      "text": "It looked dire shortly after lunchtime with Anaf Sawa's uh intervention. But"
+    },
+    {
+      "start": 309.84,
+      "dur": 2.87,
+      "text": "with Anaf Sawa's uh intervention. But that was then the pivot point of the"
+    },
+    {
+      "start": 312.72,
+      "dur": 2.79,
+      "text": "that was then the pivot point of the whole day. Had others significant"
+    },
+    {
+      "start": 315.52,
+      "dur": 2.31,
+      "text": "whole day. Had others significant figures within the party followed the"
+    },
+    {
+      "start": 317.84,
+      "dur": 2.629,
+      "text": "figures within the party followed the lead of Mr. Sawa, we could be in a very"
+    },
+    {
+      "start": 320.479,
+      "dur": 2.791,
+      "text": "lead of Mr. Sawa, we could be in a very very different place tonight. it could"
+    },
+    {
+      "start": 323.28,
+      "dur": 2.31,
+      "text": "very different place tonight. it could have fast forwarded the prime minister's"
+    },
+    {
+      "start": 325.6,
+      "dur": 3.27,
+      "text": "have fast forwarded the prime minister's resignation even as soon as today. That"
+    },
+    {
+      "start": 328.88,
+      "dur": 2.71,
+      "text": "resignation even as soon as today. That did not happen. The opposite happened as"
     },
     {
       "start": 331.6,
-      "dur": 9.6,
-      "text": "did not happen. The opposite happened as we saw there the stream of social media we saw there the stream of social media posts from the cabinet, the supportive posts from the cabinet, the supportive mood of the vast majority uh meeting the mood of the vast majority uh meeting the prime minister in parliament tonight."
+      "dur": 2.55,
+      "text": "did not happen. The opposite happened as we saw there the stream of social media"
     },
     {
-      "start": 341.2,
-      "dur": 8.2,
-      "text": "prime minister in parliament tonight. That said, there is no doubt that the That said, there is no doubt that the last week has been deeply damaging for last week has been deeply damaging for Kia Starmmer and he is the weaker for"
+      "start": 334.16,
+      "dur": 2.15,
+      "text": "we saw there the stream of social media posts from the cabinet, the supportive"
     },
     {
-      "start": 349.4,
-      "dur": 10.4,
-      "text": "Kia Starmmer and he is the weaker for it. A couple of other strands to bring it. A couple of other strands to bring you up to date with uh tonight. Uh we you up to date with uh tonight. Uh we understand that in the next couple of understand that in the next couple of days the cabinet secretary, the days the cabinet secretary, the country's most senior civil servant country's most senior civil servant Chris Wormold will announce that he is"
+      "start": 336.32,
+      "dur": 2.63,
+      "text": "posts from the cabinet, the supportive mood of the vast majority uh meeting the"
     },
     {
-      "start": 359.8,
-      "dur": 9.4,
-      "text": "Chris Wormold will announce that he is leaving the government. Perhaps that'll leaving the government. Perhaps that'll be packaged up by the prime minister and be packaged up by the prime minister and others in the context of trying to others in the context of trying to revive their approach to government. And revive their approach to government. And also an intriguing decision from Wes"
+      "start": 338.96,
+      "dur": 2.229,
+      "text": "mood of the vast majority uh meeting the prime minister in parliament tonight."
     },
     {
-      "start": 369.2,
-      "dur": 9.8,
-      "text": "also an intriguing decision from Wes Streeting, the health secretary today. Streeting, the health secretary today. He has ambitions to become prime He has ambitions to become prime minister one day. He has decided minister one day. He has decided unilaterally to publish his WhatsApp unilaterally to publish his WhatsApp exchanges with Lord Mandlesson to try"
+      "start": 341.199,
+      "dur": 2.55,
+      "text": "prime minister in parliament tonight. That said, there is no doubt that the"
     },
     {
-      "start": 379.0,
-      "dur": 8.9,
-      "text": "exchanges with Lord Mandlesson to try and clear the decks to suggest that he and clear the decks to suggest that he has nothing to hide over his has nothing to hide over his long-standing friendship uh with uh the long-standing friendship uh with uh the uh Pierre. Now in those messages he is"
+      "start": 343.759,
+      "dur": 2.71,
+      "text": "That said, there is no doubt that the last week has been deeply damaging for"
     },
     {
-      "start": 387.9,
-      "dur": 8.3,
-      "text": "uh Pierre. Now in those messages he is not exactly entirely complimentary about not exactly entirely complimentary about the government in which he serves. It is the government in which he serves. It is a reminder of his ambition, a reminder"
+      "start": 346.479,
+      "dur": 2.951,
+      "text": "last week has been deeply damaging for Kia Starmmer and he is the weaker for"
     },
     {
-      "start": 396.2,
-      "dur": 9.6,
-      "text": "a reminder of his ambition, a reminder that there is every prospect we could that there is every prospect we could still end up in some sort of leadership still end up in some sort of leadership race at some point in the non tooistant race at some point in the non tooistant future. In other words, the consequences"
+      "start": 349.44,
+      "dur": 1.43,
+      "text": "Kia Starmmer and he is the weaker for it. A couple of other strands to bring"
     },
     {
-      "start": 405.8,
-      "dur": 6.9,
-      "text": "future. In other words, the consequences of this week and the story of this week of this week and the story of this week is far from over."
+      "start": 350.88,
+      "dur": 2.47,
+      "text": "it. A couple of other strands to bring you up to date with uh tonight. Uh we"
+    },
+    {
+      "start": 353.36,
+      "dur": 1.19,
+      "text": "you up to date with uh tonight. Uh we understand that in the next couple of"
+    },
+    {
+      "start": 354.56,
+      "dur": 1.189,
+      "text": "understand that in the next couple of days the cabinet secretary, the"
+    },
+    {
+      "start": 355.759,
+      "dur": 1.27,
+      "text": "days the cabinet secretary, the country's most senior civil servant"
+    },
+    {
+      "start": 357.039,
+      "dur": 2.791,
+      "text": "country's most senior civil servant Chris Wormold will announce that he is"
+    },
+    {
+      "start": 359.84,
+      "dur": 1.59,
+      "text": "Chris Wormold will announce that he is leaving the government. Perhaps that'll"
+    },
+    {
+      "start": 361.44,
+      "dur": 1.589,
+      "text": "leaving the government. Perhaps that'll be packaged up by the prime minister and"
+    },
+    {
+      "start": 363.039,
+      "dur": 1.831,
+      "text": "be packaged up by the prime minister and others in the context of trying to"
+    },
+    {
+      "start": 364.88,
+      "dur": 2.309,
+      "text": "others in the context of trying to revive their approach to government. And"
+    },
+    {
+      "start": 367.199,
+      "dur": 1.99,
+      "text": "revive their approach to government. And also an intriguing decision from Wes"
+    },
+    {
+      "start": 369.199,
+      "dur": 1.511,
+      "text": "also an intriguing decision from Wes Streeting, the health secretary today."
+    },
+    {
+      "start": 370.72,
+      "dur": 1.909,
+      "text": "Streeting, the health secretary today. He has ambitions to become prime"
+    },
+    {
+      "start": 372.639,
+      "dur": 1.511,
+      "text": "He has ambitions to become prime minister one day. He has decided"
+    },
+    {
+      "start": 374.16,
+      "dur": 2.55,
+      "text": "minister one day. He has decided unilaterally to publish his WhatsApp"
+    },
+    {
+      "start": 376.72,
+      "dur": 2.309,
+      "text": "unilaterally to publish his WhatsApp exchanges with Lord Mandlesson to try"
+    },
+    {
+      "start": 379.039,
+      "dur": 1.671,
+      "text": "exchanges with Lord Mandlesson to try and clear the decks to suggest that he"
+    },
+    {
+      "start": 380.72,
+      "dur": 1.589,
+      "text": "and clear the decks to suggest that he has nothing to hide over his"
+    },
+    {
+      "start": 382.319,
+      "dur": 2.71,
+      "text": "has nothing to hide over his long-standing friendship uh with uh the"
+    },
+    {
+      "start": 385.039,
+      "dur": 2.87,
+      "text": "long-standing friendship uh with uh the uh Pierre. Now in those messages he is"
+    },
+    {
+      "start": 387.919,
+      "dur": 2.71,
+      "text": "uh Pierre. Now in those messages he is not exactly entirely complimentary about"
+    },
+    {
+      "start": 390.639,
+      "dur": 2.871,
+      "text": "not exactly entirely complimentary about the government in which he serves. It is"
+    },
+    {
+      "start": 393.52,
+      "dur": 2.71,
+      "text": "the government in which he serves. It is a reminder of his ambition, a reminder"
+    },
+    {
+      "start": 396.24,
+      "dur": 1.669,
+      "text": "a reminder of his ambition, a reminder that there is every prospect we could"
+    },
+    {
+      "start": 397.919,
+      "dur": 1.99,
+      "text": "that there is every prospect we could still end up in some sort of leadership"
+    },
+    {
+      "start": 399.919,
+      "dur": 3.11,
+      "text": "still end up in some sort of leadership race at some point in the non tooistant"
+    },
+    {
+      "start": 403.039,
+      "dur": 2.71,
+      "text": "race at some point in the non tooistant future. In other words, the consequences"
+    },
+    {
+      "start": 405.759,
+      "dur": 3.751,
+      "text": "future. In other words, the consequences of this week and the story of this week"
+    },
+    {
+      "start": 409.52,
+      "dur": 3.2,
+      "text": "of this week and the story of this week is far from over."
     }
   ]
 }

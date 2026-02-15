@@ -1,120 +1,1188 @@
 {
-  "generatedAt": "2026-02-15T00:00:00Z",
-  "totalVideos": 19,
+  "generatedAt": "2026-02-15T09:32:30.375652Z",
+  "totalVideos": 197,
   "videos": [
+    {
+      "videoId": "-0qOzx3URO4",
+      "title": "One Survivor’s AI Breakthrough Predicts Cancer Years Ahead | BBC News",
+      "publishedAt": "2026-02-09",
+      "segmentCount": 624
+    },
+    {
+      "videoId": "-3IHbPNkE3k",
+      "title": "Elon Musk's SpaceX and xAI merge | BBC News",
+      "publishedAt": "2026-02-03",
+      "segmentCount": 118
+    },
+    {
+      "videoId": "-FI0Lr16kCw",
+      "title": "Blast at mosque in Pakistan's capital Islamabad kills 31, city official says | BBC News",
+      "publishedAt": "2026-02-06",
+      "segmentCount": 38
+    },
+    {
+      "videoId": "-kjpP6oNq2w",
+      "title": "Nine killed and 25 injured in shootings at school and home in Canada | BBC News",
+      "publishedAt": "2026-02-11",
+      "segmentCount": 182
+    },
     {
       "videoId": "04fpIZHFxRg",
       "title": "The UK Prime Minister faces a call to resign, but can he rally MPs and keep his job? | BBC Newscast",
       "publishedAt": "2026-02-09",
-      "segmentCount": 213
+      "segmentCount": 933
+    },
+    {
+      "videoId": "0OnjoivJDYA",
+      "title": "BBC Inside Iran: as Trump threatens “something very tough” if talks fail | BBC News",
+      "publishedAt": "2026-02-10",
+      "segmentCount": 202
     },
     {
       "videoId": "0ePoKFp96Ug",
-      "title": "Morgan McSweeney resigns as UK PM\u2019s chief of staff following Mandelson scandal | BBC News",
+      "title": "Morgan McSweeney resigns as UK PM’s chief of staff following Mandelson scandal | BBC News",
       "publishedAt": "2026-02-08",
-      "segmentCount": 89
+      "segmentCount": 346
     },
     {
-      "videoId": "7B8qi9jdyEw",
-      "title": "Why are concerns about immigration branded far right? | BBC News",
-      "publishedAt": "2025-10-03",
-      "segmentCount": 107
+      "videoId": "0mpv_teAN9Q",
+      "title": "Can US-Iran strikes be avoided? | BBC News",
+      "publishedAt": "2026-02-06",
+      "segmentCount": 268
+    },
+    {
+      "videoId": "1UhyoswBx9w",
+      "title": "How do student loans work and are the recent changes ‘reasonable and fair’?| BBC Radio 4",
+      "publishedAt": "2026-02-13",
+      "segmentCount": 256
+    },
+    {
+      "videoId": "1Zj4rDbgRwc",
+      "title": "Can smart glasses take off? | BBC News",
+      "publishedAt": "2026-02-14",
+      "segmentCount": 167
+    },
+    {
+      "videoId": "1_yYwzF2uoA",
+      "title": "TikTok closes deal with White House to split US app from global business | BBC News",
+      "publishedAt": "2026-01-23",
+      "segmentCount": 66
+    },
+    {
+      "videoId": "1hFX1gCrZLU",
+      "title": "How Trump's world order hangs over Europe | Global News Podcast",
+      "publishedAt": "2026-02-11",
+      "segmentCount": 271
+    },
+    {
+      "videoId": "1hyNfGPD2zM",
+      "title": "What is ICE doing on America's streets? | Global News Podcast",
+      "publishedAt": "2026-01-27",
+      "segmentCount": 278
+    },
+    {
+      "videoId": "2NxvH2anPrk",
+      "title": "Should we ban social media for under 16s? | BBC Question Time",
+      "publishedAt": "2026-01-30",
+      "segmentCount": 289
+    },
+    {
+      "videoId": "37rLFjgS95M",
+      "title": "US wants Russia and Ukraine to end war by June, says Volodymyr Zelensky | BBC News",
+      "publishedAt": "2026-02-07",
+      "segmentCount": 134
+    },
+    {
+      "videoId": "3HA7by8mQtU",
+      "title": "UK PM Keir Starmer meets Chinese President Xi Jinping | BBC News",
+      "publishedAt": "2026-01-29",
+      "segmentCount": 228
+    },
+    {
+      "videoId": "3MzztPnPqWI",
+      "title": "Will Bangladesh's new leadership will be able to deliver on promises? | BBC News",
+      "publishedAt": "2026-02-13",
+      "segmentCount": 220
+    },
+    {
+      "videoId": "3VraI3ekwnY",
+      "title": "Trump Dominates Davos, Carney's Resistance & That Greenland 'Deal' | BBC News",
+      "publishedAt": "2026-01-23",
+      "segmentCount": 792
+    },
+    {
+      "videoId": "3i09KOYVesg",
+      "title": "Are ICE immigration agents acting outside the law? | BBC Americast",
+      "publishedAt": "2026-01-23",
+      "segmentCount": 869
+    },
+    {
+      "videoId": "3ll3-JHiJWk",
+      "title": "Bangladesh's biggest elections since independence | BBC News",
+      "publishedAt": "2026-02-09",
+      "segmentCount": 78
+    },
+    {
+      "videoId": "3vOwKnZUxnc",
+      "title": "Manchester United co-owner Sir Jim Ratcliffe apologises after 'colonisation' comments | BBC News",
+      "publishedAt": "2026-02-12",
+      "segmentCount": 128
+    },
+    {
+      "videoId": "4emc0CPvQ-0",
+      "title": "Israel reopens Gaza's key Rafah border crossing with Egypt | BBC News",
+      "publishedAt": "2026-02-02",
+      "segmentCount": 100
+    },
+    {
+      "videoId": "5-_X6cewItQ",
+      "title": "Savannah Guthrie issues new plea over mother's abduction as ransom deadline passes | BBC News",
+      "publishedAt": "2026-02-10",
+      "segmentCount": 92
+    },
+    {
+      "videoId": "592FsNMA830",
+      "title": "Trump's border tsar suggests possible drawdown in Minneapolis | BBC News",
+      "publishedAt": "2026-01-29",
+      "segmentCount": 150
+    },
+    {
+      "videoId": "5qQzK2a-y98",
+      "title": "How do you manage your child's time on social media and phones? | BBC News",
+      "publishedAt": "2026-02-05",
+      "segmentCount": 226
+    },
+    {
+      "videoId": "62G_y35nRzA",
+      "title": "Minnesota judge summons ICE chief | BBC News",
+      "publishedAt": "2026-01-27",
+      "segmentCount": 141
+    },
+    {
+      "videoId": "6kkf5_YBN8w",
+      "title": "New videos emerge from Iran as death toll continues to rise | BBC News",
+      "publishedAt": "2026-01-27",
+      "segmentCount": 356
+    },
+    {
+      "videoId": "7J1Pu1Ul2SQ",
+      "title": "President Trump has 'productive call' with Minnesota governor after shooting | BBC News",
+      "publishedAt": "2026-01-26",
+      "segmentCount": 231
+    },
+    {
+      "videoId": "7S9MZnyzKS8",
+      "title": "Will Donald Trump disrupt the midterm elections? | BBC Americast",
+      "publishedAt": "2026-02-06",
+      "segmentCount": 759
+    },
+    {
+      "videoId": "8Rljxrp47Dw",
+      "title": "Lord Mandelson being investigated by police over claims he leaked emails to Epstein | BBC News",
+      "publishedAt": "2026-02-03",
+      "segmentCount": 32
+    },
+    {
+      "videoId": "8vcGT69xM2o",
+      "title": "How are the King and the prime minister responding to the Epstein files? | BBC Newscast",
+      "publishedAt": "2026-02-06",
+      "segmentCount": 840
+    },
+    {
+      "videoId": "8vrWjaFSf8U",
+      "title": "Keir Starmer first UK prime minister to visit China since 2018 | BBC News",
+      "publishedAt": "2026-01-28",
+      "segmentCount": 130
+    },
+    {
+      "videoId": "9TCkrN16Hac",
+      "title": "Polar bears on Norwegian islands fatter and healthier despite ice loss, scientists say | BBC News",
+      "publishedAt": "2026-01-29",
+      "segmentCount": 63
+    },
+    {
+      "videoId": "9YXQnopdktY",
+      "title": "Grammys boss warns about the 'threat' of AI music | BBC News",
+      "publishedAt": "2026-02-05",
+      "segmentCount": 269
+    },
+    {
+      "videoId": "9fpYCM6C01g",
+      "title": "Marco Rubio says US and Europe 'belong together' at Munich Security Conference | BBC News",
+      "publishedAt": "2026-02-14",
+      "segmentCount": 191
+    },
+    {
+      "videoId": "A5tKjKMNmMY",
+      "title": "Can Ukraine get peace without losing land? | Global News Podcast",
+      "publishedAt": "2026-01-23",
+      "segmentCount": 257
+    },
+    {
+      "videoId": "AD9GypIUM9k",
+      "title": "Warning over prescription drugs causing impulsive behaviour | BBC News",
+      "publishedAt": "2026-02-13",
+      "segmentCount": 182
     },
     {
       "videoId": "AJPVHRwNgtQ",
       "title": "Keir Starmer holds on as UK Prime Minister, but is his job safe? | BBC Newscast",
       "publishedAt": "2026-02-10",
-      "segmentCount": 280
+      "segmentCount": 1211
     },
     {
-      "videoId": "BASNGHKO3Qw",
-      "title": "UK and France unveil new 'one in, one out' migrant deal | BBC News",
-      "publishedAt": "2025-07-10",
-      "segmentCount": 68
+      "videoId": "ALd_hjMiT9Y",
+      "title": "Why are the police investigating Peter Mandelson after the release of Epstein files? | BBC Newscast",
+      "publishedAt": "2026-02-04",
+      "segmentCount": 1106
+    },
+    {
+      "videoId": "APBWRcJ5RLg",
+      "title": "Keir Starmer apologises for hiring Mandelson, but can he survive as prime minister? | BBC Newscast",
+      "publishedAt": "2026-02-06",
+      "segmentCount": 1002
+    },
+    {
+      "videoId": "AWMFT7DXRsY",
+      "title": "Hong Kong court jails media tycoon and British citizen Jimmy Lai | BBC News",
+      "publishedAt": "2026-02-09",
+      "segmentCount": 169
+    },
+    {
+      "videoId": "B49bLWfvLJE",
+      "title": "Russia launches ballistic missile attack on Ukraine | BBC News",
+      "publishedAt": "2026-02-12",
+      "segmentCount": 161
+    },
+    {
+      "videoId": "BNoYTDgW-Ks",
+      "title": "Fury in Congress as Epstein victims accuse US Justice Dept of cover-up | BBC News",
+      "publishedAt": "2026-02-11",
+      "segmentCount": 224
+    },
+    {
+      "videoId": "BY11cl7ZrC0",
+      "title": "Donald Trump backtracks on using force over Greenland and drops new tariffs on allies | BBC News",
+      "publishedAt": "2026-01-21",
+      "segmentCount": 391
     },
     {
       "videoId": "BsLH-Xfe1tM",
-      "title": "Is Keir Starmer now a 'lame duck' Prime Minister?\u00a0| BBC Question Time",
+      "title": "Is Keir Starmer now a 'lame duck' Prime Minister? | BBC Question Time",
       "publishedAt": "2026-02-13",
-      "segmentCount": 111
+      "segmentCount": 490
     },
     {
-      "videoId": "FElXfOQEOyY",
-      "title": "What\u2019s in the UK government\u2019s new illegal immigration plan? | BBC Newscast",
-      "publishedAt": "2025-11-16",
-      "segmentCount": 207
+      "videoId": "C4uELLwkXGs",
+      "title": "Funeral held in Israel for last hostage retrieved from Gaza | BBC News",
+      "publishedAt": "2026-01-28",
+      "segmentCount": 71
+    },
+    {
+      "videoId": "C7tYH57_-Mk",
+      "title": "At least 14 dead as winter storm sweeps across US | BBC News",
+      "publishedAt": "2026-01-26",
+      "segmentCount": 86
+    },
+    {
+      "videoId": "CJ1RL7xFUWM",
+      "title": "Why is there a TikTok censorship debate? | The Global Story Podcast",
+      "publishedAt": "2026-01-29",
+      "segmentCount": 737
+    },
+    {
+      "videoId": "CqLtsA83LDc",
+      "title": "What happened on the UK Prime Minister's trip to China? | BBC Newscast",
+      "publishedAt": "2026-01-30",
+      "segmentCount": 869
+    },
+    {
+      "videoId": "DARQbBHp62c",
+      "title": "Will the US Supreme Court stand up to Trump? | BBC Americast",
+      "publishedAt": "2026-02-13",
+      "segmentCount": 770
+    },
+    {
+      "videoId": "DYpnvBcU0Cc",
+      "title": "Israel confirms it has retrieved remains of final Gaza hostage | BBC News",
+      "publishedAt": "2026-01-26",
+      "segmentCount": 119
+    },
+    {
+      "videoId": "DgvBjtjG_0M",
+      "title": "Donald Trump warns Iran 'time is running out' for nuclear deal | BBC News",
+      "publishedAt": "2026-01-28",
+      "segmentCount": 205
+    },
+    {
+      "videoId": "ERLu-7bUklc",
+      "title": "Andy Burnham seeks permission to stand in UK by-election | BBC News",
+      "publishedAt": "2026-01-24",
+      "segmentCount": 174
+    },
+    {
+      "videoId": "F-AaCMM8N-w",
+      "title": "Palestine Action wins High Court challenge against government ban | BBC News",
+      "publishedAt": "2026-02-13",
+      "segmentCount": 229
+    },
+    {
+      "videoId": "F8aZS2sPQY8",
+      "title": "Has Trump backed down on Greenland? | Global News Podcast",
+      "publishedAt": "2026-01-22",
+      "segmentCount": 227
+    },
+    {
+      "videoId": "FZKLbKZUyq4",
+      "title": "Ghislaine Maxwell refuses to answer questions about Epstein in congressional hearing | BBC News",
+      "publishedAt": "2026-02-10",
+      "segmentCount": 153
+    },
+    {
+      "videoId": "Fm7DZlL5FOM",
+      "title": "Can Trump really save the midterms for the Republicans? | BBC Americast",
+      "publishedAt": "2026-01-31",
+      "segmentCount": 862
+    },
+    {
+      "videoId": "G3NyCf-A1fc",
+      "title": "Russia resumes attacks on Ukraine, killing four in central Cherkasy region | BBC News",
+      "publishedAt": "2026-02-02",
+      "segmentCount": 88
+    },
+    {
+      "videoId": "G_j2jPssr_E",
+      "title": "Why has Labour blocked Andy Burnham? | BBC Newscast",
+      "publishedAt": "2026-01-25",
+      "segmentCount": 729
+    },
+    {
+      "videoId": "Gbe2Kxg-KjQ",
+      "title": "Many thousands confirmed killed in recent Iran protests | BBC News",
+      "publishedAt": "2026-01-27",
+      "segmentCount": 140
+    },
+    {
+      "videoId": "H-ZzXK0ObNw",
+      "title": "UK holds off joining Trump's Board of Peace over Putin concerns | BBC News",
+      "publishedAt": "2026-01-22",
+      "segmentCount": 419
+    },
+    {
+      "videoId": "H2CCtOdopRo",
+      "title": "Epstein survivors call for release of remaining files | BBC News",
+      "publishedAt": "2026-02-09",
+      "segmentCount": 61
     },
     {
       "videoId": "HPojscAIbQE",
       "title": "Zelensky: European unity is 'best weapon' against Russia | BBC News",
       "publishedAt": "2026-02-14",
-      "segmentCount": 99
+      "segmentCount": 375
+    },
+    {
+      "videoId": "Hm53obdtPyI",
+      "title": "Donald Trump’s claims about Nato troops in Afghanistan criticised | BBC News",
+      "publishedAt": "2026-01-23",
+      "segmentCount": 122
+    },
+    {
+      "videoId": "IL3xwDPv3oA",
+      "title": "BBC exposes China's spy-cam porn industry | BBC News",
+      "publishedAt": "2026-02-06",
+      "segmentCount": 88
+    },
+    {
+      "videoId": "ILbFvTU6sFA",
+      "title": "Mum says university 'failed' son who took his own life after grade error | BBC Radio 4 World At One",
+      "publishedAt": "2026-01-28",
+      "segmentCount": 125
+    },
+    {
+      "videoId": "IZQERK8CH0g",
+      "title": "Ukraine and Russia resume peace talks in Abu Dhabi | BBC News",
+      "publishedAt": "2026-02-04",
+      "segmentCount": 87
+    },
+    {
+      "videoId": "IqPIXgAXRV0",
+      "title": "Catherine O'Hara, star of Schitt's Creek and Home Alone, dies aged 71 | BBC News",
+      "publishedAt": "2026-01-30",
+      "segmentCount": 118
+    },
+    {
+      "videoId": "J5qZa4cNm34",
+      "title": "Syria's only female minister: 'I'm not here for window dressing' | BBC News",
+      "publishedAt": "2026-02-02",
+      "segmentCount": 160
+    },
+    {
+      "videoId": "JiUoqt4cMrU",
+      "title": "Ukraine President Zelensky criticises Europe for avoiding \"action\" | BBC News",
+      "publishedAt": "2026-01-22",
+      "segmentCount": 73
+    },
+    {
+      "videoId": "KACKbPWEGo4",
+      "title": "The fallout and impact of the Epstein files | BBC News",
+      "publishedAt": "2026-02-06",
+      "segmentCount": 712
+    },
+    {
+      "videoId": "LKKpnoS12xY",
+      "title": "Jeffrey Epstein survivor calls on Buckingham Palace to search Andrew's files | BBC News",
+      "publishedAt": "2026-02-13",
+      "segmentCount": 77
     },
     {
       "videoId": "LZnjXjqE9-w",
       "title": "UK Prime Minister Keir Starmer's moment of peril | BBC News",
       "publishedAt": "2026-02-10",
-      "segmentCount": 62
+      "segmentCount": 254
+    },
+    {
+      "videoId": "LgPQtGMUXAc",
+      "title": "How Canada’s Carney is taking on Trump | The Global Story Podcast",
+      "publishedAt": "2026-01-22",
+      "segmentCount": 625
+    },
+    {
+      "videoId": "LkDIaUKeq9o",
+      "title": "Victoria Derbyshire on her Gisele Pelicot interview | BBC Newscast",
+      "publishedAt": "2026-02-14",
+      "segmentCount": 715
+    },
+    {
+      "videoId": "Lz5moT15ZgI",
+      "title": "What could the future of cars look like? | BBC News",
+      "publishedAt": "2026-01-24",
+      "segmentCount": 106
+    },
+    {
+      "videoId": "Lzcgmozuj8U",
+      "title": "EU leaders held emergency summit in Brussels to discuss Greenland | BBC News",
+      "publishedAt": "2026-01-23",
+      "segmentCount": 108
+    },
+    {
+      "videoId": "M2ZGmwGpl7c",
+      "title": "Wuthering Heights release brings hype to Brontë hometown | BBC News",
+      "publishedAt": "2026-02-11",
+      "segmentCount": 106
     },
     {
       "videoId": "M40NdaTnMqk",
       "title": "Trump revokes landmark ruling that greenhouse gases endanger public health | BBC News",
       "publishedAt": "2026-02-13",
-      "segmentCount": 41
+      "segmentCount": 167
     },
     {
-      "videoId": "Mi9qiOe4ezI",
-      "title": "UK net migration down 80% from its peak in 2023 | BBC News",
-      "publishedAt": "2025-11-27",
-      "segmentCount": 31
+      "videoId": "MOMXJvbCEtk",
+      "title": "Analysing the Minneapolis shooting of Alex Pretti | BBC News",
+      "publishedAt": "2026-01-28",
+      "segmentCount": 228
+    },
+    {
+      "videoId": "NI3YNirJ6oM",
+      "title": "Buckingham Palace 'stands ready to support' police in Andrew inquiries | BBC News",
+      "publishedAt": "2026-02-09",
+      "segmentCount": 131
+    },
+    {
+      "videoId": "O39QDgNwRGQ",
+      "title": "BBC in Tehran for first time since Iranian protest crackdown | BBC News",
+      "publishedAt": "2026-02-10",
+      "segmentCount": 145
+    },
+    {
+      "videoId": "ON4Uv4XEsso",
+      "title": "How Bad Bunny became a political flashpoint | The Global Story",
+      "publishedAt": "2026-02-05",
+      "segmentCount": 615
+    },
+    {
+      "videoId": "PiYm_U9sMaI",
+      "title": "Rallies for Iran's revolution overshadowed by discontent and defiance | BBC News",
+      "publishedAt": "2026-02-12",
+      "segmentCount": 74
+    },
+    {
+      "videoId": "PkQV57duWOU",
+      "title": "Politicians react as Trump claims Nato troops avoided front lines | BBC Question Time",
+      "publishedAt": "2026-01-23",
+      "segmentCount": 389
+    },
+    {
+      "videoId": "Q2ztueoyrdY",
+      "title": "Venezuela approves bill to open up oil sector | BBC News",
+      "publishedAt": "2026-01-30",
+      "segmentCount": 94
+    },
+    {
+      "videoId": "RQKJ9hM16Cs",
+      "title": "Andrea Bocelli on being asked to perform at the Winter Olympics | BBC News",
+      "publishedAt": "2026-02-06",
+      "segmentCount": 124
+    },
+    {
+      "videoId": "RTvwzusKXPo",
+      "title": "How drilling the 'Doomsday Glacier' could save our cities from climate crisis | Global News Podcast",
+      "publishedAt": "2026-01-29",
+      "segmentCount": 327
+    },
+    {
+      "videoId": "RYPp71uA4iE",
+      "title": "Badenoch says Tory defectors to Reform are 'drama queens' having a 'tantrum' | BBC Newscast",
+      "publishedAt": "2026-01-28",
+      "segmentCount": 705
+    },
+    {
+      "videoId": "SiI-XYxMzsA",
+      "title": "India and EU announce landmark trade deal | BBC News",
+      "publishedAt": "2026-01-27",
+      "segmentCount": 108
+    },
+    {
+      "videoId": "SsLH-AAS6eg",
+      "title": "Republican senators join calls for fuller investigation into Minneapolis killing | BBC News",
+      "publishedAt": "2026-01-26",
+      "segmentCount": 164
+    },
+    {
+      "videoId": "T-kiZ_K1XtY",
+      "title": "Row over US President Trump’s claims about Nato troops | BBC News",
+      "publishedAt": "2026-01-24",
+      "segmentCount": 109
+    },
+    {
+      "videoId": "TJmN9TdsGio",
+      "title": "'I gave my last 46p': Young people say they felt pressured by church to donate | BBC News",
+      "publishedAt": "2026-01-23",
+      "segmentCount": 269
+    },
+    {
+      "videoId": "UMn73tz0o_0",
+      "title": "Were some student loans mis-sold to students? | BBC Question Time",
+      "publishedAt": "2026-02-06",
+      "segmentCount": 446
+    },
+    {
+      "videoId": "Ut3zbcX-OsY",
+      "title": "What does China get out of the UK prime minister's visit? | BBC Newscast",
+      "publishedAt": "2026-01-29",
+      "segmentCount": 986
     },
     {
       "videoId": "UyaZFR5mOMk",
-      "title": "UK Prime Minister facing calls to resign over ambassador\u2019s Epstein links | BBC News",
+      "title": "UK Prime Minister facing calls to resign over ambassador’s Epstein links | BBC News",
       "publishedAt": "2026-02-09",
-      "segmentCount": 45
+      "segmentCount": 181
     },
     {
-      "videoId": "XFH8aGBjA6U",
-      "title": "UK home secretary announces some migrants will face 20 year wait for settled status | BBC News",
-      "publishedAt": "2025-11-20",
-      "segmentCount": 40
+      "videoId": "VVxWjX9MyQQ",
+      "title": "Social media firms face landmark trial in US | BBC News",
+      "publishedAt": "2026-01-27",
+      "segmentCount": 73
+    },
+    {
+      "videoId": "VX3XJ972-vM",
+      "title": "Donald Trump says it would be 'dangerous' for UK to do any more deals with China | BBC News",
+      "publishedAt": "2026-01-30",
+      "segmentCount": 226
+    },
+    {
+      "videoId": "VZzsaqC8n_U",
+      "title": "Our Man in Moscow: Inside Putin's Russia | BBC Panorama",
+      "publishedAt": "2026-02-11",
+      "segmentCount": 1034
+    },
+    {
+      "videoId": "VwY3CF3F7l4",
+      "title": "Reopening Gaza's 'gateway to the world' | Global News Podcast",
+      "publishedAt": "2026-02-02",
+      "segmentCount": 243
+    },
+    {
+      "videoId": "WLQI-zeGbdY",
+      "title": "US news anchor Savannah Guthrie pleads for return of her abducted mother | BBC News",
+      "publishedAt": "2026-02-05",
+      "segmentCount": 48
+    },
+    {
+      "videoId": "WLowWt10vVU",
+      "title": "William and Catherine give first statement on Epstein revelations | BBC News",
+      "publishedAt": "2026-02-09",
+      "segmentCount": 208
+    },
+    {
+      "videoId": "WT50j3LijyQ",
+      "title": "Police searching two properties linked to Peter Mandelson over Epstein investigation | BBC News",
+      "publishedAt": "2026-02-06",
+      "segmentCount": 318
+    },
+    {
+      "videoId": "Ws3RoRkPUHw",
+      "title": "UK PM Keir Starmer believes Mandelson should leave Lords over Epstein links | BBC News",
+      "publishedAt": "2026-02-02",
+      "segmentCount": 480
     },
     {
       "videoId": "XIvoJsaBpIc",
       "title": "How did Keir Starmer survive the week? | BBC News",
       "publishedAt": "2026-02-13",
-      "segmentCount": 182
+      "segmentCount": 824
+    },
+    {
+      "videoId": "XNQ8Jct7ono",
+      "title": "Ukraine, Russia and US peace talks continue as Moscow renews strikes on Kyiv | BBC News",
+      "publishedAt": "2026-02-05",
+      "segmentCount": 107
+    },
+    {
+      "videoId": "Xj5R-1eAB-A",
+      "title": "Islamic State says it carried out Islamabad mosque attack, killing 32 people | BBC News",
+      "publishedAt": "2026-02-07",
+      "segmentCount": 35
+    },
+    {
+      "videoId": "XtY7eJVrgOQ",
+      "title": "Are Hong Kong's dreams of democracy dead? | BBC News",
+      "publishedAt": "2026-02-09",
+      "segmentCount": 272
+    },
+    {
+      "videoId": "Y5iaL6VSfkk",
+      "title": "Netanyahu and Trump meet as Iran nuclear talks reach critical stage | BBC News",
+      "publishedAt": "2026-02-11",
+      "segmentCount": 96
+    },
+    {
+      "videoId": "YDsNeLPuqvQ",
+      "title": "Winter Olympics: Can tech boost performance? | BBC News",
+      "publishedAt": "2026-02-07",
+      "segmentCount": 167
+    },
+    {
+      "videoId": "Yk_p-vZWvBw",
+      "title": "Second Epstein victim claims she was sent to UK for sex with Andrew | BBC News",
+      "publishedAt": "2026-02-01",
+      "segmentCount": 202
+    },
+    {
+      "videoId": "Yn5KSyuzALU",
+      "title": "New Andrew emails to Epstein appear to pass on confidential investment information | BBC News",
+      "publishedAt": "2026-02-08",
+      "segmentCount": 54
+    },
+    {
+      "videoId": "Z0KXYqPyZQY",
+      "title": "Could China cutting CO2 be good news for the planet? | Global News Podcast",
+      "publishedAt": "2026-02-12",
+      "segmentCount": 283
+    },
+    {
+      "videoId": "ZFOv-ni-TyQ",
+      "title": "Iran approves start of nuclear talks with US | BBC News",
+      "publishedAt": "2026-02-03",
+      "segmentCount": 166
+    },
+    {
+      "videoId": "ZOBVy8DOCY0",
+      "title": "Marius Borg Høiby, son of Norway's crown princess, denies rape as trial begins | BBC News",
+      "publishedAt": "2026-02-03",
+      "segmentCount": 90
     },
     {
       "videoId": "ZOlktUrAg0k",
       "title": "Russia killed Alexei Navalny using dart frog toxin, UK says | BBC News",
       "publishedAt": "2026-02-14",
-      "segmentCount": 28
+      "segmentCount": 114
+    },
+    {
+      "videoId": "ZZqP2qfrxuc",
+      "title": "US Border Patrol chief and some agents to leave Minneapolis after shooting | BBC News",
+      "publishedAt": "2026-01-27",
+      "segmentCount": 235
+    },
+    {
+      "videoId": "_8lYsxTqidE",
+      "title": "Inside Yemen's UAE-run secret prisons | BBC News",
+      "publishedAt": "2026-01-23",
+      "segmentCount": 58
+    },
+    {
+      "videoId": "_PN1kOYVzkY",
+      "title": "Russia hits Ukraine energy sites in 'most powerful blow' so far this year | BBC News",
+      "publishedAt": "2026-02-03",
+      "segmentCount": 88
+    },
+    {
+      "videoId": "_TwbUBoxV5M",
+      "title": "Bangladesh Nationalist Party wins majority in first election since Gen Z uprising | BBC News",
+      "publishedAt": "2026-02-13",
+      "segmentCount": 191
+    },
+    {
+      "videoId": "a4eUNn_YtJE",
+      "title": "Inside Gaza hospital struggling to provide care to newborn babies | BBC News",
+      "publishedAt": "2026-02-05",
+      "segmentCount": 113
+    },
+    {
+      "videoId": "aCA4tMAYPIU",
+      "title": "Is Trump's 'Armada' going to attack Iran? | Global News Podcast",
+      "publishedAt": "2026-01-27",
+      "segmentCount": 289
+    },
+    {
+      "videoId": "aKCVr033mQ8",
+      "title": "US aid cuts hit South Africa's HIV programmes | BBC News",
+      "publishedAt": "2026-02-06",
+      "segmentCount": 76
+    },
+    {
+      "videoId": "b5a2O8LsUqA",
+      "title": "US and Iran talks to begin as fears of direct conflict continue | BBC News",
+      "publishedAt": "2026-02-06",
+      "segmentCount": 101
+    },
+    {
+      "videoId": "bALbBkpC3bc",
+      "title": "Donald Trump launches 'Board of Peace' with world leaders | BBC News",
+      "publishedAt": "2026-01-22",
+      "segmentCount": 294
+    },
+    {
+      "videoId": "bPZ8B3va84A",
+      "title": "Few Palestinians arrive in Egypt after Israel reopens Rafah crossing | BBC News",
+      "publishedAt": "2026-02-03",
+      "segmentCount": 67
+    },
+    {
+      "videoId": "bqwVwZaH25U",
+      "title": "Inside The Beckham Feud | BBC News Documentary",
+      "publishedAt": "2026-01-26",
+      "segmentCount": 558
+    },
+    {
+      "videoId": "cZXHcLclurs",
+      "title": "Man shot dead by federal agents in US named as nurse Alex Pretti | BBC News",
+      "publishedAt": "2026-01-25",
+      "segmentCount": 164
+    },
+    {
+      "videoId": "crvkDLwQPvg",
+      "title": "Prince William visits Saudi Arabia | BBC News",
+      "publishedAt": "2026-02-10",
+      "segmentCount": 169
+    },
+    {
+      "videoId": "cxg078yCqmA",
+      "title": "Girls in India empowered through football | BBC News",
+      "publishedAt": "2026-02-10",
+      "segmentCount": 72
+    },
+    {
+      "videoId": "e0Hpe3ANiHM",
+      "title": "'Holocaust Memorial Day is bridging generations’ | BBC Radio 4 Today",
+      "publishedAt": "2026-01-27",
+      "segmentCount": 136
+    },
+    {
+      "videoId": "eU5XniYGbIY",
+      "title": "Donald Trump says government will 'de-escalate' in Minnesota after Pretti shooting | BBC News",
+      "publishedAt": "2026-01-28",
+      "segmentCount": 139
+    },
+    {
+      "videoId": "ff7biVdPIfo",
+      "title": "Could Cuba's government fall under Trump? | The Global Story",
+      "publishedAt": "2026-02-10",
+      "segmentCount": 550
+    },
+    {
+      "videoId": "fzGIVTMdaWI",
+      "title": "Family of man shot dead by federal agent in Minneapolis ask for 'truth' | BBC News",
+      "publishedAt": "2026-01-25",
+      "segmentCount": 121
+    },
+    {
+      "videoId": "g6TNpgQwJug",
+      "title": "Minneapolis shooting: video appears to show victim disarmed before being shot dead | BBC News",
+      "publishedAt": "2026-01-25",
+      "segmentCount": 149
+    },
+    {
+      "videoId": "gP4ki8m8EZg",
+      "title": "Nancy Guthrie’s blood found on her porch says Sheriff | BBC News",
+      "publishedAt": "2026-02-05",
+      "segmentCount": 74
     },
     {
       "videoId": "hJLI6XwDQ3A",
       "title": "Manchester United co-owner sorry language 'offended some' after immigration comments | BBC Newscast",
       "publishedAt": "2026-02-12",
-      "segmentCount": 230
+      "segmentCount": 981
     },
     {
-      "videoId": "lKZ8IgShob0",
-      "title": "UK PM Keir Starmer calls Reform\u2019s migrant plans \u2018racist and immoral\u2019 | BBC News",
-      "publishedAt": "2025-09-28",
+      "videoId": "htMp4cYfXeE",
+      "title": "Maxwell email seemingly confirms photo of Andrew with Virginia Giuffre is real | BBC News",
+      "publishedAt": "2026-02-04",
+      "segmentCount": 165
+    },
+    {
+      "videoId": "i-6tti8nkaE",
+      "title": "Mark Carney 'devastated' by Canada shooting that killed nine people | BBC News",
+      "publishedAt": "2026-02-11",
+      "segmentCount": 90
+    },
+    {
+      "videoId": "iBCSxVUrt7c",
+      "title": "Congressman Ro Khanna speaks to BBC News about Epstein Files | BBC News",
+      "publishedAt": "2026-02-11",
+      "segmentCount": 252
+    },
+    {
+      "videoId": "iCvRc_hhLeQ",
+      "title": "The US v China: critical minerals race | Global News Podcast",
+      "publishedAt": "2026-02-04",
+      "segmentCount": 215
+    },
+    {
+      "videoId": "iaQrLybP7pg",
+      "title": "What could happen if the US strikes Iran? | BBC News",
+      "publishedAt": "2026-01-30",
       "segmentCount": 177
+    },
+    {
+      "videoId": "ikRBVNw4tZU",
+      "title": "Trump warns Iran “massive armada” on way and time running out for nuclear deal | BBC News",
+      "publishedAt": "2026-01-28",
+      "segmentCount": 120
+    },
+    {
+      "videoId": "jGS4dkrVmzU",
+      "title": "Police review Mandelson misconduct claims after Epstein emails | BBC News",
+      "publishedAt": "2026-02-03",
+      "segmentCount": 109
+    },
+    {
+      "videoId": "jH3H_qdFWtc",
+      "title": "Hundreds of illegal waste tips operating in England, investigation finds | BBC News",
+      "publishedAt": "2026-01-23",
+      "segmentCount": 99
+    },
+    {
+      "videoId": "jOF0Fd7aKqk",
+      "title": "Israeli air strikes kill at least 28 Palestinians in Gaza, rescue officials say | BBC News",
+      "publishedAt": "2026-01-31",
+      "segmentCount": 84
+    },
+    {
+      "videoId": "jp4UalVlNJA",
+      "title": "Epstein files: What happens next? | Global News Podcast",
+      "publishedAt": "2026-02-03",
+      "segmentCount": 222
+    },
+    {
+      "videoId": "k2AGHU3gqDE",
+      "title": "Are weight loss jabs fuelling extreme thinness? | The Global Story",
+      "publishedAt": "2026-02-12",
+      "segmentCount": 622
+    },
+    {
+      "videoId": "kYHHg6oV8A4",
+      "title": "'Worst floods in a generation' sweep Mozambique | BBC News",
+      "publishedAt": "2026-01-29",
+      "segmentCount": 57
+    },
+    {
+      "videoId": "kf-lCiYavdA",
+      "title": "Epstein Files: New Mandelson and Andrew Allegations | BBC Newscast",
+      "publishedAt": "2026-02-02",
+      "segmentCount": 1377
+    },
+    {
+      "videoId": "kf_lvLxa8lc",
+      "title": "New photos from Epstein files appears to show Andrew on all fours over female | BBC News",
+      "publishedAt": "2026-01-31",
+      "segmentCount": 220
+    },
+    {
+      "videoId": "kpb48t7ljGQ",
+      "title": "Clintons agree to testify in US House Epstein probe | BBC News",
+      "publishedAt": "2026-02-03",
+      "segmentCount": 85
+    },
+    {
+      "videoId": "lGz0EHMzEEs",
+      "title": "Security concerns for prisons holding IS fighters | BBC News",
+      "publishedAt": "2026-01-30",
+      "segmentCount": 112
     },
     {
       "videoId": "lN3hXW4f3rg",
       "title": "What are the latest problems for UK Prime Minister Keir Starmer? | BBC Newscast",
       "publishedAt": "2026-02-12",
-      "segmentCount": 215
+      "segmentCount": 893
+    },
+    {
+      "videoId": "luM6ddNkrro",
+      "title": "Bad Bunny makes Grammy Awards history as stars protest against ICE | BBC News",
+      "publishedAt": "2026-02-02",
+      "segmentCount": 148
+    },
+    {
+      "videoId": "mJtUO6yY84Y",
+      "title": "Epstein files: UK fallout over Andrew and Mandelson | Global News Podcast",
+      "publishedAt": "2026-02-05",
+      "segmentCount": 264
+    },
+    {
+      "videoId": "mtgqmRTK0O4",
+      "title": "Ex-police chief says Trump told him in 2006 'everyone' knew of Epstein's behaviour | BBC News",
+      "publishedAt": "2026-02-11",
+      "segmentCount": 50
+    },
+    {
+      "videoId": "mw5Lp52LCcQ",
+      "title": "Donald Trump says he 'won't use force' to acquire Greenland | BBC Newscast",
+      "publishedAt": "2026-01-21",
+      "segmentCount": 720
+    },
+    {
+      "videoId": "nD3s2-bPaqQ",
+      "title": "Donald Trump launches his 'board of Peace'. But who's on it? | BBC News",
+      "publishedAt": "2026-01-22",
+      "segmentCount": 1007
+    },
+    {
+      "videoId": "nTJUcqHpHW0",
+      "title": "Russia says it will pause attacks on Kyiv until Sunday | BBC News",
+      "publishedAt": "2026-01-30",
+      "segmentCount": 131
+    },
+    {
+      "videoId": "nuQYg5yt3bM",
+      "title": "Donald Trump nominates Federal Reserve critic Kevin Warsh to run US central bank | BBC News",
+      "publishedAt": "2026-01-30",
+      "segmentCount": 129
+    },
+    {
+      "videoId": "o6D8LXGKAJU",
+      "title": "US news anchor Savannah Guthrie says ‘we will pay’ in plea for mother’s return | BBC News",
+      "publishedAt": "2026-02-08",
+      "segmentCount": 54
+    },
+    {
+      "videoId": "pEpgVQs1hSo",
+      "title": "Will Syria's ISIS camps remain secure? | BBC News",
+      "publishedAt": "2026-01-30",
+      "segmentCount": 227
+    },
+    {
+      "videoId": "pc7BVKY5zHk",
+      "title": "The US v Iran: What does war look like? | The Security Brief",
+      "publishedAt": "2026-02-02",
+      "segmentCount": 613
     },
     {
       "videoId": "q9tKaMYWxO4",
       "title": "Instagram and YouTube owners built 'addiction machines', trial hears | BBC News",
       "publishedAt": "2026-02-10",
-      "segmentCount": 29
+      "segmentCount": 105
+    },
+    {
+      "videoId": "qKWl5vvbnUI",
+      "title": "Mandelson 'betrayed our country', says UK PM | BBC News",
+      "publishedAt": "2026-02-04",
+      "segmentCount": 327
+    },
+    {
+      "videoId": "qptAvvCbHmc",
+      "title": "Biohacking: where fad meets finance? | BBC News",
+      "publishedAt": "2026-02-11",
+      "segmentCount": 81
+    },
+    {
+      "videoId": "r16uFMjq7aM",
+      "title": "We went undercover to expose the men covertly filming women on nights out | BBC News",
+      "publishedAt": "2026-02-03",
+      "segmentCount": 275
+    },
+    {
+      "videoId": "r7iImDYhURA",
+      "title": "Donald Trump says he ‘didn’t see’ part of video with racist clip depicting Obamas as apes | BBC News",
+      "publishedAt": "2026-02-07",
+      "segmentCount": 118
+    },
+    {
+      "videoId": "rKBfxp3cJ0c",
+      "title": "Ukraine condemns 'brutal' Russian strikes ahead of second day of peace talks | BBC News",
+      "publishedAt": "2026-01-24",
+      "segmentCount": 156
+    },
+    {
+      "videoId": "rR5jo9F5hNw",
+      "title": "New claim Epstein sent woman to UK to have sex with Andrew is under police review | BBC News",
+      "publishedAt": "2026-02-03",
+      "segmentCount": 88
+    },
+    {
+      "videoId": "rv5WmmVI2Fc",
+      "title": "Russian general shot several times in Moscow | BBC News",
+      "publishedAt": "2026-02-06",
+      "segmentCount": 73
+    },
+    {
+      "videoId": "rv7c0jAm_ys",
+      "title": "US President Donald Trump touts 'softer touch' on immigration | BBC News",
+      "publishedAt": "2026-02-05",
+      "segmentCount": 241
+    },
+    {
+      "videoId": "s7KY1IDEyVA",
+      "title": "Andy Burnham's bid to return as UK MP blocked | BBC News",
+      "publishedAt": "2026-01-25",
+      "segmentCount": 283
+    },
+    {
+      "videoId": "sCygTj6Cquc",
+      "title": "UK PM Keir Starmer calls Donald Trump's remarks about Nato troops 'insulting' | BBC News",
+      "publishedAt": "2026-01-23",
+      "segmentCount": 270
+    },
+    {
+      "videoId": "svVfPQtxtO4",
+      "title": "New pictures appear to show Andrew in Epstein files| BBC Newscast",
+      "publishedAt": "2026-02-01",
+      "segmentCount": 609
+    },
+    {
+      "videoId": "tDm8MCXG6z0",
+      "title": "Former prime minister says Mandelson situation is 'serious' for Keir Starmer | BBC News",
+      "publishedAt": "2026-02-08",
+      "segmentCount": 832
+    },
+    {
+      "videoId": "tf5xpZgRYUs",
+      "title": "Anatoliy Trubin on that Champions League goal, Mourinho's reaction and the Ukraine War | BBC News",
+      "publishedAt": "2026-02-10",
+      "segmentCount": 94
+    },
+    {
+      "videoId": "u8XpObQqb9c",
+      "title": "Gold hits record high as global risks drive rush to safe haven | BBC News",
+      "publishedAt": "2026-01-26",
+      "segmentCount": 70
+    },
+    {
+      "videoId": "uYlYwc1tE2Q",
+      "title": "Israel will open Gaza crossing once last hostage body returned | BBC News",
+      "publishedAt": "2026-01-26",
+      "segmentCount": 113
+    },
+    {
+      "videoId": "uiKo2ab0x3s",
+      "title": "Tackling unregulated 'shadow fleet' in Baltic | BBC News",
+      "publishedAt": "2026-02-09",
+      "segmentCount": 96
+    },
+    {
+      "videoId": "vKaETempO44",
+      "title": "BBC joins Colombia's Jungle Commandos to witness their war on drugs | BBC News",
+      "publishedAt": "2026-02-04",
+      "segmentCount": 96
+    },
+    {
+      "videoId": "vZWNm8CQkNY",
+      "title": "I will speak out on misogyny, says first woman to lead Church of England | BBC News",
+      "publishedAt": "2026-01-28",
+      "segmentCount": 185
+    },
+    {
+      "videoId": "v_s-Heu1Srw",
+      "title": "King Charles \"ready to support police\" over Andrew-Epstein allegations | BBC News",
+      "publishedAt": "2026-02-09",
+      "segmentCount": 131
+    },
+    {
+      "videoId": "vwEPBREbMAY",
+      "title": "Has Las Vegas got the taxi of the future, now? | BBC News",
+      "publishedAt": "2026-01-30",
+      "segmentCount": 130
+    },
+    {
+      "videoId": "wN44xqihChg",
+      "title": "More than three million pages from Epstein files released | BBC News",
+      "publishedAt": "2026-01-30",
+      "segmentCount": 231
+    },
+    {
+      "videoId": "wQN87YAS-aI",
+      "title": "Andy Burnham wants to be an MP, but will Labour let him? | BBC Newscast",
+      "publishedAt": "2026-01-25",
+      "segmentCount": 992
+    },
+    {
+      "videoId": "wn3yc-HFz80",
+      "title": "Next stage of Ukraine-Russia peace talks could be postponed, says Zelensky | BBC News",
+      "publishedAt": "2026-01-30",
+      "segmentCount": 83
+    },
+    {
+      "videoId": "wvmyGmKe5Oc",
+      "title": "Iran in 'serious discussions' with US as military threat looms | BBC News",
+      "publishedAt": "2026-02-01",
+      "segmentCount": 117
+    },
+    {
+      "videoId": "wy6eiXlhPF0",
+      "title": "Epstein Files: Starmer Under Pressure Over Mandelson | BBC Newscast",
+      "publishedAt": "2026-02-04",
+      "segmentCount": 1278
+    },
+    {
+      "videoId": "xibp_lWtJVU",
+      "title": "How China is 'owning the future' of global power | BBC Global News Podcast | BBC News",
+      "publishedAt": "2026-01-28",
+      "segmentCount": 282
+    },
+    {
+      "videoId": "yDI9cuu9OwE",
+      "title": "Person detained in connection to Nancy Guthrie disappearance | BBC News",
+      "publishedAt": "2026-02-11",
+      "segmentCount": 62
+    },
+    {
+      "videoId": "yGV4tnCtlIE",
+      "title": "Ex-Tory Home Secretary Suella Braverman defects to Reform | BBC Newscast",
+      "publishedAt": "2026-01-26",
+      "segmentCount": 892
+    },
+    {
+      "videoId": "yTbGpF4Auuw",
+      "title": "How popular is US President Donald Trump? | BBC News",
+      "publishedAt": "2026-01-22",
+      "segmentCount": 140
+    },
+    {
+      "videoId": "ymh0MN8EhYs",
+      "title": "Will the support package for pubs from the UK Government be enough? | BBC Newscast",
+      "publishedAt": "2026-01-27",
+      "segmentCount": 961
+    },
+    {
+      "videoId": "zSHsoh2qzdI",
+      "title": "Zelensky hopes first Ukraine, Russia and US talks are 'step towards ending war' | BBC News",
+      "publishedAt": "2026-01-23",
+      "segmentCount": 211
+    },
+    {
+      "videoId": "zU0kqiQw6i4",
+      "title": "What more is in the Epstein files, and why has Mandelson been reported to the police? | BBC Newscast",
+      "publishedAt": "2026-02-02",
+      "segmentCount": 730
     }
   ]
 }
